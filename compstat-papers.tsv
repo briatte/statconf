@@ -1,0 +1,1362 @@
+year	uid	title	author	presenter	country	affiliation
+2016	231	Predictive clustering using a component-based approach	Michio Yamamoto	1	Japan	Kyoto University
+2016	231	Predictive clustering using a component-based approach	Atsushi Kawaguchi	0	Japan	Saga University
+2016	231	Predictive clustering using a component-based approach	Heungsun Hwang	0	Canada	McGill University
+2016	234	Integrating multiple random sketches of singular value decomposition	Su-Yun Huang	1	Taiwan	Academia Sinica
+2016	261	Canonical covariance analysis for three-mode three-way data by using connector matrix	Jun Tsuchida	1	Japan	Doshisha University
+2016	261	Canonical covariance analysis for three-mode three-way data by using connector matrix	Hiroshi Yadohisa	0	Japan	Doshisha University
+2016	304	Acceleration of iterative methods for nonnegative matrix factorization	Michio Sakakihara	1	Japan	Okayama University of Science
+2016	304	Acceleration of iterative methods for nonnegative matrix factorization	Masahiro Kuroda	0	Japan	Okayama University of Science
+2016	304	Acceleration of iterative methods for nonnegative matrix factorization	Yuichi Mori	0	Japan	Okayama University of Science
+2016	304	Acceleration of iterative methods for nonnegative matrix factorization	Masaya Iizuka	0	Japan	Okayama University
+2016	227	Some mathematical notes on comprehensive factor analysis	Kohei Adachi	1	Japan	Osaka University
+2016	227	Some mathematical notes on comprehensive factor analysis	Nickolay Trendafilov	0	United Kingdom	Open University
+2016	218	Analysis of a fixed center effect additive rates model for recurrent event data	Haijin He	1	China	Shenzhen University
+2016	218	Analysis of a fixed center effect additive rates model for recurrent event data	Deng Pan	0	China	Huazhong University of Science and Technology
+2016	218	Analysis of a fixed center effect additive rates model for recurrent event data	Liang Zhu	0	United States	St Jude Childrens Research Hospital
+2016	218	Analysis of a fixed center effect additive rates model for recurrent event data	Liuquan Sun	0	China	Chinese Academy of Sciences
+2016	218	Analysis of a fixed center effect additive rates model for recurrent event data	Xinyuan Song	0	Hong Kong	Chinese University of Hong Kong
+2016	245	Analysis of proportional mean residual life model with latent variables	Xinyuan Song	1	Hong Kong	Chinese University of Hong Kong
+2016	243	Bayesian semi-parametric mixed hidden Markov models	Kai Kang	1	Hong Kong	The Chinese University of Hong Kong
+2016	244	Bayesian local influence of transformation latent variable models with multivariate censored data	Ming Ouyang	1	China	The Chinese University of HongKong
+2016	225	A relative error-based approach for variable selection	Meiling Hao	1	Hong Kong	The Hong Kong Polytechnic University
+2016	225	A relative error-based approach for variable selection	Xingqiu Zhao	0	China	The Hong Kong Polytechnic University Shenzhen Research Institute
+2016	225	A relative error-based approach for variable selection	Yuanyuan Lin	0	Hong Kong	The Chinese University of Hong Kong
+2016	578	Cluster validation: How to think and what to do	Christian Hennig	1	United Kingdom	UCL
+2016	156	Efficient computation of the minimum weighted covariance determinant estimator	Jurjen Duintjer Tebbens	1	Czech Republic	Institute of Computer Science of the Czech Academy of Sciences
+2016	156	Efficient computation of the minimum weighted covariance determinant estimator	Jan Kalina	0	Czech Republic	Faculty of Social Sciences Charles University in Prague
+2016	364	Robust estimation and moment selection in dynamic fixed-effects panel data models	Pavel Cizek	1	Netherlands	Tilburg University
+2016	364	Robust estimation and moment selection in dynamic fixed-effects panel data models	Michelle Aquaro	0	United Kingdom	University of Warwick
+2016	389	Power properties of the out-of-sample portfolio performance measures tests	Ekaterina Kazak	1	Germany	University of Konstanz
+2016	389	Power properties of the out-of-sample portfolio performance measures tests	Winfried Pohlmeier	0	Germany	University of Konstanz
+2016	430	Nonparametric permutation-based testing and ranking on multivariate time data	Livio Corain	1	Italy	University of Padova
+2016	237	Shrinkage estimation through the ridGME procedure	Pedro Macedo	1	Portugal	University of Aveiro
+2016	548	Combining structural change analysis with anomaly detection: A constrained clustering approach	Carlo Drago	1	Italy	University of Rome Niccolo Cusano
+2016	550	Capturing correlation changes by applying kernel change point detection on the running correlations	Jedelyn Cabrieto	1	Belgium	KU Leuven
+2016	550	Capturing correlation changes by applying kernel change point detection on the running correlations	Francis Tuerlinckx	0	Belgium	KU Leuven
+2016	550	Capturing correlation changes by applying kernel change point detection on the running correlations	Peter Kuppens	0	Belgium	Leuven
+2016	550	Capturing correlation changes by applying kernel change point detection on the running correlations	Eva Ceulemans	0	Belgium	University of Leuven
+2016	383	Time series forecasting with a learning algorithm: An approximate dynamic programming approach	Ricardo Collado	1	United States	Stevens Institute of Technology
+2016	383	Time series forecasting with a learning algorithm: An approximate dynamic programming approach	German Creamer	0	United States	Stevens Institute of Technology
+2016	406	Forecasting financial time big data using interval time series	Carlos Mate	1	Spain	Universidad Pontificia Comillas
+2016	406	Forecasting financial time big data using interval time series	Javier Redondo	0	Spain	Universidad Pontificia Comillas
+2016	355	Estimating copula density: Convergence speed results	Jerome Collet	1	France	Electricite de France RD Division
+2016	458	Semiparametric copula quantile regression for complete or censored data	Anouar El Ghouch	1	Belgium	The University catholique de Louvain
+2016	493	How to estimate CoVaR	Piotr Jaworski	1	Poland	University of Warsaw
+2016	450	Model distances for vine copulas in high dimensions	Matthias Killiches	1	Germany	Technische Universitaet Muenchen
+2016	450	Model distances for vine copulas in high dimensions	Daniel Kraus	0	Germany	Technische Universitaet Muenchen
+2016	450	Model distances for vine copulas in high dimensions	Claudia Czado	0	Germany	Technische Universitaet Muenchen
+2016	437	Representing sparse Gaussian DAGs as sparse R-vines allowing for non-Gaussian dependence	Dominik Mueller	1	Germany	Technische Universitaet Muenchen
+2016	437	Representing sparse Gaussian DAGs as sparse R-vines allowing for non-Gaussian dependence	Claudia Czado	0	Germany	Technische Universitaet Muenchen
+2016	518	Inverse multiple correspondence analysis	Michel van de Velden	1	Netherlands	Erasmus University Rotterdam
+2016	518	Inverse multiple correspondence analysis	Wilco van den Heuvel	0	Netherlands	Erasmus Universiteit Rotterdam
+2016	518	Inverse multiple correspondence analysis	Patrick Groenen	0	Netherlands	Erasmus University Rotterdam
+2016	506	An optimal nearest neighbor hot deck imputation based on a b-matching problem	Jan Pablo Burgard	1	Germany	Trier University
+2016	506	An optimal nearest neighbor hot deck imputation based on a b-matching problem	Sven de Vries	0	Germany	Trier University
+2016	506	An optimal nearest neighbor hot deck imputation based on a b-matching problem	Ulf Friedrich	0	Germany	Trier University
+2016	506	An optimal nearest neighbor hot deck imputation based on a b-matching problem	Dennis Kreber	0	Germany	Trier University
+2016	544	An unconstrained approach to rotational indeterminacy in Bayesian exploratory multidimensional IRT models	Sara Fontanella	1	United Kingdom	The Open University
+2016	544	An unconstrained approach to rotational indeterminacy in Bayesian exploratory multidimensional IRT models	Lara Fontanella	0	Italy	University of Chieti-Pescara
+2016	544	An unconstrained approach to rotational indeterminacy in Bayesian exploratory multidimensional IRT models	Pasquale  Valentini	0	Italy	University of Chieti-Pescara
+2016	544	An unconstrained approach to rotational indeterminacy in Bayesian exploratory multidimensional IRT models	Nickolay Trendafilov	0	United Kingdom	Open University
+2016	446	Visualizations of multiple imputations using generalized orthogonal procrustes analysis	Johane Nienkemper-Swanepoel	1	South Africa	Stellenbosch University
+2016	446	Visualizations of multiple imputations using generalized orthogonal procrustes analysis	Niel Le Roux	0	South Africa	Stellenbosch University
+2016	446	Visualizations of multiple imputations using generalized orthogonal procrustes analysis	Sugnet Lubbe	0	South Africa	University of Cape Town
+2016	372	A new composite indicator for sensorial data	Stefano Bonnini	1	Italy	University of Ferrara
+2016	182	Semiparametric Bayesian regression via Potts model	Fernando Quintana	1	Chile	Pontificia Universidad Catolica de Chile
+2016	182	Semiparametric Bayesian regression via Potts model	Alejandro Murua	0	Canada	University of Montreal
+2016	250	Hierarchical processes for Bayesian nonparametric inference	Antonio Lijoi	1	Italy	University of Pavia and Collegio Carlo Alberto
+2016	250	Hierarchical processes for Bayesian nonparametric inference	Federico  Camerlenghi	0	Italy	Bocconi University
+2016	250	Hierarchical processes for Bayesian nonparametric inference	Peter Orbanz	0	United States	Columbia University
+2016	250	Hierarchical processes for Bayesian nonparametric inference	Igor Pruenster	0	Italy	Bocconi University
+2016	256	Sparse and modular networks using exchangeable random measures	Francois Caron	1	United Kingdom	University of Oxford
+2016	238	Robust regularised precision matrix estimation	Garth Tarr	1	Australia	University of Sydney
+2016	290	Sparse S- and MM-estimation for high-dimensional regression	Andreas Alfons	1	Netherlands	Erasmus University Rotterdam
+2016	290	Sparse S- and MM-estimation for high-dimensional regression	Christophe Croux	0	France	Edhec Business School
+2016	290	Sparse S- and MM-estimation for high-dimensional regression	Viktoria Oellerer	0	Belgium	KU Leuven
+2016	346	Sparse robust regression estimators	David Kepplinger	1	Canada	University of British Columbia
+2016	346	Sparse robust regression estimators	Matias Salibian-Barrera	0	Canada	The University of British Columbia
+2016	346	Sparse robust regression estimators	Gabriela Cohen Freue	0	Canada	University of British Columbia
+2016	342	Initial estimators for regularized robust methods in high-dimensional settings	David Kepplinger	1	Canada	University of British Columbia
+2016	342	Initial estimators for regularized robust methods in high-dimensional settings	Matias Salibian-Barrera	0	Canada	The University of British Columbia
+2016	342	Initial estimators for regularized robust methods in high-dimensional settings	Gabriela Cohen Freue	0	Canada	University of British Columbia
+2016	179	Smart watch unboxing video viewing frequency prediction by support vector machine and Bayesian probit analysis	Nai-Hua Chen	1	Taiwan	Chienkuo Technology University
+2016	195	Evaluating human networks of author's affiliation info and co-author info in scientific literature by using centralities	Yuji Mizukami	1	Japan	Nihon University
+2016	195	Evaluating human networks of author's affiliation info and co-author info in scientific literature by using centralities	Yosuke Mizutani	0	Japan	Former org Demand Side Science Inc
+2016	195	Evaluating human networks of author's affiliation info and co-author info in scientific literature by using centralities	Keisuke Honda	0	Japan	The Institute of Statistical Mathematics
+2016	195	Evaluating human networks of author's affiliation info and co-author info in scientific literature by using centralities	Shigenori Suzuki	0	Japan	Research Institute of Info-Communication Medicine
+2016	195	Evaluating human networks of author's affiliation info and co-author info in scientific literature by using centralities	Junji Nakano	0	Japan	The Institute of Statistical Mathematics
+2016	232	The joint model for the survival data and binary repeated measures	Yi-Ting Hwang	1	Taiwan	National Taipei University
+2016	232	The joint model for the survival data and binary repeated measures	Chia-Hui Huang	0	Taiwan	National Taipei University
+2016	232	The joint model for the survival data and binary repeated measures	Chun-Chao  Wang	0	Taiwan	National Taipei University
+2016	232	The joint model for the survival data and binary repeated measures	Yi-Kang  Tseng	0	Taiwan	National Central University
+2016	246	Economic design of two-stage control charts with asymmetric and dependent measurements	Nan-Cheng Su	1	Taiwan	National Taipei University
+2016	394	Expanded alternating optimization for matrix factorization and penalized regression	William James Murdoch	1	United States	University of California at Berkeley
+2016	394	Expanded alternating optimization for matrix factorization and penalized regression	Mu Zhu	0	Canada	University of Waterloo
+2016	154	Semiparametric estimation of mixed analysis of covariance model	Virgelio M Alao	1	Philippines	Visayas State University
+2016	154	Semiparametric estimation of mixed analysis of covariance model	Erniel Barrios	0	Philippines	University of the Philippines
+2016	154	Semiparametric estimation of mixed analysis of covariance model	Joseph Ryan Lansangan	0	Philippines	University of the Philippines
+2016	514	Evaluation of similarity for contexts on association rule based extraction	Ken Nittono	1	Japan	Hosei University
+2016	586	The coreset variational Bayes (CVB) algorithm for mixture analysis	Clare McGrory	1	Australia	University of Queensland
+2016	242	Using bandwidths as scales in multiscale localpolynomial decompositions	Mohamed Amghar	1	Belgium	Universite Libre de Bruxelles
+2016	242	Using bandwidths as scales in multiscale localpolynomial decompositions	Maarten Jansen	0	Belgium	ULB Brussels
+2016	545	Stochastic simulation models for multi-site nonstationary time series using wavelets	Ying Sun	1	Saudi Arabia	KAUST
+2016	571	Minimal support tight wavelet frames in a probabilistic MRI denoising method	Sergio Villullas Merino	1	Spain	Universidad de Valladolid, Dpto de Algebra, Analisis Matematico, Geometria y Topologia
+2016	260	Disaggregated electricity forecasting using wavelet-based clustering of individual consumers	Jairo Cugliari	1	France	Univ Lyon - Ezus
+2016	260	Disaggregated electricity forecasting using wavelet-based clustering of individual consumers	Yannig Goude	0	France	EDF
+2016	260	Disaggregated electricity forecasting using wavelet-based clustering of individual consumers	Jean-Michel Poggi	0	France	University Paris-Sud Orsay
+2016	167	Empirical likelihood based inference for fixed effects varying coefficient panel data models	Luis Antonio Arteaga Molina	1	Spain	Universidad de Cantabria
+2016	167	Empirical likelihood based inference for fixed effects varying coefficient panel data models	Juan Manuel Rodriguez-Poo	0	Spain	Universidad de Cantabria
+2016	188	Time-varying SURE: A nonparametric approach	Isabel Casas	1	Denmark	University of Southern Denmark
+2016	188	Time-varying SURE: A nonparametric approach	Eva Ferreira	0	Spain	University of the Basque Country
+2016	188	Time-varying SURE: A nonparametric approach	Susan Orbe	0	Spain	University of the Basque Country
+2016	516	Integer-valued autoregressive models with dynamic coefficient driven by a stochastic recurrence equation	Paolo Gorgi	1	Italy	University of Padua
+2016	461	A linear mixed-effect state space model to discriminate unobservable structural components	Marco Costa	1	Portugal	University of Aveiro
+2016	461	A linear mixed-effect state space model to discriminate unobservable structural components	Magda Monteiro	0	Portugal	University of Aveiro
+2016	445	Consequences of combining Fisher's optimal scores with biadditive models	Niel Le Roux	1	South Africa	Stellenbosch University
+2016	445	Consequences of combining Fisher's optimal scores with biadditive models	John Gower	0	United Kingdom	The Open University
+2016	445	Consequences of combining Fisher's optimal scores with biadditive models	Sugnet Lubbe	0	South Africa	University of Cape Town
+2016	216	Estimation of reliability with semi-parametric frailty modeling of degradation	Debasis Sengupta	1	India	Indian Statistical Institute
+2016	216	Estimation of reliability with semi-parametric frailty modeling of degradation	Prajamitra Bhuyan	0	United Kingdom	Imperial College London
+2016	362	Overflow analysis of multiple stacks running on the same memory	Ali Devin Sezer	1	Turkey	Middle East Technical University
+2016	362	Overflow analysis of multiple stacks running on the same memory	Kamil Demirberk Unlu	0	Turkey	Ankara University and Middle East Technical University
+2016	485	Monte Carlo studies when all models are wrong	Mark De Rooij	1	Netherlands	Leiden University
+2016	263	Linear regression models with finite mixtures of skew heavy-tailed errors	Luis Enrique Benites Sanchez	1	Brazil	University of Sao Paulo
+2016	263	Linear regression models with finite mixtures of skew heavy-tailed errors	Rocio Maehara Aliaga	0	Brazil	University of Sao Paulo
+2016	263	Linear regression models with finite mixtures of skew heavy-tailed errors	Victor Hugo Lachos Davila	0	United States	University of Connecticut
+2016	385	On mixture modelling with multivariate skew distributions	Sharon Lee	1	Australia	University of Adelaide
+2016	385	On mixture modelling with multivariate skew distributions	Geoffrey McLachlan	0	Australia	University of Queensland
+2016	358	Robust clustering of multivariate skew data	Luis Angel Garcia-Escudero	1	Spain	Universidad de Valladolid
+2016	358	Robust clustering of multivariate skew data	Agustin Mayo-Iscar	0	Spain	Universidad de Valladolid
+2016	358	Robust clustering of multivariate skew data	Geoffrey McLachlan	0	Australia	University of Queensland
+2016	358	Robust clustering of multivariate skew data	Francesca Greselin	0	Italy	University of Milano Bicocca
+2016	257	Nonparametric and parametric confidence intervals for the Youden index and its associated cutoff point	Benjamin Reiser	1	Israel	University of Haifa
+2016	257	Nonparametric and parametric confidence intervals for the Youden index and its associated cutoff point	Leonidas Bantis	0	United States	The University of Texas MD AndersonCancer Center
+2016	257	Nonparametric and parametric confidence intervals for the Youden index and its associated cutoff point	Christos T Nakas	0	Switzerland	University of Bern
+2016	319	Efficient confidence bands for ROC curves	Pablo Martinez-Camblor	1	Spain	University of Oviedo
+2016	319	Efficient confidence bands for ROC curves	Sonia Perez-Fernandez	0	Spain	University of Oviedo
+2016	319	Efficient confidence bands for ROC curves	Norberto Corral	0	Spain	Universidad de Oviedo
+2016	297	A comparative study of methods for testing the equality of two or more ROC curves	Aris Fanjul Hevia	1	Spain	Universidad de Santiago de Compostela
+2016	297	A comparative study of methods for testing the equality of two or more ROC curves	Wenceslao Gonzalez-Manteiga	0	Spain	University of Santiago de Compostela
+2016	318	Smooth time-dependent ROC curve estimators	Juan-Carlos Pardo-Fernandez	1	Spain	Universidade de Vigo
+2016	318	Smooth time-dependent ROC curve estimators	Pablo Martinez-Camblor	0	Spain	University of Oviedo
+2016	449	SparseStep: Approximating the counting norm for sparse regularization	Gertjan van den Burg	1	Netherlands	Erasmus University Rotterdam
+2016	449	SparseStep: Approximating the counting norm for sparse regularization	Andreas Alfons	0	Netherlands	Erasmus University Rotterdam
+2016	449	SparseStep: Approximating the counting norm for sparse regularization	Patrick Groenen	0	Netherlands	Erasmus University Rotterdam
+2016	208	Regularized clusterwise multiblock regression	Stephanie Bougeard	1	France	ANSES
+2016	208	Regularized clusterwise multiblock regression	Ndeye Niang	0	France	CNAM
+2016	208	Regularized clusterwise multiblock regression	Gilbert Saporta	0	France	CNAM
+2016	390	Extension to mixed models of the supervised component-based generalised linear regression	Jocelyn Chauvet	1	France	University of Montpellier
+2016	390	Extension to mixed models of the supervised component-based generalised linear regression	Catherine Trottier	0	France	University of Montpellier
+2016	390	Extension to mixed models of the supervised component-based generalised linear regression	Xavier Bry	0	France	University of Montpellier
+2016	390	Extension to mixed models of the supervised component-based generalised linear regression	Frederic Mortier	0	France	Cirad
+2016	392	Supervised-component based Cox regression	Theo Simac	1	France	Universite de Montpellier
+2016	392	Supervised-component based Cox regression	Thomas Verron	0	France	SEITA - ITG
+2016	392	Supervised-component based Cox regression	Xavier Bry	0	France	Universite Montpellier
+2016	280	Inversion copulas from nonlinear state space models	Michael Smith	1	Australia	University of Melbourne
+2016	280	Inversion copulas from nonlinear state space models	Worapree Ole Maneesoonthorn	0	Australia	Monash University
+2016	259	Dynamic quantile function modelling	Richard Gerlach	1	Australia	University of Sydney
+2016	470	Vine based modeling of multivariate volatility time-series	Nicole Barthel	1	Germany	Technische Universitaet Muenchen
+2016	470	Vine based modeling of multivariate volatility time-series	Claudia Czado	0	Germany	Technische Universitaet Muenchen
+2016	470	Vine based modeling of multivariate volatility time-series	Yarema Okhrin	0	Germany	Universitaet Augsburg
+2016	568	Copula-MGARCH with dynamic conditional covariance decompositions	Fabian Raters	1	Germany	University of Goettingen
+2016	568	Copula-MGARCH with dynamic conditional covariance decompositions	Helmut Herwartz	0	Germany	Georg-August-University Goettingen
+2016	283	The finite iterative method for the computation of the correlation matrix implied by a structural recursive model	Mohamed Hanafi	1	France	ONIRIS
+2016	283	The finite iterative method for the computation of the correlation matrix implied by a structural recursive model	Zouhair El hadri	0	Morocco	Ibn Tofail University
+2016	283	The finite iterative method for the computation of the correlation matrix implied by a structural recursive model	El Kettani Yousfi	0	Morocco	Kenitra University
+2016	267	Searching components with simple structure in simultaneous component analysis: Blockwise simplimax rotation	Marieke Timmerman	1	Netherlands	University of Groningen
+2016	267	Searching components with simple structure in simultaneous component analysis: Blockwise simplimax rotation	Henk Kiers	0	Netherlands	University of Groningen
+2016	267	Searching components with simple structure in simultaneous component analysis: Blockwise simplimax rotation	Eva Ceulemans	0	Belgium	University of Leuven
+2016	344	A sparse common component approach with selection of relevant clusters of variables	Katrijn Van Deun	1	Netherlands	Tilburg University
+2016	330	Simultaneous principal and network components models for integration of multiset data	Pia Tio	1	Netherlands	University of Amsterdam and Tilburg University
+2016	212	Robust inference in a heteroskedastic multilevel linear model with structural change	Ronrick Da-ano	1	Philippines	University of the Philippines-Diliman
+2016	212	Robust inference in a heteroskedastic multilevel linear model with structural change	Erniel Barrios	0	Philippines	University of the Philippines
+2016	212	Robust inference in a heteroskedastic multilevel linear model with structural change	Joseph Ryan Lansangan	0	Philippines	University of the Philippines
+2016	352	Coping with level and character of contamination by SW-estimator	Jan Amos Visek	1	Czech Republic	Charles University in Prague
+2016	500	L-moments in linear regression models	Martin Schindler	1	Czech Republic	Technical University of Liberec
+2016	500	L-moments in linear regression models	Jan Picek	0	Czech Republic	Technical University of Liberec
+2016	368	Robust quantile regression in R	Christian Galarza	1	Brazil	State University of Campinas
+2016	368	Robust quantile regression in R	Luis Enrique Benites Sanchez	0	Brazil	University of Sao Paulo
+2016	368	Robust quantile regression in R	Victor Hugo Lachos Davila	0	United States	University of Connecticut
+2016	566	State space models for the NGS pipeline	Karin Dorman	1	United States	Iowa State University
+2016	184	Estimating joint sparse graphical models using fMRI brain imaging data with different coarseness levels	Eugen Pircalabelu	1	Belgium	Université catholique de Louvain
+2016	509	Using chain graph models for structural inference for multi-level data with an application to linguistic data	Craig Alexander	1	United Kingdom	University of Glasgow
+2016	509	Using chain graph models for structural inference for multi-level data with an application to linguistic data	Ludger Evers	0	United Kingdom	University of Glasgow
+2016	509	Using chain graph models for structural inference for multi-level data with an application to linguistic data	Tereza Neocleous	0	United Kingdom	University of Glasgow
+2016	509	Using chain graph models for structural inference for multi-level data with an application to linguistic data	Jane Stuart-Smith	0	United Kingdom	University of Glasgow
+2016	155	Causal inference with random forests	Stefan Wager	1	United States	Stanford University
+2016	173	Tests for nonparametric interactions using random forests	Giles Hooker	1	United States	Cornell University
+2016	173	Tests for nonparametric interactions using random forests	Lucas Mentch	0	United States	Statistics and Applied Mathematical Sciences Institute
+2016	274	Random forests variable importances: Towards a better understanding and large-scale feature selection	Antonio Sutera	1	Belgium	University of Liege
+2016	274	Random forests variable importances: Towards a better understanding and large-scale feature selection	Gilles Louppe	0	Switzerland	New York University
+2016	274	Random forests variable importances: Towards a better understanding and large-scale feature selection	Celia Chatel	0	France	Aix-Marseille University
+2016	274	Random forests variable importances: Towards a better understanding and large-scale feature selection	Louis Wehenkel	0	Belgium	University of Liege
+2016	274	Random forests variable importances: Towards a better understanding and large-scale feature selection	Pierre Geurts	0	Belgium	University of Liege
+2016	178	The power Muth distribution	Pedro Jodra-Esteban	1	Spain	Universidad de Zaragoza
+2016	178	The power Muth distribution	Hector W  Gomez	0	Chile	Universidad de Antofagasta
+2016	178	The power Muth distribution	Maria Dolores Jimenez-Gamero	0	Spain	Universidad de Sevilla
+2016	193	Testing for the generalized Poisson-inverse Gaussian distribution	Virtudes Alba-Fernandez	1	Spain	University of Jaen
+2016	193	Testing for the generalized Poisson-inverse Gaussian distribution	Maria Dolores Jimenez-Gamero	0	Spain	Universidad de Sevilla
+2016	193	Testing for the generalized Poisson-inverse Gaussian distribution	Apostolos Batsidis	0	Greece	University of Ioannina
+2016	203	Bayesian estimation techniques in certain life-testing models	Inmaculada Barranco-Chamorro	1	Spain	Fundacion de investigacion de la Universidad de Sevilla
+2016	332	Bayesian estimation of independence and compositional interaction in a two-way classification	Mi Ortego	1	Spain	Universitat Politecnica de Catalunya
+2016	332	Bayesian estimation of independence and compositional interaction in a two-way classification	Juan Jose Egozcue	0	Spain	University of Girona
+2016	300	Finding the number of groups in model-based clustering via constrained likelihoods	Luis Angel Garcia-Escudero	1	Spain	Universidad de Valladolid
+2016	300	Finding the number of groups in model-based clustering via constrained likelihoods	Andrea Cerioli	0	Italy	University of Parma
+2016	300	Finding the number of groups in model-based clustering via constrained likelihoods	Agustin Mayo-Iscar	0	Spain	Universidad de Valladolid
+2016	300	Finding the number of groups in model-based clustering via constrained likelihoods	Marco Riani	0	Italy	University of Parma
+2016	324	The effect of trimming on algorithms for combining groups of pre-classified observations	Andrea Cerasa	1	Italy	Joint Research Centre
+2016	324	The effect of trimming on algorithms for combining groups of pre-classified observations	Andrea Cerioli	0	Italy	University of Parma
+2016	327	Robust methods for analysis of 3-way compositional data in R	Valentin Todorov	1	Austria	UNIDO
+2016	327	Robust methods for analysis of 3-way compositional data in R	Maria Anna Di Palma	0	Italy	L Orientale
+2016	327	Robust methods for analysis of 3-way compositional data in R	Michele Gallo	0	Italy	University of Naples Orientale
+2016	223	Robustness for multilevel models with the forward search	Luigi Grossi	1	Italy	University of Verona
+2016	223	Robustness for multilevel models with the forward search	Aldo Corbellini	0	Italy	Faculty of Economics - University of Parma
+2016	223	Robustness for multilevel models with the forward search	Fabrizio Laurini	0	Italy	University of Parma
+2016	197	On algorithms for generating multiple optimal experimental designs	Yongtao Cao	1	United States	Indiana University of Pennsylvania
+2016	239	A multi-objective implementation in swarm intelligence with applications in designs of computer experiments	Frederick Kin Hing Phoa	1	Taiwan	Academia Sinica
+2016	239	A multi-objective implementation in swarm intelligence with applications in designs of computer experiments	Livia Lin-Hsuan Chang	0	Taiwan	Academia Sinica
+2016	241	Nature-inspired meta-heuristic algorithms for generating optimal experimental designs	Weng Kee Wong	1	United States	UCLA
+2016	312	Solving large scale penalized $l_{0}$-norm regression problems via parallel proximal algorithms	Tso-Jung Yen	1	Taiwan	Academia Sinica
+2016	379	A test based on kernel density estimation for the eigenvalues in two-sample problem	Hidetoshi Murakami	1	Japan	Tokyo University of Science
+2016	374	Nonparametric estimation of ROC surfaces under verification bias	Duc Khanh To	1	Italy	University of Padova
+2016	374	Nonparametric estimation of ROC surfaces under verification bias	Monica Chiogna	0	Italy	University of Padua
+2016	374	Nonparametric estimation of ROC surfaces under verification bias	Gianfranco Adimari	0	Italy	University of Padua
+2016	416	Smoothing parameters for recursive kernel density estimators under double truncation	Yousri Slaoui	1	France	University of Poitiers
+2016	377	Nonparametric dynamic discrete choice models for time series data	Byeong Park	1	Korea, South	Seoul National University
+2016	377	Nonparametric dynamic discrete choice models for time series data	Leopold Simar	0	Belgium	Universite Catholique de Louvain
+2016	377	Nonparametric dynamic discrete choice models for time series data	Valentin Zelenyuk	0	Australia	University of Queensland
+2016	527	Detection performance of likelihood ratio test for change-points based on bootstrap for AR(1) models	Ceyda Yazici	1	Turkey	Middle East Technical University
+2016	527	Detection performance of likelihood ratio test for change-points based on bootstrap for AR(1) models	Ceylan Yozgatligil	0	Turkey	Middle East Technical University
+2016	527	Detection performance of likelihood ratio test for change-points based on bootstrap for AR(1) models	Inci Batmaz	0	Turkey	Middle East Technical University
+2016	393	Test of mean difference in longitudinal data based on block resampling approaches	Hirohito Sakurai	1	Japan	National Center for University Entrance Examinations
+2016	393	Test of mean difference in longitudinal data based on block resampling approaches	Masaaki Taguri	0	Japan	National Center for University Entrance Examinations
+2016	354	Abrupt change in mean avoiding variance estimation without boundary value problem and block bootstrap	Barbora Pestova	1	Czech Republic	The Czech Academy of Sciences, Institute of Computer Science
+2016	560	The comparison of block bootstrap techniques in case of generalized resampling scheme	Lukasz Lenart	1	Poland	Cracow University of Economics
+2016	483	Numerical optimization for multivariate optimal allocation problems with several levels of strata	Martin Rupp	1	Germany	University of Trier
+2016	483	Numerical optimization for multivariate optimal allocation problems with several levels of strata	Ralf Muennich	0	Germany	University of Trier
+2016	490	Integer-valued algorithms for constrained optimal allocations in stratified sampling	Ulf Friedrich	1	Germany	Trier University
+2016	490	Integer-valued algorithms for constrained optimal allocations in stratified sampling	Ralf Muennich	0	Germany	University of Trier
+2016	490	Integer-valued algorithms for constrained optimal allocations in stratified sampling	Sven de Vries	0	Germany	Trier University
+2016	490	Integer-valued algorithms for constrained optimal allocations in stratified sampling	Matthias Wagner	0	Germany	Trier University
+2016	484	Small area estimation of biodiversity measures	Philip Rosenthal	1	Germany	Trier University
+2016	484	Small area estimation of biodiversity measures	Jan Pablo Burgard	0	Germany	Trier University
+2016	484	Small area estimation of biodiversity measures	Stephan Feldmeier	0	Germany	Trier University
+2016	484	Small area estimation of biodiversity measures	Ralf Muennich	0	Germany	University of Trier
+2016	484	Small area estimation of biodiversity measures	Michael Veith	0	Germany	Trier University
+2016	481	Non-linear small area models under constraints	Julian Wagner	1	Germany	University of Trier
+2016	481	Non-linear small area models under constraints	Ralf Muennich	0	Germany	University of Trier
+2016	253	Test of missing data mechanisms: An alternative to the Little test based on regression	Serguei Rouzinov	1	Switzerland	University of Lausanne
+2016	253	Test of missing data mechanisms: An alternative to the Little test based on regression	Andre Berchtold	0	Switzerland	University of Lausanne
+2016	552	Multiple imputation using sequential regression for high-dimensional data	Faisal Maqbool Zahid	1	Germany	Ludwig-Maximilians-University Munich Germany
+2016	552	Multiple imputation using sequential regression for high-dimensional data	Christian Heumann	0	Germany	Ludwig-Maximilians-University Munich
+2016	361	Variable selection for longitudinal biomarkers constrained by a detection limit	Julia Geronimi	1	France	CNAM
+2016	361	Variable selection for longitudinal biomarkers constrained by a detection limit	Gilbert Saporta	0	France	CNAM
+2016	320	Single imputation by data depth	Pavlo Mozharovskyi	1	France	Centre Henri Lebesgue
+2016	320	Single imputation by data depth	Julie Josse	0	France	Agrocampus Ouest
+2016	320	Single imputation by data depth	Francois Husson	0	France	Agrocampus Rennes
+2016	551	Inference when using nearest neighbors methods and the bootstrap	Shahla Faisal	1	Germany	Ludwig Maximilians University Munich
+2016	551	Inference when using nearest neighbors methods and the bootstrap	Christian Heumann	0	Germany	Ludwig-Maximilians-University Munich
+2016	551	Inference when using nearest neighbors methods and the bootstrap	Gerhard Tutz	0	Germany	Ludwig-Maximilians-University Munich
+2016	229	Estimating the number of clusters in OTRIMLE robust Gaussian mixture clustering	Christian Hennig	1	United Kingdom	UCL
+2016	229	Estimating the number of clusters in OTRIMLE robust Gaussian mixture clustering	Pietro Coretto	0	Italy	Universita di Salerno
+2016	266	Sparse and robust PLS for regression and binary classification	Peter Filzmoser	1	Austria	Vienna University of Technology
+2016	266	Sparse and robust PLS for regression and binary classification	Irene Hoffmann	0	Austria	Vienna University of Technology
+2016	266	Sparse and robust PLS for regression and binary classification	Sven Serneels	0	United States	BASF Corporation
+2016	266	Sparse and robust PLS for regression and binary classification	Christophe Croux	0	Belgium	Leuven
+2016	266	Sparse and robust PLS for regression and binary classification	Kurt Varmuza	0	Austria	Vienna University of Technology
+2016	296	Robust clustering for functional data	Diego Rivera Garcia	1	Mexico	Centro de Investigacion en Matematicas
+2016	296	Robust clustering for functional data	Luis Angel Garcia-Escudero	0	Spain	Universidad de Valladolid
+2016	296	Robust clustering for functional data	Agustin Mayo-Iscar	0	Spain	Universidad de Valladolid
+2016	338	Compositional tables with applications in  robust statistical analysis: Methodology and computing	Kamila Facevicova	1	Czech Republic	Palacky University Olomouc
+2016	338	Compositional tables with applications in  robust statistical analysis: Methodology and computing	Karel Hron	0	Czech Republic	Palacky University
+2016	338	Compositional tables with applications in  robust statistical analysis: Methodology and computing	Valentin Todorov	0	Austria	UNIDO
+2016	338	Compositional tables with applications in  robust statistical analysis: Methodology and computing	Matthias Templ	0	Austria	Vienna University of Technology
+2016	370	TCLUST extensions	Agustin Mayo-Iscar	1	Spain	Universidad de Valladolid
+2016	370	TCLUST extensions	Luis Angel Garcia-Escudero	0	Spain	Universidad de Valladolid
+2016	370	TCLUST extensions	Alfonso Gordaliza	0	Spain	Universidad de Valladolid
+2016	370	TCLUST extensions	Francesca Greselin	0	Italy	University of Milano Bicocca
+2016	278	Overlapping clusterwise simultaneous component analysis	Kim De Roover	1	Belgium	KU Leuven
+2016	278	Overlapping clusterwise simultaneous component analysis	Eva Ceulemans	0	Belgium	University of Leuven
+2016	278	Overlapping clusterwise simultaneous component analysis	Paolo Giordani	0	Italy	Sapienza University of Rome
+2016	286	Partitionned matrices in multiset and multiway data analysis	Mohamed Hanafi	1	France	ONIRIS
+2016	286	Partitionned matrices in multiset and multiway data analysis	David Legland	0	France	INRA
+2016	286	Partitionned matrices in multiset and multiway data analysis	Pasquale Dolce	0	France	ONIRIS-Nantes
+2016	295	Mixture simultaneous factor analysis and Wald tests for factor loading differences in multivariate multilevel data	Kim De Roover	1	Belgium	KU Leuven
+2016	295	Mixture simultaneous factor analysis and Wald tests for factor loading differences in multivariate multilevel data	Jeroen Vermunt	0	Netherlands	Tilburg University
+2016	295	Mixture simultaneous factor analysis and Wald tests for factor loading differences in multivariate multilevel data	Marieke Timmerman	0	Netherlands	University of Groningen
+2016	295	Mixture simultaneous factor analysis and Wald tests for factor loading differences in multivariate multilevel data	Eva Ceulemans	0	Belgium	University of Leuven
+2016	322	Regularised multiblock methods for cancer patient classification	Tommy Lofstedt	1	Sweden	Umea University
+2016	322	Regularised multiblock methods for cancer patient classification	Patrik Brynolfsson	0	Sweden	Umea University
+2016	322	Regularised multiblock methods for cancer patient classification	Thomas Asklund	0	Sweden	Umea University
+2016	322	Regularised multiblock methods for cancer patient classification	Tufve Nyholm	0	Sweden	Umea University
+2016	328	A general overview of multiblock component methods	Arthur Tenenhaus	1	France	Laboratoire Signaux et Systemes
+2016	328	A general overview of multiblock component methods	Michel Tenenhaus	0	France	HEC School of Management
+2016	328	A general overview of multiblock component methods	Patrick Groenen	0	Netherlands	Erasmus University Rotterdam
+2016	170	Selection of the number of components in mixture regression model	Wing Kam Fung	1	Hong Kong	University of Hong Kong
+2016	204	Scalable clustering methods for dynamic Poisson graphical models	Yingying Wei	1	Hong Kong	The Chinese University of Hong Kong
+2016	204	Scalable clustering methods for dynamic Poisson graphical models	old account LXY	0	Hong Kong	The Chinese University of Hong Kong
+2016	185	A pivotal allocation based algorithm for solving the label switching problem in Bayesian mixture models	Han Li	1	China	Shenzhen University
+2016	398	Using intraclass correlation coefficients to quantify spatial variability of catastrophe model errors	Baldvin Einarsson	1	United States	AIR-Worldwide
+2016	398	Using intraclass correlation coefficients to quantify spatial variability of catastrophe model errors	Rafal Wojcik	0	United States	AIR-Worldwide
+2016	398	Using intraclass correlation coefficients to quantify spatial variability of catastrophe model errors	Jayanta Guin	0	United States	AIR-Worldwide
+2016	258	A general non-linear multilevel structural equation mixture model	Augustin Kelava	1	Germany	Eberhard Karls Universitaet Tuebingen
+2016	258	A general non-linear multilevel structural equation mixture model	Holger Brandt	0	Germany	Eberhard Karls Universitaet Tuebingen
+2016	582	A methodology to analyze fuzzy data	Maria Angeles Gil	1	Spain	Universidad de Oviedo
+2016	433	On the hyperparameter settings of random forests	Philipp Probst	1	Germany	LMU Munich
+2016	433	On the hyperparameter settings of random forests	Anne-Laure Boulesteix	0	Germany	LMU Munich
+2016	433	On the hyperparameter settings of random forests	Bernd Bischl	0	Germany	LMU Munich
+2016	489	Recovery of weak signal in high dimensional linear regression by data perturbation	Yongli Zhang	1	United States	University of Oregon
+2016	384	Trees garrote for regression analysis	Masatoshi Nakamura	1	United States	Oita university
+2016	501	Destination prediction by trajectory distribution-based models	Brendan Guillouet	1	France	Institut de Mathematiques de Toulouse
+2016	501	Destination prediction by trajectory distribution-based models	Jean-Michel Loubes	0	France	University of Toulouse
+2016	501	Destination prediction by trajectory distribution-based models	Philippe Besse	0	France	Institut de Mathematiques de Toulouse
+2016	501	Destination prediction by trajectory distribution-based models	Francois Royer	0	France	Datasio
+2016	407	A toolkit for stability assessment of tree-based learners	Michel Philipp	1	Switzerland	University of Zurich
+2016	407	A toolkit for stability assessment of tree-based learners	Achim Zeileis	0	Austria	Universitaet Innsbruck
+2016	407	A toolkit for stability assessment of tree-based learners	Carolin Strobl	0	Switzerland	University of Zurich
+2016	523	Dynamic clustering of multiple multivariate time series: Application to climate data	Ceylan Yozgatligil	1	Turkey	Middle East Technical University
+2016	523	Dynamic clustering of multiple multivariate time series: Application to climate data	Sipan Aslan	0	Turkey	middle east technical university
+2016	523	Dynamic clustering of multiple multivariate time series: Application to climate data	Cem Iyigun	0	Turkey	middle east technical university
+2016	396	Comparing matrix factorisation approaches to fuzzy clustering	Abdul Suleman	1	Portugal	Instituto Universitario de Lisboa ISCTE-IUL BRU Lisboa Portugal
+2016	397	NPC to assess effects of maternal iodine nutrition and thyroid status on children cognitive development	Massimiliano Giacalone	1	Italy	University of Naples - Federico II
+2016	397	NPC to assess effects of maternal iodine nutrition and thyroid status on children cognitive development	Angela  Alibrandi	0	Italy	University of Messina
+2016	397	NPC to assess effects of maternal iodine nutrition and thyroid status on children cognitive development	Agata Zirilli	0	Italy	University of Messina
+2016	397	NPC to assess effects of maternal iodine nutrition and thyroid status on children cognitive development	Maria Carla Moleti	0	Italy	University of Messina
+2016	400	Detection of exceptional genomic words: A comparison between species	Ana Helena Tavares	1	Portugal	University of Aveiro
+2016	400	Detection of exceptional genomic words: A comparison between species	Vera Afreixo	0	Portugal	University of Aveiro
+2016	400	Detection of exceptional genomic words: A comparison between species	Joao Rodrigues	0	Portugal	University of Aveiro
+2016	400	Detection of exceptional genomic words: A comparison between species	Carlos Bastos	0	Portugal	University of Aveiro
+2016	400	Detection of exceptional genomic words: A comparison between species	Armando  Pinho	0	Portugal	University of Aveiro
+2016	400	Detection of exceptional genomic words: A comparison between species	Paulo Ferreira	0	Portugal	University of Aveiro
+2016	400	Detection of exceptional genomic words: A comparison between species	Paula Brito	0	Portugal	Universidade do Porto
+2016	329	The temperature of Indian cities: Some insights using change point analysis with functional data	Poonam Rathi	1	India	N/A
+2016	431	FinSam: An R package for finite population sampling analysis	Jacinto Martin Jimenez	1	Spain	Universidad de Extremadura
+2016	431	FinSam: An R package for finite population sampling analysis	Manuel Molina	0	Spain	University of Extremadura
+2016	431	FinSam: An R package for finite population sampling analysis	Juan Carlos Ridruejo Sayavera	0	Spain	De Extremadura
+2016	559	R package for statistical process control when data are functional: fda.qcr	Miguel Flores	1	Ecuador	Escuela Politecnica Nacional
+2016	559	R package for statistical process control when data are functional: fda.qcr	Salvador Naya	0	Spain	University of A Coruna
+2016	559	R package for statistical process control when data are functional: fda.qcr	Javier Tarrio-Saavedra	0	Spain	Universidade da Coruna
+2016	559	R package for statistical process control when data are functional: fda.qcr	Ruben Fernandez Casal	0	Spain	Universidade da Coruna
+2016	531	A new R library for discriminate groups based on abundance profile and biodiversity on microbiome metagenomics matrices	Clara Rodriguez-Casado	1	Spain	Section of Statistics Fac Biology University of Barcelona
+2016	531	A new R library for discriminate groups based on abundance profile and biodiversity on microbiome metagenomics matrices	Jorge Frias-Lopez	0	United States	Department of Microbiology - Forsyth Institute
+2016	531	A new R library for discriminate groups based on abundance profile and biodiversity on microbiome metagenomics matrices	Toni Monleon-Getino	0	Spain	University of Barcelona
+2016	353	An R commander plug-in for fitting generalized Waring regression models	Maria Jose Olmo-Jimenez	1	Spain	University of Jaen
+2016	353	An R commander plug-in for fitting generalized Waring regression models	Silverio Vilchez-Lopez	0	Spain	IES Las Fuentezuelas
+2016	353	An R commander plug-in for fitting generalized Waring regression models	Antonio Jose Saez-Castillo	0	Spain	Universidad de Jaen
+2016	442	An approach to the errors-in-variables regression model	Taku Yamamoto	1	Japan	Institute of Statistical Research
+2016	442	An approach to the errors-in-variables regression model	Makoto Muto	0	Japan	Hitotsubashi University
+2016	442	An approach to the errors-in-variables regression model	Teruo Nakatsuma	0	Japan	Keio University
+2016	573	LIHAR model for forecasting realized volatilities featuring long-memory and asymmetry	JiWon Shin	1	Korea, South	Ewha Womans University
+2016	573	LIHAR model for forecasting realized volatilities featuring long-memory and asymmetry	DongWan Shin	0	Korea, South	Ewha Womans University
+2016	507	Locally weighted mixture models for prediction from time series	Najla Qarmalah	1	Saudi Arabia	Princess Norah bint Abdulrahman University
+2016	507	Locally weighted mixture models for prediction from time series	Jochen Einbeck	0	United Kingdom	Durham University
+2016	507	Locally weighted mixture models for prediction from time series	Frank Coolen	0	UK	Durham University
+2016	496	Dynamic binary choice panel data model with fixed effect based on transition model	Takuma Kurosawa	1	Japan	Tokyo University of Science
+2016	496	Dynamic binary choice panel data model with fixed effect based on transition model	Asanao Shimokawa	0	Japan	Tokyo University of Science
+2016	496	Dynamic binary choice panel data model with fixed effect based on transition model	Etsuo Miyaoka	0	Japan	Tokyo University of Science
+2016	399	Various algorithmic approaches for the balancing problem	Susie Fortier	1	Canada	Statistics Canada
+2016	399	Various algorithmic approaches for the balancing problem	Michel Ferland	0	Canada	Statistics Canada
+2016	157	Asymptotic expansions for the estimators of Lagrange multipliers by the weighted score methods	Haruhiko Ogasawara	1	Japan	Otaru University of Commerce
+2016	429	Penalized splines with censored data	Jesus Orbe	1	Spain	University of the Basque Country
+2016	429	Penalized splines with censored data	Jorge Virto	0	Spain	University of the Basque Country
+2016	435	A widely linear system for quaternion estimation	Juan Carlos Ruiz-Molina	1	Spain	University of Jaen
+2016	435	A widely linear system for quaternion estimation	Jesus  Navarro-Moreno 	0	Spain	University of Jaen
+2016	435	A widely linear system for quaternion estimation	Rosa Maria Fernandez-Alcala	0	Spain	University of Jaen
+2016	435	A widely linear system for quaternion estimation	Jose Domingo Jimenez-Lopez	0	Spain	University of Jaen
+2016	491	A computational statistics approach for estimating the smallest natural number $x$ for which $\pi(x) > li(x)$	Ryuichi Sawae	1	Japan	Okayama University of Science
+2016	572	Interval and value at risk forecasting for realized volatility and implied volatility having asymmetry	Ji Eun Choi	1	Korea, South	Ewha Womens university
+2016	572	Interval and value at risk forecasting for realized volatility and implied volatility having asymmetry	Dong Wan Shin	0	Korea, South	Ewha university
+2016	424	The limiting distribution of a rank test based on the multisample Cucconi test	Takuya Nishino	1	Japan	Tokyo University of Science
+2016	424	The limiting distribution of a rank test based on the multisample Cucconi test	Hidetoshi Murakami	0	Japan	Tokyo University of Science
+2016	210	High-order composite likelihood inference for max-stable distributions and processes	Stefano Castruccio	1	United Kingdom	Newcastle University
+2016	325	Censored local likelihood inference for modeling non-stationarity in spatial extremes	Daniela Castro-Camilo	1	Saudi Arabia	King Abdullah University of Science and Technology
+2016	325	Censored local likelihood inference for modeling non-stationarity in spatial extremes	Raphael Huser	0	Saudi Arabia	King Abdullah University of Science and Technology
+2016	331	The use of Bernstein polynomials for modelling the extremal dependence	Simone Padoan	1	Italy	Bocconi University
+2016	522	The analysis of asymmetry based on ordered scores for square contingency tables	Hiroyuki Kurakami	1	Japan	Tokyo University of Science
+2016	522	The analysis of asymmetry based on ordered scores for square contingency tables	Shuji Ando	0	Japan	Novartis Pharma KK
+2016	455	On separation of symmetry for ordinal categorical data	Kouji Tahata	1	Japan	Tokyo University of Science
+2016	528	Entropy based tests of dependence for categorical data	Simone Giannerini	1	Italy	University of Bologna
+2016	528	Entropy based tests of dependence for categorical data	Greta Goracci	0	Italy	University of Bologna
+2016	363	EMcorrProbit R package	Denitsa Grigorova	1	Bulgaria	Sofia University
+2016	363	EMcorrProbit R package	Nina Daskalova	0	Bulgaria	Sofia University
+2016	158	Some comments on copula-based regression	Holger Dette	1	Germany	Ruhr-Universitaet Bochum
+2016	158	Some comments on copula-based regression	Ria Van Hecke	0	Germany	Ruhr Universitaet Bochum
+2016	158	Some comments on copula-based regression	Stanislav Volgushev	0	Canada	University of Toronto
+2016	159	Simultaneous inference in structured additive conditional copula regression models: A unifying Bayesian approach	Thomas Kneib	1	Germany	University of Goettingen
+2016	159	Simultaneous inference in structured additive conditional copula regression models: A unifying Bayesian approach	Nadja Klein	0	Germany	Georg-August-University Goettingen
+2016	273	Estimating distribution functions using double sampling designs	Ori Davidov	1	Israel	University of Haifa
+2016	282	Bivariate copula additive models for location, scale and shape	Rosalba Radice	1	United Kingdom	Cass Business School
+2016	282	Bivariate copula additive models for location, scale and shape	Giampiero Marra	0	United Kingdom	University College London
+2016	479	Combination of forecasts in dynamic factor models: Application to the Italian power exchange	Andres M Alonso	1	Spain	Universidad Carlos III de Madrid
+2016	479	Combination of forecasts in dynamic factor models: Application to the Italian power exchange	Guadalupe Bastos	0	Spain	Universidad Carlos III de Madrid
+2016	479	Combination of forecasts in dynamic factor models: Application to the Italian power exchange	Carolina Garcia-Martos	0	Spain	Universidad Politecnica de Madrid
+2016	462	The expectation maximization algorithm for the state space model with correlated errors	Javier Cara	1	Spain	Universidad Politecnica de Madrid
+2016	463	Important variable assessment in modeling transport accident patterns using random forest and bagging	Camino Gonzalez	1	Spain	Universidad Politécnica de Madrid
+2016	463	Important variable assessment in modeling transport accident patterns using random forest and bagging		0	Spain	
+2016	463	Important variable assessment in modeling transport accident patterns using random forest and bagging	Blanca Arenas	0	Spain	Technical University of Madrid
+2016	463	Important variable assessment in modeling transport accident patterns using random forest and bagging	Belen Jimenez	0	Spain	Technical University of Madrid
+2016	166	Estimating extra zeros proportion in different variability conditions of a regression count model	Antonio Jose Saez-Castillo	1	Spain	Universidad de Jaen
+2016	166	Estimating extra zeros proportion in different variability conditions of a regression count model	Antonio Conde-Sanchez	0	Spain	Universidad de Jaen
+2016	166	Estimating extra zeros proportion in different variability conditions of a regression count model	Ana Maria Martinez-Rodriguez	0	Spain	University of Jaen
+2016	532	On the computation of symmetrized M-estimators of scatter	Jari Miettinen	1	Finland	University of Jyvaskyla
+2016	532	On the computation of symmetrized M-estimators of scatter	Klaus Nordhausen	0	Austria	Vienna University of Technology
+2016	532	On the computation of symmetrized M-estimators of scatter	Sara Taskinen	0	Finland	University of Jyvaskyla
+2016	532	On the computation of symmetrized M-estimators of scatter	David Tyler	0	United States	Rutgers
+2016	543	Two-step robust estimation of copulae	Samuel Orso	1	Switzerland	University of Geneva
+2016	543	Two-step robust estimation of copulae	Stephane Guerrier	0	United States	University of Illinois at Urbana-Champaign
+2016	543	Two-step robust estimation of copulae	Maria-Pia Victoria-Feser	0	Switzerland	University of Geneva
+2016	474	On a modification of Efron bootstrap method for heavy-tailed distributions	Hannah Opayinka	1	Nigeria	University of Ibadan
+2016	391	Evaluation of robust PCA for supervised audio outlier detection	Sarka Brodinova	1	Austria	Vienna University of Technology
+2016	391	Evaluation of robust PCA for supervised audio outlier detection	Thomas Ortner	0	Austria	Vienna University of Technology
+2016	391	Evaluation of robust PCA for supervised audio outlier detection	Peter Filzmoser	0	Austria	Vienna University of Technology
+2016	391	Evaluation of robust PCA for supervised audio outlier detection	Maia Zaharieva	0	Austria	Vienna University of Technology
+2016	391	Evaluation of robust PCA for supervised audio outlier detection	Christian Breiteneder	0	Austria	Vienna University of Technology
+2016	410	Variable importance in clustering using binary decision trees	Pierre Michel	1	France	Aix Marseille University
+2016	410	Variable importance in clustering using binary decision trees	Badih Ghattas	0	France	Aix Marseille University
+2016	526	Automatic module selection from several microarray gene expression studies	Alix Zollinger	1	Switzerland	SIB
+2016	526	Automatic module selection from several microarray gene expression studies	Anthony Davison	0	Switzerland	EPFL
+2016	526	Automatic module selection from several microarray gene expression studies	Darlene Goldstein	0	Switzerland	Ecole Poytechnique Federale de Lausanne
+2016	252	Comparison of two bootstrap procedures in the case of hidden Markovian model clustering	Zhivko Taushanov	1	Switzerland	University of Lausanne
+2016	252	Comparison of two bootstrap procedures in the case of hidden Markovian model clustering	Andre Berchtold	0	Switzerland	University of Lausanne
+2016	340	Determining the number of overlapping clusters: Simulation results for the additive profile clustering model	Tom Frans Wilderjans	1	Netherlands	Leiden University
+2016	340	Determining the number of overlapping clusters: Simulation results for the additive profile clustering model	Julian Rossbroich	0	Netherlands	Leiden University
+2016	201	Globalization and economic growth:  Tracking the impacts of changes in global interdependences	Maria Jesus Delgado Rodriguez	1	Spain	Universidad  Rey Juan Carlos I de Madrid
+2016	201	Globalization and economic growth:  Tracking the impacts of changes in global interdependences	Sonia de Lucas Santos	0	Spain	Universidad Autonoma de Madrid
+2016	564	Functional impact into Google AdWords	Christoph Rust	1	Germany	University of Regensburg
+2016	503	yuimaGUI: A graphical user interface for computational finance based on the yuima R package	Emanuele Guidotti	1	Italy	University of Milan
+2016	503	yuimaGUI: A graphical user interface for computational finance based on the yuima R package	Stefano Iacus	0	Italy	University of Milan
+2016	503	yuimaGUI: A graphical user interface for computational finance based on the yuima R package	Lorenzo Mercuri	0	Italy	University of Milan
+2016	517	Automatic ARIMA modeling using RcmdrPlugin.SPSS	Dedi Rosadi	1	Indonesia	Universitas Gadjah Mada
+2016	547	Directional depth and outlyingness for multivariate functional data	Wenlin Dai	1	Saudi Arabia	KAUST
+2016	547	Directional depth and outlyingness for multivariate functional data	Marc Genton	0	Saudi Arabia	KAUST
+2016	347	Analyzing high-dimensional functional data	Ana Arribas-Gil	1	Spain	Universidad Carlos III de Madrid
+2016	347	Analyzing high-dimensional functional data	Juan Romo	0	Spain	Universidad Carlos III de Madrid
+2016	576	Bayesian multivariate spatial temporal functional data modelling	Montserrat Fuentes	1	United States	North Carolina State University
+2016	153	Pattern recognition techniques for interval time series	Elizabeth Ann Maharaj	1	Australia	Monash University
+2016	153	Pattern recognition techniques for interval time series	Paula Brito	0	Portugal	Universidade do Porto
+2016	153	Pattern recognition techniques for interval time series	Paulo Teles	0	Portugal	Universidade do Porto
+2016	255	Adaptive spectral analysis of replicated nonstationary time series	Robert Krafty	1	United States	University of Pittsburgh
+2016	255	Adaptive spectral analysis of replicated nonstationary time series	Scott Bruce	0	United States	Temple University
+2016	255	Adaptive spectral analysis of replicated nonstationary time series	Martica Hall	0	United States	University of Pittsburgh
+2016	292	Quantile autocovariances: A powerful tool for hard and soft partitional clustering of time series	Jose Vilar	1	Spain	Universidade da Coruna
+2016	292	Quantile autocovariances: A powerful tool for hard and soft partitional clustering of time series	Borja Lafuente-Rego	0	Spain	Universidade da Coruna
+2016	228	Optimal designs for fractional polynomial models	Victor Casero-Alonso	1	Spain	University of Castilla-La Mancha
+2016	228	Optimal designs for fractional polynomial models	Jesus Lopez-Fidalgo	0	Spain	University of Castilla-La Mancha
+2016	228	Optimal designs for fractional polynomial models	Weng Kee Wong	0	United States	UCLA
+2016	307	Bayesian optimal designs via MCMC simulations: A case study in the technological field	Rossella Berni	1	Italy	University of Florence
+2016	421	Optimal-design search under the IMSPE objective	Selden Crary	1	United States	Unaffiliated
+2016	422	Using sparse kernels to design computer experiments with tunable precision	Guillaume Sagnol	1	Germany	ZIB Berlin
+2016	422	Using sparse kernels to design computer experiments with tunable precision	Hans-Christian Hege	0	Germany	Zuse Institute Berlin
+2016	422	Using sparse kernels to design computer experiments with tunable precision	Martin Weiser	0	Germany	Zuse Institute Berlin
+2016	537	Bootstrap-based inference in generalized linear mixed models	Daniel Antonio Flores Agreda	1	Switzerland	Universite de Geneve
+2016	537	Bootstrap-based inference in generalized linear mixed models	Eva Cantoni	0	Switzerland	University of Geneva
+2016	169	On negative binomial regression and its variants	Thomas Yee	1	New Zealand	University of Auckland
+2016	512	Impact of correlation between predictors on variance decomposition and variable selection using CAR scores	Henri Wallard	1	France	Ipsos
+2016	428	On constrained  estimation of graphical time series models	Heung Wong	1	Hong Kong	The Hong Kong Polytechnic University
+2016	482	Variable selection with pre-assigned roles and cost utility analysis for process monitoring	Luan Jaupi	1	France	CNAM
+2016	426	A new EWMA chart for monitoring the covariance matrix of a multivariate process based on dissimilarity index	Longcheen Huwang	1	Taiwan	National Tsing Hua University
+2016	584	Web computing of robust methods in Acceptance Sampling for Weibull variables	Miguel Casquilho	1	Portugal	University of Lisbon
+2016	584	Web computing of robust methods in Acceptance Sampling for Weibull variables	Elisabete Carolino	0	Portugal	ESTeSL-IPL
+2016	584	Web computing of robust methods in Acceptance Sampling for Weibull variables	M Rosario Ramos	0	Portugal	FCiencias.ID
+2016	584	Web computing of robust methods in Acceptance Sampling for Weibull variables	Isabel Barao	0	Portugal	Faculty of Sciences - University of Lisbon
+2016	386	A modified control chart for monitoring the multihead weighing process	Alexander Pulido-Rojano	1	Colombia	Universidad Simon Bolivar
+2016	386	A modified control chart for monitoring the multihead weighing process	Juan Carlos Garcia-Diaz	0	Spain	Universitat Politecnica de Valencia
+2016	452	On the first-order integer-valued bilinear model	Isabel Pereira	1	Portugal	University of Aveiro
+2016	452	On the first-order integer-valued bilinear model	Nelia  Silva	0	Portugal	University of Aveiro
+2016	511	Distance dependent Chinese restaurant process for spatio-temporal clustering of urban traffic networks	Konstantinos Ampountolas	1	United Kingdom	University of Glasgow
+2016	511	Distance dependent Chinese restaurant process for spatio-temporal clustering of urban traffic networks	Ludger Evers	0	United Kingdom	University of Glasgow
+2016	511	Distance dependent Chinese restaurant process for spatio-temporal clustering of urban traffic networks	Ashwini Venkatasubramaniam	0	United Kingdom	University of Glasgow
+2016	382	A Bayesian approach for the transformed gamma degradation process	Massimiliano Giorgio	1	Italy	Second University of Naples
+2016	382	A Bayesian approach for the transformed gamma degradation process	Maurizio Guida	0	Italy	University of Salerno and National Research Council
+2016	382	A Bayesian approach for the transformed gamma degradation process	Fabio Postiglione	0	Italy	University of Salerno
+2016	382	A Bayesian approach for the transformed gamma degradation process	Gianpaolo Pulcini	0	Italy	National Research Council
+2016	371	Bayesian prediction of unobserved values for Type-II censored data for an inverse Weibull distribution	Takeshi Kurosawa	1	Japan	Tokyo University of Science
+2016	371	Bayesian prediction of unobserved values for Type-II censored data for an inverse Weibull distribution	Tatsuya Kubota	0	Japan	Tokyo University of Science
+2016	200	Multiway-SIR for longitudinal multi-table data integration	Valerie Sautron	1	France	INRA
+2016	200	Multiway-SIR for longitudinal multi-table data integration	Marie Chavent	0	France	Bordeaux University
+2016	200	Multiway-SIR for longitudinal multi-table data integration	Nathalie Viguerie	0	France	INSERM
+2016	200	Multiway-SIR for longitudinal multi-table data integration	Nathalie Villa-Vialaneix	0	France	INRA
+2016	480	Equating multidimensional IRT parameters when both common items and common persons are available	Yoshinori Oki	1	Japan	Tokyo Institute of Technology
+2016	480	Equating multidimensional IRT parameters when both common items and common persons are available	Shin-ichi Mayekawa	0	Japan	Tokyo Institute of Technology
+2016	395	EM estimation of a structural equation model	Myriam Tami	1	France	University of Montpellier
+2016	293	Constructing a composite indicator for education monitoring	Dovile Stumbriene	1	Lithuania	Vilnius university
+2016	293	Constructing a composite indicator for education monitoring	Rimantas Zelvys	0	Lithuania	Vilnius university
+2016	293	Constructing a composite indicator for education monitoring	Audrone Jakaitiene	0	Lithuania	Vilnius university
+2016	214	Estimation techniques for discrete response variables in dual frame surveys	Antonio Arcos	1	Spain	Universidad de Granada
+2016	214	Estimation techniques for discrete response variables in dual frame surveys	Maria Giovanna Ranalli	0	Italy	University of Perugia
+2016	214	Estimation techniques for discrete response variables in dual frame surveys	David Molina	0	Spain	University of Granada
+2016	240	Improving the item sum technique using auxiliary information in complex surveys	Pier Francesco Perri	1	Italy	University of Calabria
+2016	240	Improving the item sum technique using auxiliary information in complex surveys	Beatriz Cobo	0	Spain	University of Granada
+2016	313	Privacy protection in surveys with RR techniques using nonparametric regression	Ismael Sanchez-Borrego	1	Spain	University of Granada
+2016	313	Privacy protection in surveys with RR techniques using nonparametric regression	Maria del Mar Rueda	0	Spain	Universidad de Granada
+2016	301	The seasonal fractionally integrated separable spatial autoregressive model and its properties	Papa Ousmane Cisse	1	Senegal	Le Mans University
+2016	301	The seasonal fractionally integrated separable spatial autoregressive model and its properties	Abdou Ka Diongue	0	Senegal	Gaston Berger
+2016	301	The seasonal fractionally integrated separable spatial autoregressive model and its properties	Dominique Guegan	0	France	LabEx ReFi and University Paris 1
+2016	339	Cross-sectional analysis through rank-based dynamic portfolios	Dominique Guegan	0	France	Universite Paris 1 - Pantheon-Sorbonne
+2016	339	Cross-sectional analysis through rank-based dynamic portfolios	Monica Billio	0	Italy	University of Venice
+2016	339	Cross-sectional analysis through rank-based dynamic portfolios	Ludovic Cales	0	Luxembourg	Hendyplan
+2016	343	Time varying graphs	Matteo Iacopini	1	Italy	Ca Foscari University of Venice
+2016	343	Time varying graphs	Dominique Guegan	0	France	Universite Paris 1 - Pantheon-Sorbonne
+2016	420	Inference in nonlinear systems with unscented Kalman filters	Diana Giurghita	1	United Kingdom	University of Glasgow
+2016	420	Inference in nonlinear systems with unscented Kalman filters	Dirk Husmeier	0	UK	Biomathematics and Statistics Scotland, Edinburgh
+2016	357	Sequential importance sampling for online Bayesian changepoint detection	Lida Mavrogonatou	1	United Kingdom	University of Glasgow
+2016	357	Sequential importance sampling for online Bayesian changepoint detection	Vladislav Vyshemirsky	0	United Kingdom	University of Glasgow
+2016	569	Discrete Bayesian DAG models with a restricted set of directions	Jacek Wesolowski	1	Poland	Warsaw University of Technology
+2016	162	Nonparametric hypothesis testing for isotonic survival models with clustering	John Eustaquio	1	Philippines	University of the Philppines - Diliman
+2016	251	Approximating the Rao's distance between negative binomial distributions: Application to counts of marine organisms	Claude Mante	1	France	Aix-Marseille University
+2016	251	Approximating the Rao's distance between negative binomial distributions: Application to counts of marine organisms	Saikou Kide	0	Mauritania	Institut Mauritanien de Recherches Oceanographiques et des Peches
+2016	475	Classification based on dissimilarities	Beibei Yuan	1	Netherlands	Leiden University
+2016	475	Classification based on dissimilarities	Willem Heiser	0	Netherlands	Leiden University
+2016	475	Classification based on dissimilarities	Mark De Rooij	0	Netherlands	Leiden University
+2016	520	An assessment of scientific research performance for ranking countries from EU	Florentin Serban	1	Romania	Bucharest University of Economic Studies
+2016	520	An assessment of scientific research performance for ranking countries from EU	Anca-Teodora Serban-Oprescu	0	Romania	Bucharest University of Economic Studies
+2016	534	An integrative framework for evaluating scientific research	Luiza Badin	1	Romania	Bucharest University of Economic Studies
+2016	534	An integrative framework for evaluating scientific research	Silvia Dedu	0	Romania	Bucharest University of Economic Studies
+2016	534	An integrative framework for evaluating scientific research	Anca-Teodora Serban-Oprescu	0	Romania	Bucharest University of Economic Studies
+2016	534	An integrative framework for evaluating scientific research	Florentin Serban	0	Romania	Bucharest University of Economic Studies
+2016	554	Exponentiated-type distribution families with applications to scientific performance evaluation	Silvia Dedu	1	Romania	Bucharest University of Economic Studies
+2016	554	Exponentiated-type distribution families with applications to scientific performance evaluation	Vasile Preda	0	Romania	University of Bucharest
+2016	413	A multimomental ARMA model: Initial formulation and a case study	Thomas Michael Bartlett	1	Brazil	University of Campinas
+2016	413	A multimomental ARMA model: Initial formulation and a case study	Levy Boccato	0	Brazil	University of Campinas
+2016	160	Relevance of combining ARFIMA and artificial intelligence-based models: An empirical evidence from Scandinavian market	Najeh Chaabane	0	Tunisia	University of Sousse-ISFF
+2016	502	Multiple use confidence intervals for the statistical calibration problem	Martina Chvostekova	1	Slovakia	Institute of Measurement Science of Slovak Academy of Sciences
+2016	521	Dilemma: Distributed learning with Markov Chain Monte Carlo algorithms	Ali Zaidi	1	United States	Microsoft
+2016	539	Capturing diagnostic error in geostatistical models of Malaria survey data	Eleni Verykouki	1	Switzerland	Swiss Tropical and Public Health Institute
+2016	539	Capturing diagnostic error in geostatistical models of Malaria survey data	Andres Cardona Gavaldon	0	Switzerland	Swiss Tropical and Public Health Institute
+2016	539	Capturing diagnostic error in geostatistical models of Malaria survey data	Penelope Vounatsou	0	Switzerland	Swiss Tropical and Public Health Institute
+2016	542	Classification of individual disability progression trajectories of multiple sclerosis patients	Ceren Tozlu	1	France	University of Lyon
+2016	542	Classification of individual disability progression trajectories of multiple sclerosis patients	Gabriel Kocevar	0	France	Claude Bernard University-Lyon
+2016	542	Classification of individual disability progression trajectories of multiple sclerosis patients	Francoise Durand-Dubief	0	France	Claude Bernard University-Lyon
+2016	542	Classification of individual disability progression trajectories of multiple sclerosis patients	Sandra Vukusic	0	France	Hospices Civils de Lyon
+2016	542	Classification of individual disability progression trajectories of multiple sclerosis patients	Dominique Sappey-Marinier	0	France	Claude Bernard University-Lyon
+2016	542	Classification of individual disability progression trajectories of multiple sclerosis patients	Delphine Maucort-Boulch	0	France	Claude Bernard University-Lyon
+2016	519	Estimating the effectiveness of AdWords geo-targeting	Iman Al-Hasani	1	United Kingdom	Durham University
+2016	365	Application of ensemble methods for detection of changepoints in generalized linear models	Asanao Shimokawa	1	Japan	Tokyo University of Science
+2016	365	Application of ensemble methods for detection of changepoints in generalized linear models	Takuma Kurosawa	0	Japan	Tokyo University of Science
+2016	365	Application of ensemble methods for detection of changepoints in generalized linear models	Etsuo Miyaoka	0	Japan	Tokyo University of Science
+2016	477	Bivariate regional frequency analysis of extreme precipitation events in the Czech Republic	Tereza Simkova	1	Czech Republic	Technical University of Liberec
+2016	477	Bivariate regional frequency analysis of extreme precipitation events in the Czech Republic	Jan Picek	0	Czech Republic	Technical University of Liberec
+2016	477	Bivariate regional frequency analysis of extreme precipitation events in the Czech Republic	Jan Kysely	0	Czech Republic	Institute of Atmospheric Physics AS CR
+2016	387	Relationship between dietary habits and dementia status among Japanese suburban community-dwelling elderly	Chisako Yamamoto	1	Japan	Shonan University of Medical Sciences
+2016	525	Generation of monthly precipitation series and the performance of homogeneity tests	Elif Akca	1	Turkey	Middle East Technical University
+2016	525	Generation of monthly precipitation series and the performance of homogeneity tests	Ceylan Yozgatligil	0	Turkey	Middle East Technical University
+2016	525	Generation of monthly precipitation series and the performance of homogeneity tests	Ceyda Yazici	0	Turkey	Middle East Technical University
+2016	538	Improvement of the methods of providing meteorological data for energy management systems	Takamitsu Funayama	1	Japan	Tokai University
+2016	538	Improvement of the methods of providing meteorological data for energy management systems	Takeshi Watanabe	0	Japan	Tokai University
+2016	538	Improvement of the methods of providing meteorological data for energy management systems	Hideaki Takenaka	0	Japan	JAXA
+2016	538	Improvement of the methods of providing meteorological data for energy management systems	Hideki Kimura	0	Japan	Tokai University
+2016	538	Improvement of the methods of providing meteorological data for energy management systems	Kota Fukuda	0	Japan	Tokai University
+2016	538	Improvement of the methods of providing meteorological data for energy management systems	Takashi Nakajima	0	Japan	Tokai University
+2016	538	Improvement of the methods of providing meteorological data for energy management systems	Yoshiro Yamamoto	0	Japan	Tokai Univeristy
+2016	366	Clustering for multivariate functional data	Pai-Ling Li	1	Taiwan	Tamkang University
+2016	366	Clustering for multivariate functional data	Ling-Cheng Kuo	0	Taiwan	Tamkang University
+2016	453	Geographically weighted quantile regression for count data	Vivian Yi-Ju Chen	1	Taiwan	Tamkang Universiy
+2016	192	Detecting anomalous data cells	Peter Rousseeuw	1	Belgium	KU Leuven
+2016	192	Detecting anomalous data cells	Wannes Van den Bossche	0	Belgium	KU Leuven
+2016	294	On robust and nonparametric change-point detection in multiple time series	Roland Fried	1	Germany	TU Dortmund University
+2016	294	On robust and nonparametric change-point detection in multiple time series	Alexander Duerre	0	Germany	TU Dortmund University
+2016	294	On robust and nonparametric change-point detection in multiple time series	Herold Dehling	0	Germany	Ruhr-University Bochum
+2016	294	On robust and nonparametric change-point detection in multiple time series	Daniel Vogel	0	United Kingdom	University of Aberdeen
+2016	294	On robust and nonparametric change-point detection in multiple time series	Martin  Wendler	0	Germany	Ernst Moritz Arndt Universitaet Greifswald
+2016	333	Robust principal components for high-dimensional data	Stefan Van Aelst	1	Belgium	University of Leuven
+2016	333	Robust principal components for high-dimensional data	Holger Cevallos Valdiviezo	0	Belgium	Ghent University
+2016	333	Robust principal components for high-dimensional data	Matias Salibian-Barrera	0	Canada	The University of British Columbia
+2016	199	An index to analyze a portion of the ROC curve	Maria del Carmen Pardo	1	Spain	Complutense University of Madrid
+2016	199	An index to analyze a portion of the ROC curve	Alba Franco-Pereira	0	Spain	Universidad Complutense de Madrid
+2016	196	Optimal cutpoints for classification in medical diagnostic tests	Monica Lopez Raton	1	Spain	Conselleria de Educacion- Xunta de Galicia
+2016	196	Optimal cutpoints for classification in medical diagnostic tests	Carmen Cadarso Suarez	0	Spain	Universidad de Santiago de Compostela
+2016	196	Optimal cutpoints for classification in medical diagnostic tests	Elisa Maria Molanes Lopez	0	Spain	Universidad Complutense de Madrid
+2016	262	Confidence intervals for differences between volumes under ROC surfaces and generalized Youden indices	Christos T Nakas	1	Switzerland	University of Bern
+2016	262	Confidence intervals for differences between volumes under ROC surfaces and generalized Youden indices	Benjamin Reiser	0	Israel	University of Haifa
+2016	262	Confidence intervals for differences between volumes under ROC surfaces and generalized Youden indices	Lili Tian	0	United States	State University of New York
+2016	262	Confidence intervals for differences between volumes under ROC surfaces and generalized Youden indices	JingJing Yin	0	United States	Georgia Southern University
+2016	289	Identifying optimal biomarker combinations for treatment selection using data from randomized controlled trials	Ying Huang	1	United States	Fred Hutchinson Cancer Research Center
+2016	306	A model based clustering for ordered categorical data	Tadashi Imaizumi	1	Japan	Tama University
+2016	411	Time series changes of the categorical data using the text data regarding radiation	Takafumi Kubota	1	Japan	Tama University
+2016	411	Time series changes of the categorical data using the text data regarding radiation	Hitoshi Fujimiya	0	Japan	DYNACOM
+2016	411	Time series changes of the categorical data using the text data regarding radiation	Hiroyuki A Torii	0	Japan	the University of Tokyo
+2016	404	Risk profiles for severe mental health difficulty: Classification and regression tree analysis	Yoshitake Takebayashi	1	Japan	Institute of Statistical Mathematics
+2016	404	Risk profiles for severe mental health difficulty: Classification and regression tree analysis	Takafumi Kubota	0	Japan	Tama University
+2016	404	Risk profiles for severe mental health difficulty: Classification and regression tree analysis	Tsubaki Hiroe	0	Japan	Institute of Statistical Mathematics
+2016	418	Visualization of cross tabulation by the association rules by using the correspondence analysis	Yoshiro Yamamoto	1	Japan	Tokai Univeristy
+2016	418	Visualization of cross tabulation by the association rules by using the correspondence analysis	Sanetoshi Yamada	0	Japan	Tokai University
+2016	269	Latent class trees	Mattis van den Bergh	1	Netherlands	Tilburg University
+2016	269	Latent class trees	Jeroen Vermunt	0	Netherlands	Tilburg University
+2016	284	Goodness-of-fit in multilevel latent class analysis	Erwin Nagelkerke	1	Netherlands	Tilburg University
+2016	284	Goodness-of-fit in multilevel latent class analysis	Daniel Oberski	0	Netherlands	Tilburg University
+2016	284	Goodness-of-fit in multilevel latent class analysis	Jeroen Vermunt	0	Netherlands	Tilburg University
+2016	268	New resampling methods applied to latent class model fit assessment	Geert van Kollenburg	1	Netherlands	Tilburg University
+2016	268	New resampling methods applied to latent class model fit assessment	Joris Mulder	0	Netherlands	Tilburg University
+2016	268	New resampling methods applied to latent class model fit assessment	Jeroen Vermunt	0	Netherlands	Tilburg University
+2016	224	Handling missing data with multiple imputation using LC models to investigate predictors of HPV infection	Roberto Di Mari	1	Italy	University of Rome Tor Vergata
+2016	224	Handling missing data with multiple imputation using LC models to investigate predictors of HPV infection	Jlenia Caccetta	0	Italy	Sapienza University of Rome
+2016	224	Handling missing data with multiple imputation using LC models to investigate predictors of HPV infection	Maura Mezzetti	0	Italy	University of Rome Tor Vergata
+2016	434	Monetary policy on Twitter and its effect on asset prices: Evidence from computational text analysis	Peter Tillmann	1	Germany	Justus-Liebig University Giessen
+2016	434	Monetary policy on Twitter and its effect on asset prices: Evidence from computational text analysis	Jochen Luedering	0	Germany	University of Giessen
+2016	469	Measuring dependence between dimensions of welfare using multivariate Spearman's rho and other copula-based coefficients	Ana Perez Espartero	1	Spain	University of Valladolid
+2016	469	Measuring dependence between dimensions of welfare using multivariate Spearman's rho and other copula-based coefficients	Mercedes Prieto-Alaiz	0	Spain	University of Valladolid
+2016	414	Joint modeling of inflation and real interest rate dynamics with application to equity-linked investment	Lasse Koskinen	1	Finland	University of Tampere
+2016	414	Joint modeling of inflation and real interest rate dynamics with application to equity-linked investment	Arto Luoma	0	Finland	University of Tampere
+2016	414	Joint modeling of inflation and real interest rate dynamics with application to equity-linked investment	Tommi Salminen	0	Finland	University of Tampere
+2016	172	Nonlinear dynamics and wavelet based analysis of crude oil prices	Emmanuel Senyo Fianu	1	Germany	Recent Affiliation--Leuphana University of Lueneburg
+2016	369	A consistent estimator of the smoothing operator in the functional Hodrick-Prescott filter	Hiba Nassar	1	Sweden	Lund University
+2016	541	Registration method for functional data based on shape invariant model with $t$ distribution	Mariko Takagishi	1	Japan	Doshisha University
+2016	541	Registration method for functional data based on shape invariant model with $t$ distribution	Hiroshi Yadohisa	0	Japan	Doshisha University
+2016	215	Functional regression analysis with compositional response	Renata Talska	1	Czech Republic	Palacky University Olomouc
+2016	215	Functional regression analysis with compositional response	Alessandra Menafoglio	0	Italy	Politecnico di Milano
+2016	215	Functional regression analysis with compositional response	Karel Hron	0	Czech Republic	Palacky University
+2016	215	Functional regression analysis with compositional response	Eva Fiserova	0	Czech Republic	Palacky University
+2016	215	Functional regression analysis with compositional response	Jitka Machalova	0	Czech Republic	Palacky University
+2016	473	Partially and dependently observed functional data	Stefan Rameseder	1	Germany	Regensburg
+2016	473	Partially and dependently observed functional data	Dominik Liebl	0	Germany	University Bonn
+2016	380	Detection of space-time clusters for radiation data using spatial interpolation and scan statistics	Fumio Ishioka	1	Japan	Okayama University
+2016	380	Detection of space-time clusters for radiation data using spatial interpolation and scan statistics	Koji Kurihara	0	Japan	Okayama University
+2016	401	Cluster detection of disease mapping data based on latent Gaussian Markov random field models	Wataru Sakamoto	1	Japan	Okayama University
+2016	221	ProbitSpatial R package: Fast and accurate spatial probit estimations	Davide Martinetti	1	France	INRA
+2016	221	ProbitSpatial R package: Fast and accurate spatial probit estimations	Ghislain Geniaux	0	France	INRA - Ecodeveloppement
+2016	465	A framework for spatio-temporal regression analysis of extremes in a presence of missing covariates	Olga Kaiser	1	Switzerland	Universita della Svizzera italiana
+2016	465	A framework for spatio-temporal regression analysis of extremes in a presence of missing covariates	Illia Horenko	0	Germany	Universita della Svizzera italiana
+2016	187	Multivariate functional principal component analysis for data observed on different (dimensional) domains	Clara Happ	1	Germany	LMU Munich
+2016	187	Multivariate functional principal component analysis for data observed on different (dimensional) domains	Sonja Greven	0	Germany	LMU Munich
+2016	206	An ANOVA test for functional data with graphical interpretation	Tomas Mrkvicka	1	Czech Republic	University of South Bohemia
+2016	206	An ANOVA test for functional data with graphical interpretation	Mari Myllymaki	0	Finland	Natural Resources Institute Finland
+2016	206	An ANOVA test for functional data with graphical interpretation	Ute Hahn	0	Denmark	University of Aarhus
+2016	209	Bootstrap confidence intervals in semi-functional partial linear regression under dependence	Paula Rana Miguez	1	Spain	Universidade da Coruna
+2016	209	Bootstrap confidence intervals in semi-functional partial linear regression under dependence	German Aneiros-Perez	0	Spain	University of Coruna
+2016	209	Bootstrap confidence intervals in semi-functional partial linear regression under dependence	Juan Vilar Fernandez	0	Spain	Universidade da Coruna
+2016	209	Bootstrap confidence intervals in semi-functional partial linear regression under dependence	Philippe Vieu	0	France	University Paul Sabatier
+2016	291	Multi-classification of human body motions from acceleration curves	M Carmen Aguilera-Morillo	1	Spain	Universidad Carlos III de Madrid
+2016	291	Multi-classification of human body motions from acceleration curves	Ana Maria Aguilera	0	Spain	University of Granada
+2016	348	Reconstructing gradients from sparse functional data	Ian McKeague	1	United States	Columbia University
+2016	287	Coordination of spatial samples	Anton Grafstrom	1	Sweden	Swedish University of Agricultural Sciences
+2016	287	Coordination of spatial samples	Alina Matei	0	Switzerland	University of Neuchatel
+2016	181	Estimation of the finite population distribution function using a global penalized calibration method	Maria Dolores Jimenez-Gamero	1	Spain	Universidad de Sevilla
+2016	181	Estimation of the finite population distribution function using a global penalized calibration method	Jose Antonio Mayor-Gallego	0	Spain	University of Sevilla
+2016	181	Estimation of the finite population distribution function using a global penalized calibration method	Juan Luis Moreno-Rebollo	0	Spain	Seville
+2016	271	A systematic approach for choosing a sampling design	Yves Tille	1	Switzerland	University of Neuchatel
+2016	311	Small area estimation: A nonparametric maximum likelihood approach	Maria Francesca Marino	1	Italy	University of Perugia
+2016	311	Small area estimation: A nonparametric maximum likelihood approach	Maria Giovanna Ranalli	0	Italy	University of Perugia
+2016	311	Small area estimation: A nonparametric maximum likelihood approach	Nicola Salvati	0	Italy	University of Pisa
+2016	311	Small area estimation: A nonparametric maximum likelihood approach	Marco Alfo	0	Italy	University La Sapienza, Rome
+2016	285	Estimation of total electricity consumption curves of small areas by sampling in a finite population.	Anne de Moliner	1	France	Universite de Bourgogne EDF
+2016	285	Estimation of total electricity consumption curves of small areas by sampling in a finite population.	Herve Cardot	0	France	Universite de Bourgogne
+2016	285	Estimation of total electricity consumption curves of small areas by sampling in a finite population.	Camelia Goga	0	France	Universite de Bourgogne
+2016	581	Band pass filtering and wavelets analysis	Stephen Pollock	1	United Kingdom	University of Leicester
+2016	530	Affine invariant algorithms for nonnegative matrix and 3D tensor factorization	Hideyuki Imai	1	Japan	Hokkaido University
+2016	530	Affine invariant algorithms for nonnegative matrix and 3D tensor factorization	Ruoni Zhang	0	Japan	Hokkaido University
+2016	570	The Matsumoto-Yor property on trees for matrix variates of different dimensions	Konstancja Bobecka	1	Poland	Warsaw University of Technology
+2016	488	Test for covariance structure for high-dimensional data under non-normality	Takahiro Nishiyama	1	Japan	Senshu University
+2016	488	Test for covariance structure for high-dimensional data under non-normality	Yuki Yamada	0	Japan	Tokyo University of Science
+2016	488	Test for covariance structure for high-dimensional data under non-normality	Masashi Hyodo	0	Japan	Osaka Prefecture University
+2016	220	Analysis of rotational deformations from directional data using a parametric and non-parametric approach	Joern Schulz	1	Norway	University of Stavanger
+2016	220	Analysis of rotational deformations from directional data using a parametric and non-parametric approach	Byung-Won Kim	0	United States	University of Pittsburgh
+2016	220	Analysis of rotational deformations from directional data using a parametric and non-parametric approach	Stephan Huckemann	0	Germany	University of Goettingen
+2016	220	Analysis of rotational deformations from directional data using a parametric and non-parametric approach	Steve Marron	0	United States	University of North Carolina at Chapel Hill
+2016	220	Analysis of rotational deformations from directional data using a parametric and non-parametric approach	Stephen Pizer	0	United States	University of North Carolina at Chapel Hill
+2016	220	Analysis of rotational deformations from directional data using a parametric and non-parametric approach	Sungkyu Jung	0	Korea, South	Seoul National University
+2016	561	Components selection for multivariate outlier detection with ICS	Aurore Archimbaud	1	France	Toulouse School of Economics
+2016	561	Components selection for multivariate outlier detection with ICS	Anne Ruiz-Gazen	0	France	Toulouse School of Economics
+2016	561	Components selection for multivariate outlier detection with ICS	Klaus Nordhausen	0	Austria	Vienna University of Technology
+2016	207	Change point detection by filtered derivative with $p$-Value: Choice of the extra-parameters	Pierre Bertrand	1	France	University Clermont-Ferrand
+2016	207	Change point detection by filtered derivative with $p$-Value: Choice of the extra-parameters	Doha Hadouni	0	France	Blaise Pascal
+2016	441	Modeling bivariate count series through dynamic factor models	Magda Monteiro	1	Portugal	University of Aveiro
+2016	441	Modeling bivariate count series through dynamic factor models	Isabel Pereira	0	Portugal	University of Aveiro
+2016	441	Modeling bivariate count series through dynamic factor models	Manuel Scotto	0	Portugal	IST-University of Lisboa
+2016	533	Sliced inverse regression for time series	Markus Matilainen	1	Finland	University of Turku/Turku PET Centre
+2016	533	Sliced inverse regression for time series	Christophe Croux	0	France	Edhec Business School
+2016	533	Sliced inverse regression for time series	Klaus Nordhausen	0	Austria	Vienna University of Technology
+2016	533	Sliced inverse regression for time series	Hannu Oja	0	Finland	University of Turku
+2016	161	Calculating joint confidence bands for impulse response functions using highest density regions	Helmut Luetkepohl	1	Germany	DIW Berlin and Freie Universitaet Berlin
+2016	161	Calculating joint confidence bands for impulse response functions using highest density regions	Anna Staszewska-Bystrova	0	Poland	University of Lodz
+2016	161	Calculating joint confidence bands for impulse response functions using highest density regions	Peter Winker	0	Germany	University of Giessen
+2016	515	Randomized singular spectrum analysis for long time series	Paulo Canas Rodrigues	1	Brazil	Federal University of Bahia
+2016	515	Randomized singular spectrum analysis for long time series	Petala Tuy	0	Brazil	Federal University of Bahia
+2016	515	Randomized singular spectrum analysis for long time series	Rahim Mahmoudvand	0	Iran	Bu-Ali Sina University
+2016	388	On multivariate extensions of the Mixed Tempered Stable distribution	Asmerilda Hitaj	1	Italy	Milano Bicocca
+2016	388	On multivariate extensions of the Mixed Tempered Stable distribution	Friedrich  Hubalek	0	Austria	Vienna University of Technology
+2016	388	On multivariate extensions of the Mixed Tempered Stable distribution	Lorenzo Mercuri	0	Italy	University of Milan
+2016	388	On multivariate extensions of the Mixed Tempered Stable distribution	Edit Rroji	0	Italy	University of Trieste
+2016	323	Asymptotic normality of the maximum likelihood estimator for the latent block model	Vincent Brault	1	France	 AgroParisTech
+2016	323	Asymptotic normality of the maximum likelihood estimator for the latent block model	Christine Keribin	0	France	INRIA - Universite Paris-Sud
+2016	323	Asymptotic normality of the maximum likelihood estimator for the latent block model	Mahendra Mariadassou	0	France	INRA
+2016	183	A classical invariance approach to the normal mixture problem	Monia Ranalli	1	United States	The Pennsylvania State University
+2016	183	A classical invariance approach to the normal mixture problem	Bruce Lindsay	0	United States	The Pennsylvania State University
+2016	183	A classical invariance approach to the normal mixture problem	David Hunter	0	United States	Pennsylvania State University
+2016	464	Accounting for the sparsity rate in prior selection in inverse problems via generalized Student$-t$ distribution	Mircea Dumitru	1	France	CNRS - Universite Paris-Sud - CentraleSupelec
+2016	464	Accounting for the sparsity rate in prior selection in inverse problems via generalized Student$-t$ distribution	Li Wang	0	France	CNRS - Universite Paris-Sud - CentraleSupelec
+2016	464	Accounting for the sparsity rate in prior selection in inverse problems via generalized Student$-t$ distribution	Ali Mohammad-Djafari	0	France	CNRS
+2016	194	Evaluation of the robustness of stepwise latent class estimators and a new two-stage estimator	Zsuzsa Bakk	1	Netherlands	Leiden university
+2016	427	Using forward search algorithm for person fit analysis in general cognitive diagnosis models	Kevin Carl Santos	1	Hong Kong	The University of Hong Kong
+2016	427	Using forward search algorithm for person fit analysis in general cognitive diagnosis models	Jimmy  de la Torre	0	Hong Kong	The University of Hong Kong
+2016	427	Using forward search algorithm for person fit analysis in general cognitive diagnosis models	Erniel Barrios	0	Philippines	University of the Philippines
+2016	494	Approximate likelihood inference via dimension reduction in latent variable models for categorical data	Silvia Cagnone	1	Italy	University of Bologna
+2016	494	Approximate likelihood inference via dimension reduction in latent variable models for categorical data	Silvia Bianconcini	0	Italy	University of Bologna
+2016	494	Approximate likelihood inference via dimension reduction in latent variable models for categorical data	Dimitris Rizopoulos	0	Netherlands	Erasmus University Rotterdam
+2016	440	Penalized latent variable models	Brice Ozenne	1	Denmark	Copenhagen University
+2016	440	Penalized latent variable models	Klaus Kahler  Holst	0	Denmark	Copenhagen University
+2016	440	Penalized latent variable models	Esben  Budtz-Jorgensen	0	Denmark	Copenhagen University
+2016	535	Generalized linear latent variable models for analyzing multivariate abundance data	Sara Taskinen	1	Finland	University of Jyvaskyla
+2016	535	Generalized linear latent variable models for analyzing multivariate abundance data	Jenni Niku	0	Finland	University of Jyvaskyla
+2016	535	Generalized linear latent variable models for analyzing multivariate abundance data	Francis Hui	0	Australia	Australian National University
+2016	535	Generalized linear latent variable models for analyzing multivariate abundance data	David Warton	0	Australia	University of New South Wales
+2016	270	On variants of the iterative scaling algorithm	Tamas Rudas	1	Hungary	Hungarian Academy of Sciences Centre for Social Sciences
+2016	270	On variants of the iterative scaling algorithm	Anna Klimova	0	Austria	IST Austria
+2016	277	Mixed parametrization, IPF and fixed point algorithms in marginal models	Antonio Forcina	1	Italy	Perugia
+2016	310	A unified approach to marginal and conditional independencies of binary variables based on Moebius inversion	Luca La Rocca	1	Italy	University of Modena and Reggio Emilia
+2016	310	A unified approach to marginal and conditional independencies of binary variables based on Moebius inversion	Alberto Roverato	0	Italy	University of Bologna
+2016	275	Poverty mapping in small areas under a two-fold nested error regression model	Isabel Molina	1	Spain	Universidad Carlos III de Madrid
+2016	275	Poverty mapping in small areas under a two-fold nested error regression model	Domingo Morales	0	Spain	University Miguel Hernandez of Elche
+2016	275	Poverty mapping in small areas under a two-fold nested error regression model	Yolanda Marhuenda	0	Spain	Universidad Miguel Hernandez de Elche
+2016	279	Multivariate area level models for small area estimation	Domingo Morales	1	Spain	University Miguel Hernandez of Elche
+2016	279	Multivariate area level models for small area estimation	Roberto Benavent	0	Spain	University Miguel Hernandez de Elche
+2016	314	Estimating poverty indicators under area-level Poisson mixed models with SAR(1) domain effects	Miguel Boubeta	1	Spain	Universidade da Coruna
+2016	314	Estimating poverty indicators under area-level Poisson mixed models with SAR(1) domain effects	Maria Jose Lombardia	0	Spain	Universidade da Coruna
+2016	314	Estimating poverty indicators under area-level Poisson mixed models with SAR(1) domain effects	Domingo Morales	0	Spain	University Miguel Hernandez of Elche
+2016	305	On multidimensional Gaussian Markov random fields and Bayesian computation	Ying C MacNab	1	Canada	University of British Columbia
+2016	356	Combining multiple frequencies in multivariate volatility forecasting	Alessandra Amendola	1	Italy	University of Salerno
+2016	356	Combining multiple frequencies in multivariate volatility forecasting	Vincenzo Candila	0	Italy	Sapienza University of Rome
+2016	356	Combining multiple frequencies in multivariate volatility forecasting	Giuseppe Storti	0	Italy	University of Salerno
+2016	472	Genetic versus controlled approximate algorithms for regression model selection	Georgiana-Elena Pascaru	1	Romania	Alexandru Ioan Cuza University of Iasi
+2016	472	Genetic versus controlled approximate algorithms for regression model selection	Cristian Gatu	0	Romania	Alexandru Ioan Cuza University of Iasi
+2016	472	Genetic versus controlled approximate algorithms for regression model selection	Erricos John Kontoghiorghes	0	Cyprus	Cyprus University of Technology and Birkbeck University of London, UK
+2016	579	Predicting patient's response to the treatment based on high dimensional genetic data	Malgorzata Bogdan	1	Poland	University of Wroclaw
+2016	177	A characterization theorem for the least squares piecewise monotonic data fitting	Ioannis Demetriou	1	Greece	University of Athens
+2016	254	Robust mixture modeling by mean shift parameters	Weixin Yao	1	United States	UC Riverside
+2016	254	Robust mixture modeling by mean shift parameters	Chun Yu	0	China	Jiangxi University of Finance and Economics
+2016	254	Robust mixture modeling by mean shift parameters	Kun Chen	0	United States	University of Connecticut
+2016	351	Trimming in probabilistic clustering	Gunter Ritter	1	Germany	University of Passau
+2016	567	Diagnostics in finite mixture models and model-based clustering	Ranjan Maitra	1	United States	Iowa State University
+2016	499	Towards the development of arc length regression	Theodor Loots	1	South Africa	University of Pretoria
+2016	499	Towards the development of arc length regression	Andriette Bekker	0	South Africa	University of Pretoria
+2016	350	Shape constrained regression in Sobolev spaces and tests of isotonicity	Michal Pesta	1	Czech Republic	Charles University, Faculty of Mathematics and Physics
+2016	302	Semiparametric probit model for high-dimensional clustered data	Daniel Raguindin	1	Philippines	University of the philippines
+2016	302	Semiparametric probit model for high-dimensional clustered data	Erniel Barrios	0	Philippines	University of the Philippines
+2016	302	Semiparametric probit model for high-dimensional clustered data	Joseph Ryan Lansangan	0	Philippines	University of the Philippines
+2016	524	Two-step estimation for varying coefficient regression models with censored data	Seong Jun Yang	1	Korea, South	Hankuk University of Foreign Studies
+2016	524	Two-step estimation for varying coefficient regression models with censored data	Cedric Heuchenne	0	Belgium	University of Liege
+2016	524	Two-step estimation for varying coefficient regression models with censored data	Ingrid Van Keilegom	0	Belgium	KU Leuven
+2016	443	Asymptotic confidence bands in the Spektor-Lord-Willis problem	Bogdan Cmiel	1	Poland	Polish Academy of Sciences
+2016	443	Asymptotic confidence bands in the Spektor-Lord-Willis problem	Zbigniew Szkutnik	0	Poland	AGH University of Science and Technology
+2016	443	Asymptotic confidence bands in the Spektor-Lord-Willis problem	Jakub Wojdyla	0	Poland	AGH University of Science and Technology
+2016	459	Validation of positive expectation dependence	Bogdan Cmiel	1	Poland	Polish Academy of Sciences
+2016	459	Validation of positive expectation dependence	Teresa Ledwina	0	Poland	Polish Academy of Sciences
+2016	476	Some limit theorems in a two-sex branching model	Alfonso Ramos	1	Spain	University of Extremadura
+2016	476	Some limit theorems in a two-sex branching model	Manuel Molina	0	Spain	University of Extremadura
+2016	476	Some limit theorems in a two-sex branching model	Manuel Mota	0	Spain	University of Extremadura
+2016	486	Improved $\phi$-divergence test statistics based on minimum $\phi^{*}$-divergence estimator for GLIMs of binary data	Nobuhiro Taneichi	1	Japan	Kagoshima University
+2016	486	Improved $\phi$-divergence test statistics based on minimum $\phi^{*}$-divergence estimator for GLIMs of binary data	Yuri Sekiya	0	Japan	Hokkaido University of Education
+2016	486	Improved $\phi$-divergence test statistics based on minimum $\phi^{*}$-divergence estimator for GLIMs of binary data	Jun Toyama	0	Japan	The Institute for the Practical Application of Mathematics
+2016	248	Structure estimation for time-varying mixed graphical models in high-dimensional data	Jonas Haslbeck	1	Netherlands	University of Amsterdam
+2016	248	Structure estimation for time-varying mixed graphical models in high-dimensional data	Lourens Waldorp	0	Netherlands	University of Amsterdam
+2016	513	Dynamics of networks: The mean field approach to probabilistic cellular automata on random and small-world graphs	Lourens Waldorp	1	Netherlands	University of Amsterdam
+2016	513	Dynamics of networks: The mean field approach to probabilistic cellular automata on random and small-world graphs	Jolanda Kossakowski	0	Netherlands	University of Amsterdam
+2016	272	Bayesian VAR-modeling: Unraveling emotion dynamics in multivariate, multisubject time series	Casper Albers	1	Netherlands	University of Groningen
+2016	272	Bayesian VAR-modeling: Unraveling emotion dynamics in multivariate, multisubject time series	Tanja Krone	0	Netherlands	University of Groningen
+2016	272	Bayesian VAR-modeling: Unraveling emotion dynamics in multivariate, multisubject time series	Marieke Timmerman	0	Netherlands	University of Groningen
+2016	272	Bayesian VAR-modeling: Unraveling emotion dynamics in multivariate, multisubject time series	Peter Kuppens	0	Belgium	Leuven
+2016	497	Bayesian prediction based on profile-reference data	Shigetoshi Hosaka	1	Japan	Hosaka Clinic of Internal Medicine
+2016	497	Bayesian prediction based on profile-reference data	Jinfang Wang	0	Japan	Chiba University
+2016	345	Joint similarity measures defined with quasi-arithmetic means	Etienne Cuvelier	1	Belgium	ICHEC - Brussel
+2016	317	HistDAWass package: An R tool for forecasting histogram-valued data	Javier Arroyo	1	Spain	Universidad Complutense de Madrid
+2016	317	HistDAWass package: An R tool for forecasting histogram-valued data	Antonio Irpino	0	Italy	Second University of Naples
+2016	492	Improved scale-space analysis for interval-valued data	Kee-Hoon Kang	1	Korea, South	Hankuk University of Foreign Studies
+2016	492	Improved scale-space analysis for interval-valued data	Cheolwoo Park	0	United States	University of Georgia
+2016	492	Improved scale-space analysis for interval-valued data	Yongho Jeon	0	Korea, South	Yonsei University
+2016	308	Survival analysis for semi-Markov processes	Vlad Barbu	1	France	Universite de Rouen
+2016	360	Analysis of software bug data across version releases with application to optimal version release	Simon Wilson	1	Ireland	Trinity College Dublin
+2016	360	Analysis of software bug data across version releases with application to optimal version release	Sean ORiordain	0	Ireland	Trinity College Dublin
+2016	249	The Dagum regression model in survival analysis	Mariangela Zenga	1	Italy	Universita degli Studi di Milano-Bicocca -DISMEQ
+2016	249	The Dagum regression model in survival analysis	Juan Eloy Ruiz-Castro	0	Spain	University of Granada
+2016	249	The Dagum regression model in survival analysis	Filippo Domma	0	Italy	University of Calabria
+2016	529	A robust fuzzy clustering method for non-precise data based on trimmed regions	Ana Belen Ramos-Guajardo	1	Spain	University of Oviedo
+2016	529	A robust fuzzy clustering method for non-precise data based on trimmed regions	Maria Brigida Ferraro	0	Italy	Sapienza University of Rome
+2016	403	Non-reduced versus reduced-bias estimators of the extreme value index: Efficiency and robustness	Ivette Gomes	1	Portugal	FCiencias.ID, Universidade de Lisboa and CEAUL
+2016	164	Univariate analysis of compositional data using weighted balances	Karel Hron	1	Czech Republic	Palacky University
+2016	164	Univariate analysis of compositional data using weighted balances	Peter Filzmoser	0	Austria	Vienna University of Technology
+2016	164	Univariate analysis of compositional data using weighted balances	Alzbeta Gardlo	0	Czech Republic	Palacky University
+2016	233	A semiparametric model for generalized Pareto regressions based on a dimension reduction assumption	Julien Hambuckers	1	Germany	University of Goettingen
+2016	233	A semiparametric model for generalized Pareto regressions based on a dimension reduction assumption	Cedric Heuchenne	0	Belgium	University of Liege
+2016	233	A semiparametric model for generalized Pareto regressions based on a dimension reduction assumption	Olivier Lopez	0	France	Université Pierre et Marie Curie Paris VI
+2016	211	Switching meta-regression model in high dimensional data	Ivy Corazon Ancog	1	Philippines	Bohol Island State University and University of the Philippines
+2016	211	Switching meta-regression model in high dimensional data	Erniel Barrios	0	Philippines	University of the Philippines
+2016	211	Switching meta-regression model in high dimensional data	Joseph Ryan Lansangan	0	Philippines	University of the Philippines
+2016	198	Illumination problems in digital images: A statistical point of view	Segolen Geffray	1	France	Universite de Strasbourg
+2016	198	Illumination problems in digital images: A statistical point of view	Nicolas Klutchnikoff	0	France	Universite Rennes 2
+2016	198	Illumination problems in digital images: A statistical point of view	Myriam Vimond	0	France	ENSAI
+2016	457	Supervised classification using a distance-depth function	Itziar Irigoien	1	Spain	University Basque Country
+2016	457	Supervised classification using a distance-depth function	Concepcion Arenas	0	Spain	University of Barcelona
+2016	457	Supervised classification using a distance-depth function	Francesc Mestres	0	Spain	University of Barcelona
+2016	467	Estimation in the functional convolution model	Tito Manrique	1	France	UMR MISTEA - INRA Montpellier SUPAGRO
+2016	467	Estimation in the functional convolution model	Christophe Crambes	0	France	University of Montpellier
+2016	467	Estimation in the functional convolution model	Nadine Hilgert	0	France	UMR MISTEA INRA Montpellier SUPAGRO
+2016	505	A novel two-step iterative approach for clustering functional data	Zuzana Rostakova	1	Slovakia	Slovak Academy of Sciences
+2016	505	A novel two-step iterative approach for clustering functional data	Roman Rosipal	0	Slovakia	Slovak Academy of Sciences
+2016	510	Prediction of disease risk by high-dimensional genetic and environmental data	Norbert Krautenbacher	1	Germany	Technical University of Munich and Helmholtz Center Munich
+2016	510	Prediction of disease risk by high-dimensional genetic and environmental data	Christiane Fuchs	0	Germany	Helmholtz Center Munich
+2016	510	Prediction of disease risk by high-dimensional genetic and environmental data	Fabian Theis	0	Germany	Institute of Computational Biology Helmholtz Center Munich
+2016	504	Modified profile likelihood in complex models with many nuisance parameters	Claudia Di Caterina	1	Italy	University of Padova
+2016	504	Modified profile likelihood in complex models with many nuisance parameters	Nicola Sartori	0	Italy	University of Padova
+2016	217	Flexible Birnbaum-Saunders models	Heleno Bolfarine	1	Brazil	University of Sao Paulo
+2016	235	Influence of missing data on the estimation of the number of components of a PLS regression	Nicolas Meyer	1	France	Universite de Strasbourg
+2016	235	Influence of missing data on the estimation of the number of components of a PLS regression	Frederic Bertrand	0	France	Universite de Strasbourg
+2016	235	Influence of missing data on the estimation of the number of components of a PLS regression	Myriam Maumy-Bertrand	0	France	Universite de Strasbourg
+2016	415	A visualized measure vector of departure from double symmetry for square contingency tables	Shuji Ando	1	Japan	Novartis Pharma KK
+2016	415	A visualized measure vector of departure from double symmetry for square contingency tables	Kouji Tahata	0	Japan	Tokyo University of Science
+2016	415	A visualized measure vector of departure from double symmetry for square contingency tables	Sadao Tomizawa	0	Japan	Tokyo University of Science
+2016	536	Model-based ordination method for overdispersed count data	Jenni Niku	1	Finland	University of Jyvaskyla
+2016	536	Model-based ordination method for overdispersed count data	Francis Hui	0	Australia	Australian National University
+2016	536	Model-based ordination method for overdispersed count data	Sara Taskinen	0	Finland	University of Jyvaskyla
+2016	536	Model-based ordination method for overdispersed count data	David Warton	0	Australia	University of New South Wales
+2016	478	Using simulated annealing and variable neighborhood search procedures for estimating the Hubbert diffusion process	Francisco Torres-Ruiz	1	Spain	Granada
+2016	478	Using simulated annealing and variable neighborhood search procedures for estimating the Hubbert diffusion process	Istoni da Luz-Sant-Ana	0	Brazil	Federal Institute of Rio de Janeiro
+2016	478	Using simulated annealing and variable neighborhood search procedures for estimating the Hubbert diffusion process	Patricia Roman-Roman	0	Spain	Universidad de Granada
+2016	236	New insights in Approximate Bayesian Computation algorithms for network reverse-engineering	Nicolas Jung	1	France	Universite de Strasbourg
+2016	236	New insights in Approximate Bayesian Computation algorithms for network reverse-engineering	Frederic Bertrand	0	France	Universite de Strasbourg
+2016	236	New insights in Approximate Bayesian Computation algorithms for network reverse-engineering	Myriam Maumy-Bertrand	0	France	Universite de Strasbourg
+2016	236	New insights in Approximate Bayesian Computation algorithms for network reverse-engineering	Khadija Musayeva	0	France	Universite de Strasbourg
+2016	264	Runway excursions: Risk assessment with Bayesian network models	Fernando Calle-Alonso	1	Spain	University of Extremadura
+2016	264	Runway excursions: Risk assessment with Bayesian network models	Carlos Javier Perez Sanchez	0	Spain	University of Extremadura
+2016	264	Runway excursions: Risk assessment with Bayesian network models	Eduardo Sanchez Ayra	0	Spain	Iberia Airlines
+2016	264	Runway excursions: Risk assessment with Bayesian network models	David Rios Insua	0	Spain	CMAT-CSIC
+2016	381	Bayesian estimation of extreme value mixture models: Simplifications and enhancements	Daniela Laas	1	Switzerland	University of Saint Gallen
+2018	251	The log-ratio methodology: Major concepts, robustness, and practical use	Peter Filzmoser	1	Austria	Vienna University of Technology
+2018	252	Compositional tables and their coordinate representations	Karel Hron	1	Czech Republic	Palacky University
+2018	252	Compositional tables and their coordinate representations	Kamila Facevicova	0	Czech Republic	Palacky University Olomouc
+2018	252	Compositional tables and their coordinate representations	Julie Rendlova	0	Czech Republic	Palacky University
+2018	298	A Bayes space approach to the analysis of probability density functions	Alessandra Menafoglio	1	Italy	Politecnico di Milano
+2018	329	Modelling the dynamic pattern of surface area in basketball and its effects on team performance	Rodolfo Metulini	1	Italy	1983
+2018	234	Ranking soccer teams on their current strength: A comparison of maximum likelihood approaches	Hans Van Eetvelde	1	Belgium	Ghent University
+2018	234	Ranking soccer teams on their current strength: A comparison of maximum likelihood approaches	Christophe Ley	0	Belgium	Ghent University
+2018	314	Passing networks and game style in football teams: Evidences from European champions league	Lucio Palazzo	1	Italy	University of Salerno
+2018	314	Passing networks and game style in football teams: Evidences from European champions league	Riccardo Ievoli	0	Italy	University of Bologna
+2018	314	Passing networks and game style in football teams: Evidences from European champions league	Giarncarlo Ragozini	0	Italy	Federico II University of Naples
+2018	397	Model-based profiling of sport preferences	Rosaria Simone	1	Italy	University of Naples Federico II
+2018	170	An alternative sensitive analysis approach for missing not at random	Chiu-Hsieh Hsu	1	United States	University of Arizona
+2018	170	An alternative sensitive analysis approach for missing not at random	Chengcheng Hu	0	United States	University of Arizona
+2018	170	An alternative sensitive analysis approach for missing not at random	Yulei  He	0	United States	CDC
+2018	305	A Bayesian dose-finding design in oncology using pharmacokinetic/pharmacodynamic modeling	Xiao Su	1	United States	The University of Texas MD Anderson Cancer Center
+2018	305	A Bayesian dose-finding design in oncology using pharmacokinetic/pharmacodynamic modeling	Yisheng Li	0	United States	The University of Texas MD Anderson Cancer Center
+2018	305	A Bayesian dose-finding design in oncology using pharmacokinetic/pharmacodynamic modeling	Peter Mueller	0	United States	UT Austin
+2018	305	A Bayesian dose-finding design in oncology using pharmacokinetic/pharmacodynamic modeling	Kim-Anh Do	0	United States	The University of Texas MD Anderson Cancer Center
+2018	223	Joint scale change models for recurrent events and failure time	Gongjun Xu	1	United States	University of Michigan
+2018	223	Joint scale change models for recurrent events and failure time	Sy Han Chiou	0	United States	University of Texas at Dallas
+2018	223	Joint scale change models for recurrent events and failure time	Chiung-Yu Huang	0	United States	Johns Hopkins University
+2018	223	Joint scale change models for recurrent events and failure time	Jun Yan	0	United States	University of Connecticut
+2018	223	Joint scale change models for recurrent events and failure time	Chiung-Yu Huang	0	United States	University of California, San Francisco
+2018	158	Accelerated methods for maximum likelihood estimation in mixed effects models	Belhal Karimi	1	France	INRIA Saclay - Ecole Polytechnique
+2018	158	Accelerated methods for maximum likelihood estimation in mixed effects models	Marc Lavielle	0	France	INRIA
+2018	158	Accelerated methods for maximum likelihood estimation in mixed effects models	Eric  Moulines	0	France	Ecole Polytechnique
+2018	227	Estimating a counterfactual wage heavy-tailed distribution using survey data	Mihaela Catalina Anastasiade	1	Switzerland	University of Neuchatel
+2018	227	Estimating a counterfactual wage heavy-tailed distribution using survey data	Alina Matei	0	Switzerland	University of Neuchatel
+2018	227	Estimating a counterfactual wage heavy-tailed distribution using survey data	Yves Tille	0	Switzerland	University of Neuchatel
+2018	217	Fast implementation and generalization of Fuller's unequal probability sampling method	Yves Tille	1	Switzerland	University of Neuchatel
+2018	231	Spatial small area smoothing models for handling survey data with nonresponse	Kevin Watjou	1	Belgium	University Hasselt
+2018	231	Spatial small area smoothing models for handling survey data with nonresponse	Christel Faes	0	Belgium	Hasselt University
+2018	231	Spatial small area smoothing models for handling survey data with nonresponse	Andrew Lawson	0	United States	Medical University of South Carolina
+2018	231	Spatial small area smoothing models for handling survey data with nonresponse	Rachel  Carroll	0	United States	NIH
+2018	231	Spatial small area smoothing models for handling survey data with nonresponse	Mehreteab Aregay	0	United States	Novartis
+2018	231	Spatial small area smoothing models for handling survey data with nonresponse	Yannick Vandendijck	0	Belgium	Hasselt University
+2018	231	Spatial small area smoothing models for handling survey data with nonresponse	Russell Kirby	0	United States	University of South Florida
+2018	160	Visualization of dependence in high-dimensional data with R	Marius Hofert	1	Canada	University of Waterloo
+2018	258	Robust change point tests using bounded transformations	Alexander Duerre	1	Germany	TU Dortmund
+2018	258	Robust change point tests using bounded transformations	Roland Fried	0	Germany	TU Dortmund University
+2018	258	Robust change point tests using bounded transformations	Daniel Vogel	0	United Kingdom	University of Aberdeen
+2018	259	Testing for changes in the distribution function, cross-sectional and serial dependence of multivariate time series	Ivan Kojadinovic	1	France	CNRS UMR 5142 LMA University of Pau
+2018	190	A computationally feasible algorithm for robust clustering under determinant-and-shape constraints	Luis Angel Garcia-Escudero	1	Spain	Universidad de Valladolid
+2018	190	A computationally feasible algorithm for robust clustering under determinant-and-shape constraints	Andrea Cerioli	0	Italy	University of Parma
+2018	190	A computationally feasible algorithm for robust clustering under determinant-and-shape constraints	Agustin Mayo-Iscar	0	Spain	Universidad de Valladolid
+2018	190	A computationally feasible algorithm for robust clustering under determinant-and-shape constraints	Marco Riani	0	Italy	University of Parma
+2018	287	The use of prior information in very robust regression for the monitoring of EU sensitive products	Aldo Corbellini	1	Italy	Faculty of Economics - University of Parma
+2018	287	The use of prior information in very robust regression for the monitoring of EU sensitive products	Andrea Cerasa	0	Italy	European Commission - Joint Research Centre
+2018	287	The use of prior information in very robust regression for the monitoring of EU sensitive products	Francesca Torti	0	Italy	European Commission - Joint Research Centre
+2018	289	Monitoring robust estimates for compositional data	Valentin Todorov	1	Austria	UNIDO
+2018	179	Mis-specification analysis of a pH acceleration model	S-T Tseng	1	Taiwan	National Tsing-Hua University
+2018	228	A non-parametric approach for monitoring linear profiles using spatial rank-based regression	Longcheen Huwang	1	Taiwan	National Tsing Hua University
+2018	273	Optimal doubling burn-in policy based on tweedie processes with applications to degradation data	Chien-Yu Peng	1	Taiwan	Academia Sinica
+2018	363	Classification trees with Gini samples splits	Amirah Alharthi	1	United Kingdom	University of Leeds
+2018	409	Classification based on dissimilarities towards prototypes	Beibei Yuan	1	Netherlands	Leiden University
+2018	409	Classification based on dissimilarities towards prototypes	Willem Heiser	0	Netherlands	Leiden University
+2018	409	Classification based on dissimilarities towards prototypes	Mark De Rooij	0	Netherlands	Leiden University
+2018	344	Active learning classification with variable selection	Yuan-chin Chang	1	Taiwan	Academia Sinica
+2018	421	Automatic detection of clusters by lifting	Nebahat Bozkus	1	United Kingdom	University of Leeds
+2018	421	Automatic detection of clusters by lifting	Stuart Barber	0	United Kingdom	University of Leeds
+2018	431	Bayesian sequential marginalization of a state space model for estimating motor unit numbers	Gareth Ridall	1	United Kingdom	Lancaster University
+2018	413	Bayesian estimation of a decreasing density	Lixue Pang	1	Netherlands	Delft University of Technology
+2018	327	A new augmented mixed regression model for proportions	Agnese Maria Di Brisco	1	Italy	University of Milano Bicocca
+2018	327	A new augmented mixed regression model for proportions	Sonia Migliorati	0	Italy	University of Milano Bicocca
+2018	191	The weighted Markov chain probability model: Forecasting discrete time sequence data	Nihan Potas	1	Turkey	Gazi University
+2018	153	Fresh ideas for tuning parameter calibration	Johannes Lederer	1	Germany	Ruhr-University Bochum
+2018	207	Fridge: Focused fine-tuning of ridge regression for personalized predictions	Kristoffer Hellton	1	Norway	University of Oslo
+2018	229	On the Hodges-Lehmann estimator in a location mixture model	Fadoua Balabdaoui	1	Switzerland	ETH Zurich
+2018	194	Sensitivity analysis and visualization for functional data	Yufen Huang	1	Taiwan	National Cheng Kung University
+2018	240	Decision thresholds using Hilbert-Huang transforms in fMRI applications	Po-Chih Kuo	1	Taiwan	Institute of Statistical Science, Academia Sinica
+2018	240	Decision thresholds using Hilbert-Huang transforms in fMRI applications	Michelle Liou	0	Taiwan	Institute of Statistical Science
+2018	240	Decision thresholds using Hilbert-Huang transforms in fMRI applications	Philip Cheng	0	Taiwan	Institute of Statistical Science
+2018	246	Visualization and identification of agonistic interaction  hepatitis B and C interaction on hepatocellular carcinoma	Sheng-Hsuan Lin	1	Taiwan	Institute of Statistics
+2018	246	Visualization and identification of agonistic interaction  hepatitis B and C interaction on hepatocellular carcinoma	Yen-Tsung Huang	0	Taiwan	Academia Sinica
+2018	246	Visualization and identification of agonistic interaction  hepatitis B and C interaction on hepatocellular carcinoma	Wen-Chung Lee	0	Taiwan	National Taiwan University
+2018	246	Visualization and identification of agonistic interaction  hepatitis B and C interaction on hepatocellular carcinoma	Hwai-I Yang	0	Taiwan	Academia Sinica
+2018	172	The extension of isometric feature mapping for interval-valued symbolic data	Han-Ming Wu	1	Taiwan	National Taipei University
+2018	183	Testing marginal homogeneity for paired ordinal data: A robust likelihood approach	Tsung-Shan Tsou	1	Taiwan	Institute of Statistics, National Central University, Taiwan
+2018	204	Informative transformation of responses that can be positive or negative	Anthony Atkinson	1	United Kingdom	London School of Economics
+2018	204	Informative transformation of responses that can be positive or negative	Marco Riani	0	Italy	University of Parma
+2018	340	Robust parsimonious approach for model based clustering	Agustin Mayo-Iscar	1	Spain	Universidad de Valladolid
+2018	340	Robust parsimonious approach for model based clustering	Luis Angel Garcia-Escudero	0	Spain	Universidad de Valladolid
+2018	340	Robust parsimonious approach for model based clustering	Marco Riani	0	Italy	University of Parma
+2018	340	Robust parsimonious approach for model based clustering	Andrea Cerioli	0	Italy	University of Parma
+2018	388	A multiple functional linear model	Dominique Katshunga	1	South Africa	University of Cape Town
+2018	394	Gaussian process methods for nonparametric functional regression with mixed predictors	Bo Wang	1	United Kingdom	University of Leicester
+2018	394	Gaussian process methods for nonparametric functional regression with mixed predictors	Aiping Xu	0	United Kingdom	Coventry University
+2018	353	Quantifying the closeness to a set of random curves via the mean marginal likelihood	Cedric Rommel	1	France	INRIA, Polytechnique
+2018	353	Quantifying the closeness to a set of random curves via the mean marginal likelihood	Frederic Bonnans	0	France	INRIA-Polytechnique
+2018	353	Quantifying the closeness to a set of random curves via the mean marginal likelihood	Pierre Martinon	0	France	INRIA-Polytechnique
+2018	353	Quantifying the closeness to a set of random curves via the mean marginal likelihood	Baptiste Gregorutti	0	France	Universite Pierre et Marie Curie
+2018	395	Model based functional clustering of varved lake sediments	Per Arnqvist	1	Sweden	Umea University
+2018	395	Model based functional clustering of varved lake sediments	Sara Sjostedt de Luna	0	Sweden	Umea University
+2018	198	GMM for regression models with exogenous regressors and non-spherical disturbances	Taku Yamamoto	1	Japan	Hitotsubashi University
+2018	198	GMM for regression models with exogenous regressors and non-spherical disturbances	Hiroaki Chigira	0	Japan	Tohoku University
+2018	342	Discretization of the tail density function and adjusted evaluation measures	George-Jason Siouris	1	Greece	University of the Aegean
+2018	342	Discretization of the tail density function and adjusted evaluation measures	Alexandros Karagrigoriou	0	Greece	University of The Aegean
+2018	342	Discretization of the tail density function and adjusted evaluation measures	Ilia Vonta	0	Greece	National Technical University of Athens
+2018	342	Discretization of the tail density function and adjusted evaluation measures	Despoina Skilogianni	0	Greece	UNIVERSITY OF THE AEGEAN
+2018	358	Tests of cointegration rank with strong persistence and heavy-tailed errors	Niklas Ahlgren	1	Finland	Hanken School of Economics
+2018	358	Tests of cointegration rank with strong persistence and heavy-tailed errors	Paul Catani	0	Finland	Hanken School of Economics
+2018	384	On a novel spherical Monte Carlo method via group representation	Huei-Wen Teng	1	Taiwan	National Chiao Tung University
+2018	384	On a novel spherical Monte Carlo method via group representation	Ming-Hsuan Kang	0	Taiwan	National Chiao Tung University
+2018	384	On a novel spherical Monte Carlo method via group representation	Runze Li	0	United States	The Pennsylvania State University
+2018	400	Targeted causal estimation in continuous time	Helene Charlotte Rytgaard	1	Denmark	University of Copenhagen
+2018	424	Large sample results for frequentist multiple imputation for Cox regression with missing covariate data	Frank Eriksson	1	Denmark	University of Copenhagen
+2018	424	Large sample results for frequentist multiple imputation for Cox regression with missing covariate data	Torben Martinussen	0	Denmark	University of Copenhagen
+2018	424	Large sample results for frequentist multiple imputation for Cox regression with missing covariate data	Soren Feodor Nielsen	0	Denmark	Copenhagen Business School
+2018	412	Resampling methods for an adequate tail index estimation	Ivette Gomes	1	Portugal	FCiencias.ID, Universidade de Lisboa and CEAUL
+2018	412	Resampling methods for an adequate tail index estimation	Helena Penalva	0	Portugal	ESCE-IPS and CEAUL-Universidade de  Lisboa
+2018	412	Resampling methods for an adequate tail index estimation	Frederico Caeiro	0	Portugal	NOVA.ID.FCT - Universidade Nova de Lisboa
+2018	412	Resampling methods for an adequate tail index estimation	Manuela Neves	0	Portugal	FCiencias.ID, Universidade de Lisboa and CEAUL
+2018	352	Estimation of the linear fractional stable motion: Numerical techniques and results	Dmitry Otryakhin	1	Denmark	Aarhus University
+2018	352	Estimation of the linear fractional stable motion: Numerical techniques and results	Mark Podolskij	0	Denmark	Aarhus University
+2018	352	Estimation of the linear fractional stable motion: Numerical techniques and results	Stepan Mazur	0	Sweden	Orebro University
+2018	213	Differential Stein operators for multivariate distributions and applications	Yvik Swan	1	Belgium	Universite de Liege
+2018	213	Differential Stein operators for multivariate distributions and applications	Gesine Reinert	0	United Kingdom	Oxford University
+2018	213	Differential Stein operators for multivariate distributions and applications	Guillaume Mijoule 	0	Belgium	University of Liege
+2018	316	Biplot perspectives on student performance at the Copperbelt University in Zambia	Mwanabute Ngoy	1	Zambia	Copperbelt University
+2018	316	Biplot perspectives on student performance at the Copperbelt University in Zambia	Niel Le Roux	0	South Africa	Stellenbosch University
+2018	322	A naive visualisation of data science	Sugnet Lubbe	1	South Africa	Stellenbosch University
+2018	381	Using clustered heat maps to improve the selection of a clustering algorithm and its parametrization	Leonardo Feltrin	1	Canada	Laurentian University
+2018	381	Using clustered heat maps to improve the selection of a clustering algorithm and its parametrization	Martina Bertelli	0	Australia	Geoness Consulting
+2018	297	Penalized k-Means	Patrick Groenen	1	Netherlands	Erasmus University Rotterdam
+2018	297	Penalized k-Means	Mariko Takagishi	0	Japan	Doshisha University
+2018	297	Penalized k-Means	Yoshikazu Terada	0	Japan	Osaka University; RIKEN
+2018	260	A new method for analyzing ethnic mixing: Studies from Southern California	Madalina Olteanu	1	France	Pantheon-Sorbonne University
+2018	260	A new method for analyzing ethnic mixing: Studies from Southern California	William Clark	0	United States	UCLA
+2018	260	A new method for analyzing ethnic mixing: Studies from Southern California	Julien Randon-Furling	0	France	Universite Paris 1 Pantheon Sorbonne
+2018	405	A sparse tensor subspace method for identifying biological modulators based on multilayer gene network analysis	Rui Yamaguchi	1	Japan	Tokyo University
+2018	405	A sparse tensor subspace method for identifying biological modulators based on multilayer gene network analysis	Seiya Imoto	0	Japan	University of Tokyo
+2018	405	A sparse tensor subspace method for identifying biological modulators based on multilayer gene network analysis	Satoru Miyano	0	Japan	Tokyo University
+2018	405	A sparse tensor subspace method for identifying biological modulators based on multilayer gene network analysis	Heewon Park	0	Japan	Yamaguchi University
+2018	212	Compositional analysis in tourism	Berta Ferrer-Rosell	1	Spain	Universitat de Lleida
+2018	212	Compositional analysis in tourism	Germa Coenders	0	Spain	University of Girona
+2018	274	Fuzzy clustering with spatial-time information	Pierpaolo Durso	1	Italy	University of  Rome Sapienza
+2018	274	Fuzzy clustering with spatial-time information	Marta Disegna	0	United Kingdom	Faculty of Management, Bournemouth University
+2018	274	Fuzzy clustering with spatial-time information	Riccardo Massari	0	Italy	Sapienza University
+2018	193	Optimal Bayesian minimax rates for unconstrained large covariance matrices	Jaeyong Lee	1	Korea, South	Seoul National University
+2018	193	Optimal Bayesian minimax rates for unconstrained large covariance matrices	Kyoungjae Lee	0	United States	University of Notre Dame
+2018	200	A variational approach to a nonparametric density estimation using dependent species sampling models	Seongil Jo	1	Korea, South	Chonbuk National University
+2018	291	A semiparametric mixture method for local false discovery rate estimation	Woncheol Jang	1	Korea, South	Seoul National University
+2018	294	High-dimensional Markowitz's portfolio optimization problem: An empirical comparison of covariance matrix estimators	Johan Lim	1	Korea, South	Seoul National University
+2018	294	High-dimensional Markowitz's portfolio optimization problem: An empirical comparison of covariance matrix estimators	Young-Geun Choi	0	United States	Fred Hutchinson Cancer Research Center
+2018	294	High-dimensional Markowitz's portfolio optimization problem: An empirical comparison of covariance matrix estimators	Sujung Choi	0	Korea, South	Soongsil University
+2018	339	A sparse variable selection approach in multiscale local polynomial density estimation	Maarten Jansen	1	Belgium	ULB Brussels
+2018	389	Simultaneous test for mean vectors and covariance matrices among k populations for high-dimensional data	Takahiro Nishiyama	1	Japan	Senshu University
+2018	389	Simultaneous test for mean vectors and covariance matrices among k populations for high-dimensional data	Hayate Ogawa	0	Japan	Osaka prefecture university
+2018	389	Simultaneous test for mean vectors and covariance matrices among k populations for high-dimensional data	Masashi Hyodo	0	Japan	Osaka Prefecture University
+2018	402	A fast algorithm for univariate log-concave density estimation	Yong Wang	1	New Zealand	University of Auckland
+2018	187	Lifestyle and dietary habits of community-dwelling elderly: A comparative study between a town and a city	Chisako Yamamoto	1	Japan	Shonan University of Medical Sciences
+2018	249	Nonlinear and kernel regression methods for interval-valued data	Jeong-Taek Jang	1	Korea, South	Hankuk University of Foreign Studies
+2018	249	Nonlinear and kernel regression methods for interval-valued data	Kee-Hoon Kang	0	Korea, South	Hankuk University of Foreign Studies
+2018	335	Determining the number of components of a PLS regression on incomplete data	Titin Agustin Nengsih	1	France	University of Strasbourg
+2018	335	Determining the number of components of a PLS regression on incomplete data	Frederic Bertrand	0	France	Universite de Strasbourg
+2018	335	Determining the number of components of a PLS regression on incomplete data	Myriam Maumy-Bertrand	0	France	Universite de Strasbourg
+2018	335	Determining the number of components of a PLS regression on incomplete data	Nicolas Meyer	0	France	Universite de Strasbourg
+2018	366	Explanation of the importance of medication adherence in antiretroviral therapy by using random numbers	Shinobu Tatsunami	1	Japan	St. Marianna University School of Medicine
+2018	366	Explanation of the importance of medication adherence in antiretroviral therapy by using random numbers	Takahiko Ueno	0	Japan	St Marianna University School of Medicine
+2018	371	A note on the analysis of early stage breeding experiments	Stanislaw Mejza	1	Poland	Poznan University of Life Sciences
+2018	371	A note on the analysis of early stage breeding experiments	Iwona Mejza	0	Poland	Poznan University of Life Sciences
+2018	375	Development and application of data providing and visualization system for EMS	Kazuki Konda	1	Japan	Graduate school of Tokai University
+2018	375	Development and application of data providing and visualization system for EMS	Yoshiro Yamamoto	0	Japan	Tokai Univeristy
+2018	375	Development and application of data providing and visualization system for EMS	Hideaki Takenaka	0	Japan	JAXA
+2018	375	Development and application of data providing and visualization system for EMS	Hideki Kimura	0	Japan	Tokai University
+2018	375	Development and application of data providing and visualization system for EMS	Kota Fukuda	0	Japan	Tokai University
+2018	375	Development and application of data providing and visualization system for EMS	Takashi Nakajima	0	Japan	Tokai University
+2018	423	Novel standardization methods for preprocessing multivariate data used in predictive modeling	Emily Grisanti	1	Germany	Robert Bosch GmbH, TU Freiberg
+2018	423	Novel standardization methods for preprocessing multivariate data used in predictive modeling	Matthias Otto	0	Germany	TU Bergakademie Freiberg
+2018	425	A note on the computational complexity of the sample variance over an interval-valued dataset	Ondrej Sokol	1	Czech Republic	University of Economics, Prague
+2018	425	A note on the computational complexity of the sample variance over an interval-valued dataset	Miroslav Rada	0	Czech Republic	University of Economics, Prague
+2018	428	A survey of recent statistical methods for EEG-FMRI	Mohammad Fayaz	1	Iran	Shahid Beheshti University of Medical Sciences
+2018	440	An extreme value analysis of top performing UK winter wheat producers	Emily Mitchell	1	United Kingdom	The University of Nottingham
+2018	440	An extreme value analysis of top performing UK winter wheat producers	Gilles Stupfler	0	United Kingdom	The University of Nottingham
+2018	440	An extreme value analysis of top performing UK winter wheat producers	Andrew Wood	0	United Kingdom	The University of Nottingham
+2018	440	An extreme value analysis of top performing UK winter wheat producers	Neil Crout	0	United Kingdom	The University of Nottingham
+2018	440	An extreme value analysis of top performing UK winter wheat producers	Paul Wilson	0	United Kingdom	The University of Nottingham
+2018	233	Bayesian modeling of individual growth variability using back-calculation: Application to pink cusk-eel	Freddy Omar Lopez Quintero	1	Chile	Telefónica-UTFSM-UV-PUCV
+2018	324	Robust sparse maximum association estimators	Andreas Alfons	1	Netherlands	Erasmus University Rotterdam
+2018	324	Robust sparse maximum association estimators	Christophe Croux	0	France	Edhec Business School
+2018	324	Robust sparse maximum association estimators	Peter Filzmoser	0	Austria	Vienna University of Technology
+2018	331	Detection of outbreaks in notifiable disease data	Matias Salibian-Barrera	1	Canada	The University of British Columbia
+2018	331	Detection of outbreaks in notifiable disease data	Tae Yoon Lee	0	Canada	The University of British Columbia
+2018	326	Robust sparse principal components analysis	Stefan Van Aelst	1	Belgium	University of Leuven
+2018	326	Robust sparse principal components analysis	Yixin Wang	0	Belgium	University of Leuven
+2018	206	On the parameters estimation of the new Seasonal FISSAR model and simulations	Papa Ousmane Cisse	1	Senegal	Le Mans University
+2018	206	On the parameters estimation of the new Seasonal FISSAR model and simulations	Dominique Guegan	0	France	Universite Paris 1 - Pantheon-Sorbonne
+2018	206	On the parameters estimation of the new Seasonal FISSAR model and simulations	Abdou Ka Diongue	0	Senegal	Gaston Berger
+2018	215	Credit risk analysis using machine and deep learning models	Dominique Guegan	1	France	Universite Paris 1 - Pantheon-Sorbonne
+2018	368	Sparse nonparametric dynamic graphical models	Fabrizio Poggioni	1	Italy	University La Sapienza
+2018	368	Sparse nonparametric dynamic graphical models	Mauro Bernardi	0	Italy	University of Padua
+2018	368	Sparse nonparametric dynamic graphical models	Lea Petrella	0	Italy	Sapienza University of Rome
+2018	323	Deep Bayesian regression	Florian Frommlet	1	Austria	Medical University Vienna
+2018	323	Deep Bayesian regression	Aliaksandr Hubin	0	Norway	Norwegian Computing Center
+2018	323	Deep Bayesian regression	Geir Olve Storvik	0	Norway	University of Oslo
+2018	328	Generalized information criterion  in high-dimensional model selection	Piotr Pokarowski	1	Poland	University of Warsaw
+2018	328	Generalized information criterion  in high-dimensional model selection	Agnieszka Prochenka	0	Poland	University of Warsaw
+2018	328	Generalized information criterion  in high-dimensional model selection	Michal Frej	0	Poland	University of Warsaw
+2018	328	Generalized information criterion  in high-dimensional model selection	Wojciech Rejchel	0	Poland	University of Warsaw
+2018	328	Generalized information criterion  in high-dimensional model selection	Jan Mielniczuk	0	Poland	Institute of Computer Science Polish Academy of Sciences
+2018	348	A power analysis for Knockoffs with lasso statistics	Asaf Weinstein	1	United States	Stanford University
+2018	348	A power analysis for Knockoffs with lasso statistics	Rina Foygel Barber	0	United States	University of Chicago
+2018	348	A power analysis for Knockoffs with lasso statistics	Emmanuel Candes	0	United States	Stanford
+2018	415	Weeding out early false discoveries along the lasso path via knockoffs	Malgorzata Bogdan	1	Poland	University of Wroclaw
+2018	415	Weeding out early false discoveries along the lasso path via knockoffs	Weijie Su	0	United States	University of Pennsylvania
+2018	415	Weeding out early false discoveries along the lasso path via knockoffs	Asaf Weinstein	0	United States	Stanford University
+2018	415	Weeding out early false discoveries along the lasso path via knockoffs	Emmanuel Candes	0	United States	Stanford
+2018	225	Bayesian two-part model for semicontinuous data with latent variables	Xiaoqing Wang	1	Hong Kong	The Chinese University of Hong Kong
+2018	225	Bayesian two-part model for semicontinuous data with latent variables	Xinyuan Song	0	Hong Kong	Chinese University of Hong Kong
+2018	266	Cox regression with Potts-driven latent clusters	Alejandro Murua	1	Canada	University of Montreal
+2018	266	Cox regression with Potts-driven latent clusters	Danae Martinez-Vargas	0	Canada	Universite de Montreal
+2018	156	Scalar on image regression with nonignorable missing data	Xinyuan Song	1	Hong Kong	Chinese University of Hong Kong
+2018	268	Ampliclust: A fully probabilistic model-based approach denoising Illumina amplicon data	Karin Dorman	1	United States	Iowa State University
+2018	268	Ampliclust: A fully probabilistic model-based approach denoising Illumina amplicon data	Xiyu Peng	0	United States	Iowa State University
+2018	176	Estimating a Poisson autoregressive model with the backfitting algorithm	Paolo Victor Redondo	1	Philippines	University of the Philippines Diliman
+2018	176	Estimating a Poisson autoregressive model with the backfitting algorithm	Erniel Barrios	0	Philippines	University of the Philippines
+2018	176	Estimating a Poisson autoregressive model with the backfitting algorithm	Joseph Ryan Lansangan	0	Philippines	University of the Philippines
+2018	188	Controlling the false discovery rate for discrete data: New results and computational tools	Sebastian Doehler	1	Germany	Darmstadt University of Applied Science
+2018	188	Controlling the false discovery rate for discrete data: New results and computational tools	Etienne Roquain	0	France	University Pierre et Marie Curie
+2018	188	Controlling the false discovery rate for discrete data: New results and computational tools	Guillermo Durand	0	France	Universite Pierre et Marie Curie
+2018	178	A family of the adjusted estimators maximizing the asymptotic predictive expected log-likelihood	Haruhiko Ogasawara	1	Japan	Otaru University of Commerce
+2018	265	Reliability analysis  of switching parameters in resistive random access memories	Christian Acal	1	Spain	University of   Granada
+2018	265	Reliability analysis  of switching parameters in resistive random access memories	Juan Eloy Ruiz-Castro	0	Spain	University of Granada
+2018	265	Reliability analysis  of switching parameters in resistive random access memories	Ana Maria Aguilera	0	Spain	University of Granada
+2018	265	Reliability analysis  of switching parameters in resistive random access memories	Francisco Jimenez-Molinos	0	Spain	University of Granada
+2018	265	Reliability analysis  of switching parameters in resistive random access memories	Juan Bautista Roldan 	0	Spain	University of Granada
+2018	270	High-dimensional GMANOVA test	Takayuki Yamada	1	Japan	Kagoshima university
+2018	270	High-dimensional GMANOVA test	Tetsuto Himeno	0	Japan	Shiga university
+2018	362	Website and text classification using natural language processing	Martin Wood	1	United Kingdom	Office for National Statistics
+2018	372	Kronecker-type products useful in constructions of non-orthogonal split-plot x split-block designs	Iwona Mejza	1	Poland	Poznan University of Life Sciences
+2018	372	Kronecker-type products useful in constructions of non-orthogonal split-plot x split-block designs	Katarzyna Ambrozy-Deregowska	0	Poland	Poznan University of Life Sciences
+2018	391	The multivariate statistic based on combining the t test and Wilcoxon test	Masato Kitani	1	Japan	Tokyo University of Science
+2018	391	The multivariate statistic based on combining the t test and Wilcoxon test	Hidetoshi Murakami	0	Japan	Tokyo University of Science
+2018	392	A new scale estimator based on the kernel density estimator with ranked set sampling	Hikaru Yamaguchi	1	Japan	Tokyo University of Science
+2018	392	A new scale estimator based on the kernel density estimator with ranked set sampling	Hidetoshi Murakami	0	Japan	Tokyo University of Science
+2018	393	The multivariate rank tests based on the likelihood ratio	Soshi Kawada	1	Japan	Tokyo University of Science
+2018	393	The multivariate rank tests based on the likelihood ratio	Hidetoshi Murakami	0	Japan	Tokyo University of Science
+2018	408	An extended block restricted isometry property for sparse recovery with non-Gaussian noise	Klara Leffler	1	Sweden	Umea University
+2018	408	An extended block restricted isometry property for sparse recovery with non-Gaussian noise	Zhiyong Zhou	0	Sweden	Umea University
+2018	408	An extended block restricted isometry property for sparse recovery with non-Gaussian noise	Jun Yu	0	Sweden	Umea University
+2018	430	A maximum likelihood estimation of Brun's constant under the twin primes distribution	Ryuichi Sawae	1	Japan	Okayama University of Science
+2018	430	A maximum likelihood estimation of Brun's constant under the twin primes distribution	Daisuke Ishii	0	Japan	Okayama University of Science
+2018	432	Conditional skewness and kurtosis in the good and bad times	Lukas Fryd	1	Czech Republic	University of Economics, Prague
+2018	443	Empirical comparison of some automatic ARIMA modeling	Dedi Rosadi	1	Indonesia	Universitas Gadjah Mada
+2018	445	Fusion learning and confederate inference	Peter Song	1	United States	University of Michigan
+2018	448	Uncertainty quantification of treatment regime in precision medicine by confidence distributions	Min-ge Xie	1	United States	Rutgers University
+2018	449	Tracking functional data by nonparametric tolerance tubes	Regina Liu	1	United States	Rutgers University
+2018	276	On the performance of distance-based approaches for clustering mixed-type data	Angelos Markos	1	Greece	Democritus University Of Thrace
+2018	276	On the performance of distance-based approaches for clustering mixed-type data	Odysseas Moschidis	0	Greece	University of Macedonia
+2018	276	On the performance of distance-based approaches for clustering mixed-type data	George Menexes	0	Greece	Aristotle University of Thrace
+2018	276	On the performance of distance-based approaches for clustering mixed-type data	Theodoros Chatzipantelis	0	Greece	Research Committee, Aristotle University Thessaloniki
+2018	243	A clustering method proposition for mixed type data	Odysseas Moschidis	1	Greece	University of Macedonia
+2018	243	A clustering method proposition for mixed type data	Theodoros Chatzipantelis	0	Greece	Research Committee, Aristotle University Thessaloniki
+2018	426	Missing data imputation problems may occur when dealing with categorical data	Francesco Palumbo	1	Italy	University of Naples Federico II
+2018	426	Missing data imputation problems may occur when dealing with categorical data	Alfonso Iodice D Enza	0	Italy	Universita di Cassino e del Lazio Meridionale
+2018	426	Missing data imputation problems may occur when dealing with categorical data	Angelos Markos	0	Greece	Democritus University Of Thrace
+2018	263	A new criterion for forming compact groups in hierarchical clustering	Dimitrios Karapistolis	1	Greece	Retired
+2018	263	A new criterion for forming compact groups in hierarchical clustering	Theodoros Chatzipantelis	0	Greece	Research Committee, Aristotle University Thessaloniki
+2018	245	A new visualization of the results of the correspondence analysis with R programming	Stratos Moschidis	1	Greece	Hellenic Statistical Authority
+2018	245	A new visualization of the results of the correspondence analysis with R programming	Athanasios Thanopoulos	0	Greece	Hellenic Statistical Authority
+2018	306	Optimal designs for complex problems	Weng Kee Wong	1	United States	UCLA
+2018	226	Optimal designs for dose response curves with common parameters	Kirsten Schorning	1	Germany	Ruhr-University Bochum, Faculty of Mathematics
+2018	226	Optimal designs for dose response curves with common parameters	Holger Dette	0	Germany	Ruhr-Universitaet Bochum
+2018	226	Optimal designs for dose response curves with common parameters	Bjoern Bornkamp	0	Switzerland	Novartis Pharma AG
+2018	226	Optimal designs for dose response curves with common parameters	Chrystel Feller	0	Switzerland	Novartis Pharma AG
+2018	226	Optimal designs for dose response curves with common parameters	Georgina Bermann	0	Switzerland	Novartis Pharma AG
+2018	250	Minimax optimum design for choosing between models for enzyme inhibition	Ellinor Fackle-Fornius	1	Sweden	Department of Statistics
+2018	211	Optimal item calibration for computerized achievement tests	Mahmood UL-Hassan	1	Sweden	Stockholm University
+2018	211	Optimal item calibration for computerized achievement tests	Frank Miller	0	Sweden	Stockholm University
+2018	357	Optimal experimental design that minimizes the width of simultaneous confidence bands	Satoshi Kuriki	1	Japan	The Institute of Statistical Mathematics
+2018	357	Optimal experimental design that minimizes the width of simultaneous confidence bands	Henry Wynn	0	United Kingdom	London School of Economics
+2018	210	An efficient analysis on the network coverage via dominating centrality sets	Frederick Kin Hing Phoa	1	Taiwan	Academia Sinica
+2018	253	A study of the article citation network in statistics research community	LinHsuan Chang	1	Taiwan	SOKENDAI
+2018	253	A study of the article citation network in statistics research community	Junji Nakano	0	Japan	The Institute of Statistical Mathematics
+2018	253	A study of the article citation network in statistics research community	Frederick Kin Hing Phoa	0	Taiwan	Academia Sinica
+2018	238	Author name identification using a Dirichlet-multinomial regression topic model	Tomokazu Fujino	1	Japan	Fukuoka Women University
+2018	238	Author name identification using a Dirichlet-multinomial regression topic model	Keisuke Honda	0	Japan	The Institute of Statistical Mathematics
+2018	238	Author name identification using a Dirichlet-multinomial regression topic model	Hiroka Hamada	0	Japan	The Institute of Statistical Mathematics
+2018	247	A development of new metric on graph data using stochastic block model and pointwise mutual information	Hiroka Hamada	1	Japan	The Institute of Statistical Mathematics
+2018	247	A development of new metric on graph data using stochastic block model and pointwise mutual information	Mio Takei	0	Japan	The Institute of Statistical Mathematics
+2018	247	A development of new metric on graph data using stochastic block model and pointwise mutual information	Keisuke Honda	0	Japan	The Institute of Statistical Mathematics
+2018	235	Understanding research trends based on paper abstracts using topic modeling	Mio Takei	1	Japan	The Institute of Statistical Mathematics
+2018	235	Understanding research trends based on paper abstracts using topic modeling	Tomokazu Fujino	0	Japan	Fukuoka Women University
+2018	235	Understanding research trends based on paper abstracts using topic modeling	Keisuke Honda	0	Japan	The Institute of Statistical Mathematics
+2018	235	Understanding research trends based on paper abstracts using topic modeling	Junji Nakano	0	Japan	The Institute of Statistical Mathematics
+2018	459	Collaborative research among different research fields to induce innovation	Yuji Mizukami	1	Japan	Nihon University
+2018	459	Collaborative research among different research fields to induce innovation	Keisuke Honda	0	Japan	The Institute of Statistical Mathematics
+2018	459	Collaborative research among different research fields to induce innovation	Frederick Kin Hing Phoa	0	Taiwan	Academia Sinica
+2018	459	Collaborative research among different research fields to induce innovation	Junji Nakano	0	Japan	The Institute of Statistical Mathematics
+2018	189	A linear time method for the detection of point and collective anomalies	Alexander Fisch	1	United Kingdom	Lancaster University
+2018	189	A linear time method for the detection of point and collective anomalies	Idris Eckley	0	United Kingdom	Lancaster University
+2018	189	A linear time method for the detection of point and collective anomalies	Paul Fearnhead	0	United Kingdom	Lancaster University
+2018	349	Recursive estimation of multivariate GARCH models	Tomas Cipra	1	Czech Republic	Charles University, Prague
+2018	429	High-frequency volatility: Online and stream estimation perspective	Vladimir Holy	1	Czech Republic	University of Economics, Prague
+2018	438	Generalized autoregressive score models for conditional quantiles	Petra Tomanova	1	Czech Republic	University of Economics, Prague
+2018	416	Spatial and spatiotemporal ARCH-type models	Philipp Otto	1	Germany	Leibniz University Hannover
+2018	379	Statistical methods to study consistency between declared and measured values on waste packages	Luan Jaupi	1	France	CNAM
+2018	230	Costing system for nursing homes: A Portuguese case	Ines Lopes	1	Portugal	ISCTE - IUL
+2018	230	Costing system for nursing homes: A Portuguese case	Abdul Suleman	0	Portugal	Instituto Universitario de Lisboa ISCTE-IUL BRU Lisboa Portugal
+2018	230	Costing system for nursing homes: A Portuguese case	Dalia Nogueira	0	Portugal	ISCTE-IUL
+2018	230	Costing system for nursing homes: A Portuguese case	Elizabeth Reis	0	Portugal	ISCTE-IUL
+2018	399	Probabilistic forecasting of retail sales: A quantile regression approach	Mikhail Zhelonkin	1	Netherlands	Erasmus University Rotterdam
+2018	378	Dynamic prediction of propensity to purchase by landmark modelling	Ilan Fridman Rojas	1	United Kingdom	Profusion Media Ltd
+2018	378	Dynamic prediction of propensity to purchase by landmark modelling	Aris Perperoglou	0	United Kingdom	University of Essex
+2018	378	Dynamic prediction of propensity to purchase by landmark modelling	Berthold Lausen	0	Germany	Friedrich-Alexander-University of Erlangen-Nuremberg
+2018	378	Dynamic prediction of propensity to purchase by landmark modelling	Henrik Nordmark	0	United Kingdom	Profusion
+2018	174	Analysis of water-peptide dynamics using pair-copulas	Jutharath Voraprateep	1	Thailand	Ramkhamhaeng University
+2018	171	Combined analysis of misaligned data using Gaussian fields and the stochastic partial differential equation approach	Paula Moraga	1	United Kingdom	Lancaster University
+2018	254	Age, time, and gender-specific share component models to predict cancer incidence when mortality is known	Jaione Etxeberria	1	Spain	Public University of Navarre
+2018	254	Age, time, and gender-specific share component models to predict cancer incidence when mortality is known	Tomas Goicoa	0	Spain	Universidad Publica de Navarra
+2018	254	Age, time, and gender-specific share component models to predict cancer incidence when mortality is known	Maria Dolores Ugarte	0	Spain	Universidad Publica de Navarra
+2018	232	The Mellin transform as a tool for prior elicitation in disease mapping	Fedele Greco	1	Italy	University of Bologna
+2018	232	The Mellin transform as a tool for prior elicitation in disease mapping	Linda Altieri	0	Italy	University of Bologna
+2018	232	The Mellin transform as a tool for prior elicitation in disease mapping	Carlo Trivisano	0	Italy	University of Bologna
+2018	290	On multivariate CAR models for multivariate disease mapping: The state of the art	Ying C MacNab	1	Canada	University of British Columbia
+2018	350	Conditional autoregressive models for disconnected graph	Anna Freni Sterrantino	1	United Kingdom	Imperial College London
+2018	350	Conditional autoregressive models for disconnected graph	Haavard Rue	0	Saudi Arabia	KAUST
+2018	350	Conditional autoregressive models for disconnected graph	Massimo Ventrucci	0	Italy	University of Bologna
+2018	317	Visualization of disaster information over time by using disaster information extraction from Twitter	Yoshiro Yamamoto	1	Japan	Tokai Univeristy
+2018	317	Visualization of disaster information over time by using disaster information extraction from Twitter	Takamitsu Funayama	0	Japan	Tokai University
+2018	317	Visualization of disaster information over time by using disaster information extraction from Twitter	Osamu Uchida	0	Japan	Tohoku University
+2018	288	Visualization and spatial statistics for spatial data that contribute to comprehensive suicide countermeasures in Japan	Takafumi Kubota	1	Japan	Tama University
+2018	288	Visualization and spatial statistics for spatial data that contribute to comprehensive suicide countermeasures in Japan	Marina Ishikawa	0	Japan	JR Shikoku Information Systems
+2018	288	Visualization and spatial statistics for spatial data that contribute to comprehensive suicide countermeasures in Japan	Yoshikazu Yamamoto	0	Japan	Tokushima Bunri University
+2018	271	Cluster detection for multi-dimensional spatial data based on hierarchical structure	Fumio Ishioka	1	Japan	Okayama University
+2018	271	Cluster detection for multi-dimensional spatial data based on hierarchical structure	Koji Kurihara	0	Japan	Okayama University
+2018	282	The classification and visualization of trending topics in online word-of-mouth data	Atsuho Nakayama	1	Japan	Tokyo Metropolitan University
+2018	296	Clutering in reduced space of high-dimensional binary data	Tadashi Imaizumi	1	Japan	Tama University
+2018	216	A proportional hazards model under bivariate censoring and truncation	Marialuisa Restaino	1	Italy	University of Salerno
+2018	216	A proportional hazards model under bivariate censoring and truncation	Hongsheng Dai	0	United Kingdom	University of Essex
+2018	302	Reliability of particular semi-Markov systems: Modeling and nonparametric estimation	Vlad Barbu	1	France	Universite de Rouen
+2018	320	Dependence model for complex deterioration systems	Nuria Caballe Cervigon	1	Spain	University of Extremadura
+2018	320	Dependence model for complex deterioration systems	Inma Torres Castro	0	Spain	University of Extremadura
+2018	303	On dynamic modelling in reliability theory	Vlad Barbu	1	France	Universite de Rouen
+2018	303	On dynamic modelling in reliability theory	Alexandros Karagrigoriou	0	Greece	University of The Aegean
+2018	303	On dynamic modelling in reliability theory	Andreas Makrides	0	France	Universite de Rouen
+2018	255	MMAPs to model a warm standby multi-state system with loss of units and a general variate number of repairpersons	Mohammed Dawabsha	1	Spain	University of Granada
+2018	255	MMAPs to model a warm standby multi-state system with loss of units and a general variate number of repairpersons	Juan Eloy Ruiz-Castro	0	Spain	University of Granada
+2018	166	Bias reduction in tail estimation and modelling a full data set	Jan Beirlant	1	Belgium	KULeuven
+2018	236	Exponential tilts for heteroscedastic extremes with an application to cryptocurrency markets	Miguel de Carvalho	1	United Kingdom	School of Mathematics, The University of Edinburgh
+2018	236	Exponential tilts for heteroscedastic extremes with an application to cryptocurrency markets	Raphael Huser	0	Saudi Arabia	King Abdullah University of Science and Technology
+2018	236	Exponential tilts for heteroscedastic extremes with an application to cryptocurrency markets	Rodrigo Rubio	0	Chile	Pontificia Universidad Catolica de Chile
+2018	284	Testing the suitability and sensitivity of parameters for a tumor morphology model	Emma Turian	1	United States	Northeastern Illinois University
+2018	284	Testing the suitability and sensitivity of parameters for a tumor morphology model	Shuwang Li	0	United States	Illinois Institute of Technology
+2018	284	Testing the suitability and sensitivity of parameters for a tumor morphology model	John Lowengrub	0	United States	 Univeristy of California at Irvine
+2018	284	Testing the suitability and sensitivity of parameters for a tumor morphology model	Kai Liu	0	United States	 Univeristy of California at Irvine
+2018	284	Testing the suitability and sensitivity of parameters for a tumor morphology model	Kara Pham	0	United States	 Fullerton College
+2018	336	Tilting maximum Lq-estimation in the block maxima setting	Claudia Neves	1	United Kingdom	University of Reading
+2018	218	Semi-parametric estimation of the tail dependence coefficient through generalized means	Ivette Gomes	1	Portugal	FCiencias.ID, Universidade de Lisboa and CEAUL
+2018	281	Crucial differences between principal component and factor analyses solutions elucidated by some inequalities	Kohei Adachi	1	Japan	Osaka University
+2018	281	Crucial differences between principal component and factor analyses solutions elucidated by some inequalities	Nickolay Trendafilov	0	United Kingdom	Open University
+2018	338	Maximum likelihood EM factor analysis of high-dimensional data with the sparsest constraint on loadings	Jingyu Cai	1	Japan	Osaka University
+2018	338	Maximum likelihood EM factor analysis of high-dimensional data with the sparsest constraint on loadings	Kohei Adachi	0	Japan	Osaka University
+2018	386	Probability of success for regulatory decision-making in a pediatric indication	Aiesha Zia	1	Switzerland	Novartis Pharma
+2018	386	Probability of success for regulatory decision-making in a pediatric indication	Simon Wandel	0	Switzerland	Novartis Pharma
+2018	386	Probability of success for regulatory decision-making in a pediatric indication	Nathalie Fretault	0	France	Novartis Pharma
+2018	386	Probability of success for regulatory decision-making in a pediatric indication	Shantha Rao	0	United States	Novartis Pharma
+2018	404	Statistical shape analysis of helices	Mai Alfahad	1	United Kingdom	Leeds university
+2018	411	A pseudo-likelihood approach for multivariate meta-analysis of test accuracy studies with multiple thresholds	Duc Khanh To	1	Italy	University of Padova
+2018	411	A pseudo-likelihood approach for multivariate meta-analysis of test accuracy studies with multiple thresholds	Annamaria Guolo	0	Italy	University of Padova
+2018	334	Efficient Monte Carlo evaluation of resampling-based hypothesis tests	Wing Kam Fung	1	Hong Kong	University of Hong Kong
+2018	277	Automatic anomaly detection in jet engines	David Leslie	1	United Kingdom	University of Lancaster
+2018	277	Automatic anomaly detection in jet engines	Nicos Pavlidis	0	United Kingdom	Lancaster University
+2018	277	Automatic anomaly detection in jet engines	Harjit Hullait	0	United Kingdom	Lancaster University
+2018	337	Acceleration of computation for fuzzy c-means clustering	Takatsugu Yoshioka	1	Japan	Okayama University of Science
+2018	337	Acceleration of computation for fuzzy c-means clustering	Masahiro Kuroda	0	Japan	Okayama University of Science
+2018	337	Acceleration of computation for fuzzy c-means clustering	Yuichi Mori	0	Japan	Okayama University of Science
+2018	355	fiberLD: An R package for fiber length determination	Natalya Pya Arnqvist	1	Sweden	Umea University
+2018	355	fiberLD: An R package for fiber length determination	Konrad Abramowicz	0	Sweden	Umea University
+2018	355	fiberLD: An R package for fiber length determination	Sara Sjostedt de Luna	0	Sweden	Umea University
+2018	385	Computing p-values of the Kolmogorov-Smirnov test for (dis)continuous null distribution: R package KSgeneral	Senren Tan	1	United Kingdom	Cass Business School, City, University of London
+2018	385	Computing p-values of the Kolmogorov-Smirnov test for (dis)continuous null distribution: R package KSgeneral	Dimitrina Dimitrova	0	United Kingdom	Cass Business School - City - University of London
+2018	385	Computing p-values of the Kolmogorov-Smirnov test for (dis)continuous null distribution: R package KSgeneral	Vladimir Kaishev	0	United Kingdom	Cass Business School - City - University of London
+2018	209	On modelling multivariate time series of counts	Dimitris Karlis	1	Greece	RC Athens University of Economics and Business
+2018	444	Computational tools for count data regression	Christian Kleiber	1	Switzerland	Universitaet Basel
+2018	208	Fuzzy clustering of multivariate skew data	Luis Angel Garcia-Escudero	1	Spain	Universidad de Valladolid
+2018	208	Fuzzy clustering of multivariate skew data	Francesca Greselin	0	Italy	University of Milano Bicocca
+2018	208	Fuzzy clustering of multivariate skew data	Agustin Mayo-Iscar	0	Spain	Universidad de Valladolid
+2018	299	Soft clustering-based models	Mika Sato-Ilic	1	Japan	University of Tsukuba
+2018	427	A social network analysis of articles on social network analysis	Clement Lee	1	United Kingdom	Newcastle University
+2018	427	A social network analysis of articles on social network analysis	Darren Wilkinson	0	United Kingdom	Newcastle University
+2018	300	Relational fuzzy clustering to identify non-linear structures	Maria Brigida Ferraro	1	Italy	Sapienza University of Rome
+2018	300	Relational fuzzy clustering to identify non-linear structures	Paolo Giordani	0	Italy	Sapienza University of Rome
+2018	312	SO-PLS-PM: From multiblock data analysis to path modeling	Rosaria Romano	1	Italy	University of Calabria
+2018	312	SO-PLS-PM: From multiblock data analysis to path modeling	Oliver Tomic	0	Norway	Norwegian University of Life Sciences
+2018	312	SO-PLS-PM: From multiblock data analysis to path modeling	Kristian H Liland	0	Norway	Norwegian University of Life Sciences
+2018	312	SO-PLS-PM: From multiblock data analysis to path modeling	Age Smilde	0	The Netherlands	University of Amsterdam
+2018	312	SO-PLS-PM: From multiblock data analysis to path modeling	Tormod Naes	0	Norway	NOFIMA
+2018	242	Testing design-oriented auxiliary theories using PLS path modeling	Florian Schuberth	1	Netherlands	University of Twente
+2018	242	Testing design-oriented auxiliary theories using PLS path modeling	Joerg Henseler	0	Netherlands	University of Twente
+2018	313	A new confindence interval for Cronbachs coefficient alpha	Laura Trinchera	1	France	NEOMA Business School
+2018	313	A new confindence interval for Cronbachs coefficient alpha	Nicolas Marie	0	France	Universite Paris Nanterre
+2018	313	A new confindence interval for Cronbachs coefficient alpha	George Marcoulides	0	United States	University of California Santa Barbara
+2018	308	Identifying firm-level news shocks from financial news media	Julian Ashwin	1	United Kingdom	Nuffield College, University of Oxford
+2018	269	Analyzing economic texts using network based topic models	Ryohei Hisano	1	Japan	University of Tokyo
+2018	219	Measuring the diffusion of innovations with paragraph vector topic models	David Lenz	1	Germany	Justus-Liebig University Giessen
+2018	219	Measuring the diffusion of innovations with paragraph vector topic models	Peter Winker	0	Germany	University of Giessen
+2018	333	Using large and heterogeneous sources of sentiment and attention data for predicting stock market volatility	Daniele Ballinari	1	Switzerland	University of St Gallen
+2018	333	Using large and heterogeneous sources of sentiment and attention data for predicting stock market volatility	Francesco Audrino	0	Switzerland	University of St Gallen
+2018	333	Using large and heterogeneous sources of sentiment and attention data for predicting stock market volatility	Fabio Sigrist	0	Switzerland	Lucerne University of Applied Sciences
+2018	173	Joint estimation of multiple penalized graphs using zoom-in/out penalties to map functional brain connectivity	Eugen Pircalabelu	1	Belgium	Université catholique de Louvain
+2018	173	Joint estimation of multiple penalized graphs using zoom-in/out penalties to map functional brain connectivity	Gerda Claeskens	0	Belgium	KU Leuven
+2018	173	Joint estimation of multiple penalized graphs using zoom-in/out penalties to map functional brain connectivity	Lourens Waldorp	0	Netherlands	University of Amsterdam
+2018	364	Normalizations in derived networks	Vladimir Batagelj	1	Slovenia	IMFM
+2018	414	Posterior probability SVMs for big data problems	Pedro Duarte Silva	1	Portugal	Universidade Catolica Portuguesa / Porto
+2018	437	A new noise-resisting feature-based clustering quality evaluation approach scaling from low to high dimensional data	Jean-Charles Lamirel	1	France	LORIA
+2018	360	Gaussian-based visualization of Gaussian and non-Gaussian model-based clustering	Christophe Biernacki	1	France	Inria
+2018	360	Gaussian-based visualization of Gaussian and non-Gaussian model-based clustering	Vincent Vandewalle	0	France	Inria
+2018	360	Gaussian-based visualization of Gaussian and non-Gaussian model-based clustering	Matthieu Marbac-Lourdelle	0	France	ENSAI and CREST
+2018	396	Kernel-estimated nonparametric overlap-based syncytial clustering	Ranjan Maitra	1	United States	Iowa State University
+2018	396	Kernel-estimated nonparametric overlap-based syncytial clustering	Israel Almodovar Rivera	0	United States	University of Puerto Rico
+2018	367	The role of trimming and variable selection in robust model-based classification for food authenticity studies	Andrea Cappozzo	1	Italy	University of Milano Bicocca
+2018	367	The role of trimming and variable selection in robust model-based classification for food authenticity studies	Francesca Greselin	0	Italy	University of Milano Bicocca
+2018	367	The role of trimming and variable selection in robust model-based classification for food authenticity studies	Thomas Brendan Murphy	0	Ireland	University College Dublin
+2018	272	Statistical issues in cost-effectiveness analysis of medical treatments	Elias Moreno	1	Spain	Universidad de Las Palmas de Gran Canaria
+2018	307	An alternative to objective Bayes model selection	Monica Musio	1	Italy	University of Cagliari
+2018	307	An alternative to objective Bayes model selection	Philip Dawid	0	United Kingdom	University of Cambridge
+2018	257	On Bayesian, confidence distribution and frequentist inference	Erlis Ruli	1	Italy	University of Padova
+2018	257	On Bayesian, confidence distribution and frequentist inference	Laura Ventura	0	Italy	University of Padova
+2018	453	Tools for robust Bayesian inference	Laura Ventura	1	Italy	University of Padova
+2018	453	Tools for robust Bayesian inference	Erlis Ruli	0	Italy	University of Padova
+2018	453	Tools for robust Bayesian inference	Nicola Sartori	0	Italy	University of Padova
+2018	453	Tools for robust Bayesian inference	Walter Racugno	0	Italy	University of Cagliari
+2018	347	Moment distances for comparing high-entropy distributions with application in domain adaptation	Werner Zellinger	1	Austria	Johannes Kepler University Linz
+2018	347	Moment distances for comparing high-entropy distributions with application in domain adaptation	Bernhard Moser	0	Austria	Software Competence Center Hagenberg
+2018	347	Moment distances for comparing high-entropy distributions with application in domain adaptation	Michael Zwick	0	Austria	Software Competence Center Hagenberg
+2018	347	Moment distances for comparing high-entropy distributions with application in domain adaptation	Edwin Lughofer	0	Austria	Johannes Kepler University Linz
+2018	347	Moment distances for comparing high-entropy distributions with application in domain adaptation	Thomas Natschlaeger	0	Austria	Software Competence Center Hagenberg
+2018	347	Moment distances for comparing high-entropy distributions with application in domain adaptation	Susanne Saminger-Platz	0	Austria	Johannes Kepler University Linz
+2018	403	Exploratory data analysis about the optimal number of hidden layers and nodes in deep neural network	Jae Eun Lee	1	Korea, South	Pukyong National University
+2018	403	Exploratory data analysis about the optimal number of hidden layers and nodes in deep neural network	Dae-Heung Jang	0	Korea, South	Pukyong National University
+2018	420	100+ years of graphs of the Titanic data	Juergen Symanzik	1	United States	Utah State University
+2018	420	100+ years of graphs of the Titanic data	Michael Friendly	0	Canada	York University - Psychology Department
+2018	420	100+ years of graphs of the Titanic data	Ortac Onder	0	Canada	York University - Schulich School of Business
+2018	401	How to teach a machine to read an electrocardiograph	Andreas Kryger Jensen	1	Denmark	University of Copenhagen
+2018	401	How to teach a machine to read an electrocardiograph	Thomas Alexander Gerds	0	Denmark	University of Copenhagen
+2018	199	Estimation of the fuzzy variance by different approximations of the fuzzy product	Redina Berkachy	1	Switzerland	Applied Statistics And Modelling, University of Fribourg
+2018	199	Estimation of the fuzzy variance by different approximations of the fuzzy product	Laurent Donze	0	Switzerland	University of Fribourg
+2018	196	Bayesian and frequentist models for extrapolation of event rates for safety and efficacy data in clinical trials	Daniel Bonzo	1	United States	LFB USA
+2018	196	Bayesian and frequentist models for extrapolation of event rates for safety and efficacy data in clinical trials	Marek Ancukiewicz	0	United States	LFB-USA
+2018	361	A censored generalized linear finite mixture model for the columbia card task	Nienke Dijkstra	1	Netherlands	Erasmus University Rotterdam
+2018	361	A censored generalized linear finite mixture model for the columbia card task	Patrick Groenen	0	Netherlands	Erasmus University Rotterdam
+2018	361	A censored generalized linear finite mixture model for the columbia card task	Henning Tiemeier	0	United States	Harvard University
+2018	175	Semiparametric mixed model for analysis of covariance with high dimensional covariates	Erniel Barrios	1	Philippines	University of the Philippines
+2018	175	Semiparametric mixed model for analysis of covariance with high dimensional covariates	Stephen Jun Villejo	0	Philippines	University of the Philippines
+2018	175	Semiparametric mixed model for analysis of covariance with high dimensional covariates	Joseph Ryan Lansangan	0	Philippines	University of the Philippines
+2018	332	An outlier detection method for high dimensional data with mixed attributes	Kangmo Jung	1	Korea, South	Kunsan National University
+2018	304	Fast simulation-based estimation for complex models	Maria-Pia Victoria-Feser	1	Switzerland	University of Geneva
+2018	304	Fast simulation-based estimation for complex models	Stephane Guerrier	0	United States	Pennsylvania State University
+2018	304	Fast simulation-based estimation for complex models	Samuel Orso	0	Switzerland	University of Geneva
+2018	341	Narrow big data in streams and Kolmogorov complexity	Michal Cerny	1	Czech Republic	University of Economics Prague
+2018	373	A dynamic approach for clustering of variables in high-dimensional analysis	Christian Derquenne	1	France	EDF Research and Development
+2018	377	Statistical inference on stratified manifolds	Charles Xi Yan	1	United Kingdom	University of Nottingham
+2018	383	Multiscale inference for nonaparametric time trends	Marina Khismatullina	1	Germany	University of Bonn
+2018	383	Multiscale inference for nonaparametric time trends	Michael Vogt	0	Germany	University of Bonn
+2018	390	A two-sample nonparametric statistic based on the power divergence	Hidetoshi Murakami	1	Japan	Tokyo University of Science
+2018	162	Statistical inference in a spatial-temporal stochastic frontier model	John Eustaquio	1	Philippines	University of the Philippines
+2018	162	Statistical inference in a spatial-temporal stochastic frontier model	Erniel Barrios	0	Philippines	University of the Philippines
+2018	162	Statistical inference in a spatial-temporal stochastic frontier model	Rouselle Lavado	0	Philippines	Asian Development Bank
+2018	325	On the asymmetric impact of macrovariables on volatility	Alessandra Amendola	1	Italy	University of Salerno
+2018	325	On the asymmetric impact of macrovariables on volatility	Vincenzo Candila	0	Italy	Sapienza University of Rome
+2018	325	On the asymmetric impact of macrovariables on volatility	Giampiero Maria Gallo	0	Italy	Italian Court of Auditors - Corte dei conti
+2018	436	Filters, waves and spectra	Stephen Pollock	1	United Kingdom	University of Leicester
+2018	220	Comparing trends in topics in economic journals overtime	Peter Winker	1	Germany	University of Giessen
+2018	220	Comparing trends in topics in economic journals overtime	David Lenz	0	Germany	Justus-Liebig University Giessen
+2018	450	Functional data and nonparametric modelling: Theoretical/methodological/practical aspects	Frederic Ferraty	1	France	Mathematics Institute of Toulouse
+2018	155	A tractable multi-partitions clustering	Vincent Vandewalle	1	France	Inria
+2018	155	A tractable multi-partitions clustering	Matthieu Marbac-Lourdelle	0	France	ENSAI and CREST
+2018	244	A non-homogeneous hidden Markov model for partially observed longitudinal responses	Maria Francesca Marino	1	Italy	University of Florence
+2018	244	A non-homogeneous hidden Markov model for partially observed longitudinal responses	Marco Alfo	0	Italy	University La Sapienza, Rome
+2018	374	Gradient boosting in generalized Markov-switching regression models	Timo Adam	1	Germany	Bielefeld University
+2018	374	Gradient boosting in generalized Markov-switching regression models	Andreas Mayr	0	Germany	University of Bonn
+2018	374	Gradient boosting in generalized Markov-switching regression models	Thomas Kneib	0	Germany	University of Goettingen
+2018	374	Gradient boosting in generalized Markov-switching regression models	Roland Langrock	0	Germany	Bielefeld University
+2018	345	Supervised multivariate discretization and levels merging for logistic regression	Adrien Ehrhardt	1	France	Inria
+2018	345	Supervised multivariate discretization and levels merging for logistic regression	Vincent Vandewalle	0	France	Inria
+2018	345	Supervised multivariate discretization and levels merging for logistic regression	Christophe Biernacki	0	France	Inria
+2018	345	Supervised multivariate discretization and levels merging for logistic regression	Philippe Heinrich	0	France	University of Lille
+2018	407	Robust estimation and variable selection for regression models using empirical likelihood and LASSO methods	Senay Ozdemir	1	Turkey	Afyon Kocatepe University
+2018	407	Robust estimation and variable selection for regression models using empirical likelihood and LASSO methods	Yesim Guney	0	Turkey	Ankara University
+2018	407	Robust estimation and variable selection for regression models using empirical likelihood and LASSO methods	Yetkin Tuac	0	Turkey	Ankara University
+2018	407	Robust estimation and variable selection for regression models using empirical likelihood and LASSO methods	Olcay Arslan	0	Turkey	Ankara University
+2018	410	Robust estimation and variable selection in joint location and scale model using least favorable distributions	Yesim Guney	1	Turkey	Ankara University
+2018	410	Robust estimation and variable selection in joint location and scale model using least favorable distributions	Yetkin Tuac	0	Turkey	Ankara University
+2018	410	Robust estimation and variable selection in joint location and scale model using least favorable distributions	Senay Ozdemir	0	Turkey	Afyon Kocatepe University
+2018	410	Robust estimation and variable selection in joint location and scale model using least favorable distributions	Olcay Arslan	0	Turkey	Ankara University
+2018	434	Robust principal volatility components	Carlos Trucios	1	Brazil	Sao Paulo School of Economics - FGV
+2018	417	Vector autoregressive models with multivariate skew innovations	Yetkin Tuac	1	Turkey	Ankara University
+2018	417	Vector autoregressive models with multivariate skew innovations	Yesim Guney	0	Turkey	Ankara University
+2018	417	Vector autoregressive models with multivariate skew innovations	Senay Ozdemir	0	Turkey	Afyon Kocatepe University
+2018	417	Vector autoregressive models with multivariate skew innovations	Olcay Arslan	0	Turkey	Ankara University
+2018	370	Inference in separable Hilbert spaces using Hotelling's T2	Aymeric Stamm	1	Italy	Human Technopole - IIT
+2018	370	Inference in separable Hilbert spaces using Hotelling's T2	Alessia Pini	0	Italy	Università Cattolica del Sacro Cuore
+2018	370	Inference in separable Hilbert spaces using Hotelling's T2	Simone Vantini	0	Italy	Politecnico di Milano
+2018	447	Functional regression on manifolds with contamination	Fang Yao	1	Canada	Peking University, University of Toronto
+2018	447	Functional regression on manifolds with contamination	Zhenhua Lin	0	United States	University of California, Davis
+2018	455	Dynamic modelling with Data2PDE	Michelle Carey	1	Ireland	Univerity College Dublin
+2018	455	Dynamic modelling with Data2PDE	James Ramsay	0	Canada	McGill University
+2018	310	Dependence properties of l-infinity spherical densities and related models	Florentina Suter	1	Romania	University of Bucharest and ``Gheorghe Mihoc-Caius Iacob'
+2018	285	Data-driven regression and uncertainty quantification by polynomial chaos expansions and copulas	Emiliano Torre	1	Switzerland	ETH Zurich
+2018	285	Data-driven regression and uncertainty quantification by polynomial chaos expansions and copulas	Stefano Marelli	0	Switzerland	ETH Zurich
+2018	285	Data-driven regression and uncertainty quantification by polynomial chaos expansions and copulas	Paul Embrechts	0	Switzerland	ETH Zurich
+2018	285	Data-driven regression and uncertainty quantification by polynomial chaos expansions and copulas	Bruno Sudret	0	Switzerland	ETH Zurich
+2018	286	Geometry of discrete copulas	Elisa Perrone	1	United States	Massachusetts Institute of Technology
+2018	286	Geometry of discrete copulas	Liam Solus	0	Sweden	KTH Royal Institute of Technology
+2018	286	Geometry of discrete copulas	Caroline Uhler	0	United States	Massachusetts Institute of Technology
+2018	261	fsdaR: Making the FSDA toolbox available to R users	Emmanuele Sordini	1	Italy	Joint Research Centre of the European Commission
+2018	261	fsdaR: Making the FSDA toolbox available to R users	Valentin Todorov	0	Austria	UNIDO
+2018	261	fsdaR: Making the FSDA toolbox available to R users	Aldo Corbellini	0	Italy	Faculty of Economics - University of Parma
+2018	301	Robust methods for ranking using composite indicators	Kris Boudt	1	Belgium	Vrije Universiteit Brussel and VU Amsterdam
+2018	301	Robust methods for ranking using composite indicators	Valentin Todorov	0	Austria	UNIDO
+2018	301	Robust methods for ranking using composite indicators	Wenjing Wang	0	Belgium	Vrije Universiteit Brussel
+2018	330	R scripts for automated K-means clustering	Sung-Soo Kim	1	Korea, South	Korea National Open University
+2018	164	Dividing the Iberian peninsula using wildfires data	Jose Ameijeiras-Alonso	1	Belgium	KU Leuven
+2018	164	Dividing the Iberian peninsula using wildfires data	Francesco Lagona	0	Italy	University Roma Tre
+2018	164	Dividing the Iberian peninsula using wildfires data	Monia Ranalli	0	Italy	Roma Tre University
+2018	164	Dividing the Iberian peninsula using wildfires data	Rosa Crujeiras	0	Spain	University of Santiago de Compostela
+2018	222	The joint projected normal and skew-normal: A distribution for poly-cylindrical data	Gianluca Mastrantonio	1	Italy	Politecnico of Turin
+2018	237	Angle-based models for ranking data	Philip Yu	1	Hong Kong	The University of Hong Kong
+2018	237	Angle-based models for ranking data	Mayer Alvo	0	Canada	University of Ottawa
+2018	237	Angle-based models for ranking data	Hang Xu	0	China	University of Hong Kong
+2018	201	A robust approach to singular spectrum analysis	Paulo Canas Rodrigues	1	Brazil	Federal University of Bahia
+2018	280	Efficient closed-form MAP estimators for some survival distributions	Francisco Louzada	1	Brazil	University of Sao Paulo
+2018	441	Prediction and optimal sampling for spatial multivariate functional random fields	Martha Bohorquez	1	Colombia	Universidad Nacional de Colombia
+2018	441	Prediction and optimal sampling for spatial multivariate functional random fields	Ramon Giraldo	0	Colombia	Universidad Nacional de Colombia
+2018	441	Prediction and optimal sampling for spatial multivariate functional random fields	Jorge Mateu	0	Spain	University Jaume I
+2018	154	CAMPLET: Seasonal adjustment without revisions	Barend Abeln	1	Netherlands	Investment consultant
+2018	154	CAMPLET: Seasonal adjustment without revisions	Jan Jacobs	0	Netherlands	University of Groningen
+2018	154	CAMPLET: Seasonal adjustment without revisions	Pim Ouwehand	0	Netherlands	Netherlands Statisitics
+2018	241	Dealing with count zeros in compositional data analysis using the logratio-normal-multinomial distribution	Josep Antoni Martin-Fernandez	1	Spain	University of Girona
+2018	241	Dealing with count zeros in compositional data analysis using the logratio-normal-multinomial distribution	Gloria Mateu-Figueras	0	Spain	University of Girona
+2018	241	Dealing with count zeros in compositional data analysis using the logratio-normal-multinomial distribution	Javier Palarea-Albaladejo	0	United Kingdom	Biomathematics and Statistics Scotland
+2018	241	Dealing with count zeros in compositional data analysis using the logratio-normal-multinomial distribution	Marc Comas-Cufi	0	Spain	Universitat de Girona
+2018	283	On analyzing zero patterns in compositional data sets	Jose Antonio Martin-Fernandez	1	Spain	Universitat de Girona
+2018	283	On analyzing zero patterns in compositional data sets	Javier Palarea-Albaladejo	0	United Kingdom	Biomathematics and Statistics Scotland
+2018	451	An online application for functional data analysis based on R	Manuel Escabias	1	Spain	University of Granada
+2018	451	An online application for functional data analysis based on R	Ana Maria Aguilera	0	Spain	University of Granada
+2018	451	An online application for functional data analysis based on R	Mariano J. Valderrama	0	Spain	University of Granada
+2018	451	An online application for functional data analysis based on R	M Carmen Aguilera-Morillo	0	Spain	Universidad Carlos III de Madrid

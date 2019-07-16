@@ -1,0 +1,275 @@
+panel	title	author	affiliation	country
+ITS_1: Jpn Comp Stat Soc Session: Recent Advances in Biostatistics and Bioinformatics (Organized by Takayuki Abe)	Recent Applications of Biostatistical Methods in Medicine	Takayuki Abe	Yokohama City University, Yokohama, Japan	Japan
+ITS_1: Jpn Comp Stat Soc Session: Recent Advances in Biostatistics and Bioinformatics (Organized by Takayuki Abe)	SafetyGraphics R Library An Open-Source and Clinical Workflow for Assessing Hepatoxicity in Clinical Trials	Zachary Skrivanek	Eli Lilly and Company, Indianapolis, US	USA
+ITS_1: Jpn Comp Stat Soc Session: Recent Advances in Biostatistics and Bioinformatics (Organized by Takayuki Abe)	SafetyGraphics R Library An Open-Source and Clinical Workflow for Assessing Hepatoxicity in Clinical Trials	Hiroshi Nishiyama	Eli Lilly Japan K. K, Kobe, Japan	Japan
+ITS_1: Jpn Comp Stat Soc Session: Recent Advances in Biostatistics and Bioinformatics (Organized by Takayuki Abe)	Toward Achieving Precision Health Driven by Biomedical Informatics with Data Science	Yusuke MATSUI	Nagoya University, Nagoya, Japan	Japan
+CPS_1: Clustering	On Two Distance-based Clustering Methods for Mixed Data	Michel van de Velden	Erasmus University Rotterdam, Rotterdam, the Netherlands	The Netherlands
+CPS_1: Clustering	On Two Distance-based Clustering Methods for Mixed Data	Alfonso Iodice D’Enza	Universita degli studi di Napoli Frederico II, Naples, Italy	Italy
+CPS_1: Clustering	On Two Distance-based Clustering Methods for Mixed Data	Angelos Markos	Democritus University of Thrace, Xanthi, Greece	Greece
+CPS_1: Clustering	Spatial CART Classification Trees	Poggi	LMO, Univ. Paris-Sud, Paris-Saclay, Orsay, France	France
+CPS_1: Clustering	Spatial CART Classification Trees	Bar-Hen	CNAM, Paris, France	France
+CPS_1: Clustering	Spatial CART Classification Trees	Gey	MAP5, Univ. Paris Descartes, Paris, France	France
+CPS_1: Clustering	Functional Subspace Clustering: a Self-updating Process Approach	Shang-Ying Shiu	National Taipei University, New Taipei City, Taiwan	Taiwan
+CPS_1: Clustering	Functional Subspace Clustering: a Self-updating Process Approach	Ting-Li Chen	Academia Sinica, Taipei, Taiwan	Taiwan
+CPS_1: Clustering	A Generalization of Functional Clustering for Discrete Multivariate Longitudinal Data	Yaeji Lim	Chung-Ang University, Seoul, Korea	Korea
+CPS_1: Clustering	A Generalization of Functional Clustering for Discrete Multivariate Longitudinal Data	Hee-Seok Oh	Seoul National University, Seoul, Korea	Korea
+CPS_2: Visualization 1	Random Partition T-SNE	Szu-Han Lin	Institute of Sta tistical Science, Academia Sinica, Taipei, Taiwan	Taiwan
+CPS_2: Visualization 1	Random Partition T-SNE	Ting-Li Chen	Institute of Sta tistical Science, Academia Sinica, Taipei, Taiwan	Taiwan
+CPS_2: Visualization 1	Random Partition T-SNE	I-Ping Tu	Institute of Sta tistical Science, Academia Sinica, Taipei, Taiwan	Taiwan
+CPS_2: Visualization 1	A Visualization of Aggregated Symbolic Data	Junji Nakano	Chuo University, Tokyo, Japan	Japan
+CPS_2: Visualization 1	A Visualization of Aggregated Symbolic Data	Nobuo Shimizu	The Institute of Statistical Mathematics, Tokyo, Japan	Japan
+CPS_2: Visualization 1	A Visualization of Aggregated Symbolic Data	Yoshikazu Yamamoto	Tokushima Bunri University, Kagawa, Japan	Japan
+CPS_2: Visualization 1	Statistical Model Based Text Mining and Visualization: Application to Longitudinally Observed Data	Shizue IZUMI	Shiga University, Hikone, Japan	Japan
+CPS_2: Visualization 1	Statistical Model Based Text Mining and Visualization: Application to Longitudinally Observed Data	Tetsuji Tonda	Prefectural University of Hiroshima, Hiroshima, Japan	Japan
+CPS_2: Visualization 1	Statistical Model Based Text Mining and Visualization: Application to Longitudinally Observed Data	Noriyuki Kawano	Hiroshima University, Hiroshima, Japan	Japan
+CPS_2: Visualization 1	Statistical Model Based Text Mining and Visualization: Application to Longitudinally Observed Data	Kenichi Satoh	Shiga University, Hikone, Japan	Japan
+CPS_2: Visualization 1	Visualization of Effects on Radiotherapy	Masahiro Mizuta	Hokkaido University, Sapporo, Japan	Japan
+CPS_3: Sports and Behavioral Data Science	The Impact of Temperature on Nippon Professional Baseball	Kazuki Konda	Graduate school of Tokai University, Kanagawa, Japan	Japan
+CPS_3: Sports and Behavioral Data Science	The Impact of Temperature on Nippon Professional Baseball	Yoshiro Yamamoto	Tokai University, Kanagawa, Japan	Japan
+CPS_3: Sports and Behavioral Data Science	Assessing the Effects of Time-dependent Match Environments on the Soccer Team Performances	Tsuneshi Obata	Oita University, Oita, Japan	Japan
+CPS_3: Sports and Behavioral Data Science	Assessing the Effects of Time-dependent Match Environments on the Soccer Team Performances	Shizue Izumi	Shiga University, Hikone, Japan	Japan
+CPS_3: Sports and Behavioral Data Science	Characterization of the Formation Structure in Team Sports Using Delaunay Triangulation	Takuma Narizuka	Chuo University, Bunkyo, Tokyo, Japan	Japan
+CPS_3: Sports and Behavioral Data Science	Characterization of the Formation Structure in Team Sports Using Delaunay Triangulation	Yoshihiro Yamazaki	Waseda University, Shinjuku, Tokyo, Japan	Japan
+CPS_3: Sports and Behavioral Data Science	Statistical Approach Toward Automatic Annotation of Human Behavior	Wataru Takano	Osaka University, Toyonaka, JPN	Japan
+Short Oral	A Clustering-based Approach for Selecting Core Collection	Chen-An Tsai	National Taiwan University, Taipei, Taiwan	Taiwan
+Short Oral	Mixtures of Probabilistic Principal Component Analysis for NMAR Missing Data	Yuki Morioka	Doshisha University, Kyoto, Japan	Japan
+Short Oral	Mixtures of Probabilistic Principal Component Analysis for NMAR Missing Data	Kensuke Tanioka	Wakayama Medical University, Wakayama, Japan	Japan
+Short Oral	Mixtures of Probabilistic Principal Component Analysis for NMAR Missing Data	Hiroshi Yadohisa	Doshisha University, Kyoto, Japan	Japan
+Short Oral	Fuzzy Clusterwise Generalized Structured Component Analysis for Mixed Data	Ippei Takasawa	Doshisha University, Kyoto, Japan	Japan
+Short Oral	Fuzzy Clusterwise Generalized Structured Component Analysis for Mixed Data	Kensuke Tanioka	Wakayama Medical University, Wakayama, Japan	Japan
+Short Oral	Fuzzy Clusterwise Generalized Structured Component Analysis for Mixed Data	Hiroshi Yadohisa	Doshisha University, Kyoto, Japan	Japan
+Short Oral	Uniqueness-dissociated Factor Analysis Modified for Providing Sparse Loadings and Extended Common Factors	Masamichi ito	Osaka University, Suita-shi, Japan	Japan
+Short Oral	Uniqueness-dissociated Factor Analysis Modified for Providing Sparse Loadings and Extended Common Factors	Kohei Adachi	Osaka University, Suita-shi, Japan	Japan
+Short Oral	LARS-type Estimation Procedure for Generalized Linear Models	Yoshihiro Hirose	Hokkaido University, Sapporo, Japan	Japan
+Short Oral	A Geometric Estimation Method for Autoregressive Models	Danilo Guimarães Gonçalves	Hokkaido University, Sapporo, Japan	Japan
+Short Oral	A Geometric Estimation Method for Autoregressive Models	Yoshihiro Hirose	Hokkaido University, Sapporo, Japan	Japan
+CPS_4: Statistical Image Processing	Clustering Partially Masked Images from Wafer Bin Maps	Shuen-Lin Jeng	Department of Statistics, National Cheng Kung University, Tainan, Taiwan	Taiwan
+CPS_4: Statistical Image Processing	Analyzing Model Bias in Cryo-EM Single-Particle Image Processing	Shao-Hsuan Wang	Institute of Statistical Sciences, Academia Sinica, Taipei 115, Taiwan,	NA
+CPS_4: Statistical Image Processing	Analyzing Model Bias in Cryo-EM Single-Particle Image Processing	Yi-Ching Yao	Institute of Statistical Sciences, Academia Sinica, Taipei 115, Taiwan,	NA
+CPS_4: Statistical Image Processing	Analyzing Model Bias in Cryo-EM Single-Particle Image Processing	Wei-Hau Chang	Institute of Chemistry, Academia Sinica, Taipei 115, Taiwan	Taiwan
+CPS_4: Statistical Image Processing	Analyzing Model Bias in Cryo-EM Single-Particle Image Processing	I-Ping Tu	Institute of Statistical Sciences, Academia Sinica, Taipei 115, Taiwan,	NA
+CPS_5: Nonmetric Principal Component Anaysis	Joint Oblique Rotation in Multiple Correspondence Analysis and Its Properties	Naomichi Makino	Osaka University, Osaka, Japan	Japan
+CPS_5: Nonmetric Principal Component Anaysis	Some Applications in Multivariate Methods with Alternating Least Squares	Yuichi Mori	Okayama University of Science, Okayama, Japan	Japan
+CPS_5: Nonmetric Principal Component Anaysis	Some Applications in Multivariate Methods with Alternating Least Squares	Hiroko Katayama	Okayama University of Science, Okayama, Japan	Japan
+CPS_5: Nonmetric Principal Component Anaysis	Some Applications in Multivariate Methods with Alternating Least Squares	Takatsugu Yoshioka	Okayama University of Science, Okayama, Japan	Japan
+CPS_5: Nonmetric Principal Component Anaysis	Some Applications in Multivariate Methods with Alternating Least Squares	Masahiro Kuroda	Okayama University of Science, Okayama, Japan	Japan
+CPS_5: Nonmetric Principal Component Anaysis	Some Applications in Multivariate Methods with Alternating Least Squares	Masaya Iizuka	Okayama University, Okayama, Japan	Japan
+CPS_6: Longitudinal Data Science	Trigonometric Forms of Fourier Series Estimator in Nonparametric Regression for Longitudinal Data	M. Fariz Fadillah Mardianto	Ph.D Candidate in Department of Mathematics, Gadjah Mada University, Yogyakarta, Indonesia	Indonesia
+CPS_6: Longitudinal Data Science	Trigonometric Forms of Fourier Series Estimator in Nonparametric Regression for Longitudinal Data	Sri Haryatmi Kartiko	Department of Mathematics, Gadjah Mada University, Yogyakarta, Indonesia	Indonesia
+CPS_6: Longitudinal Data Science	Trigonometric Forms of Fourier Series Estimator in Nonparametric Regression for Longitudinal Data	Herni Utami	Department of Mathematics, Gadjah Mada University, Yogyakarta, Indonesia	Indonesia
+CPS_6: Longitudinal Data Science	Forecasting the Term Structure of Yields Bond	Dedi Rosadi	Department of Mathematics, Gadjah Mada University, Indonesia	Indonesia
+CPS_6: Longitudinal Data Science	Forecasting the Term Structure of Yields Bond	Muslim	Department of Mathematics, Universitas Jambi, Indonesia	Indonesia
+CPS_6: Longitudinal Data Science	Forecasting the Term Structure of Yields Bond	Agus Sihabuddin	Department of Computer Science, Gadjah Mada University, Indonesia	Indonesia
+Poster	Application of Bayesian Spatiotemporal Varying Coefficients Model to the Mortality from Ischemic Stroke	Kuo-Jung Lee	Department of Statistics, National Cheng-Kung University, Taiwan	Taiwan
+Poster	Application of Bayesian Spatiotemporal Varying Coefficients Model to the Mortality from Ischemic Stroke	Sheng-Mao Chang	Department of Statistics, National Cheng-Kung University, Taiwan	Taiwan
+Poster	Bayesian Estimation of Impression Discriminant Ability in Paired Comparison	Sho Hashimoto	Kwansei Gakuin University, Sanda, Japan	Japan
+Poster	Bayesian Estimation of Impression Discriminant Ability in Paired Comparison	Taiki Shimozono	Kwansei Gakuin University, Sanda, Japan	Japan
+Poster	Bayesian Estimation of Impression Discriminant Ability in Paired Comparison	Noriko Nagata	Kwansei Gakuin University, Sanda, Japan	Japan
+Poster	Statistical Analysis for Livestock Sectors In Indonesia Based on Factors That Related to The Development of Industrial Revolution	Aldy Pradana	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Statistical Analysis for Livestock Sectors In Indonesia Based on Factors That Related to The Development of Industrial Revolution	Zalfa Nur Amalia	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Statistical Analysis for Livestock Sectors In Indonesia Based on Factors That Related to The Development of Industrial Revolution	Ismiyatun Hanifah	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Statistical Analysis for Livestock Sectors In Indonesia Based on Factors That Related to The Development of Industrial Revolution	M. Fariz Fadillah Mardianto	Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	K-Means Clustering On Text Data	Vemmie Nastiti Lestari	Universitas Gadjah Mada, Yogyakarta, Indonesia	Indonesia
+Poster	K-Means Clustering On Text Data	Subanar	Universitas Gadjah Mada, Yogyakarta, Indonesia	Indonesia
+Poster	Chinese Word Segmentation by Considering Dependence Between Adjacent Words	Kuan-Hui Wu	Department of Statistics, National ChengChi University, Taipei, Taiwan	Taiwan
+Poster	Chinese Word Segmentation by Considering Dependence Between Adjacent Words	Huey-Miin Hsueh	Department of Statistics, National ChengChi University, Taipei, Taiwan	Taiwan
+Poster	A Clustering-based Approach for Selecting Core Collection	Chen-An Tsai	National Taiwan University, Taipei, Taiwan	Taiwan
+Poster	Growing Bigger and More Accurate with GSBPM Part Five	Very Basuki	Government Statistical Training Center, Jakarta, Indonesia	Indonesia
+Poster	Growing Bigger and More Accurate with GSBPM Part Five	Nurani Aprilia	STIS 57 Social Division, Jakarta, Indonesia	Indonesia
+Poster	Establishment Approach Survey to Update Household Approach Survey (part One) [HES]	Isni Sukrianah	STIS 55 Social Division, Jakarta, Indonesia	Indonesia
+Poster	Establishment Approach Survey to Update Household Approach Survey (part One) [HES]	Aulia Dini	STIS 53 Economic Division, Jakarta, Indonesia	Indonesia
+Poster	Establishment Approach Survey to Update Household Approach Survey (part One) [HES]	Rahmiati Rahim	STIS 46 Computer Division, Jakarta, Indonesia	Indonesia
+Poster	Pricing of Agricultural Insurance Premium in Indonesia with The Option Approach	Yunita Wulan Sari	Universitas Gadjah Mada, Yogyakarta, Indonesia	Indonesia
+Poster	Pricing of Agricultural Insurance Premium in Indonesia with The Option Approach	Gunardi	Universitas Gadjah Mada, Yogyakarta, Indonesia	Indonesia
+Poster	Comparison Between Estimation Methods for Undirected Networks	Tasuku Yamasaki	Graduate School of Comprehensive Human Science, University of Tsukuba, Ibaraki, Japan	Japan
+Poster	Hazard Ratio Function Based on Kernel Estimator in Modeling Stunting Toddler’s Height	Sri Haryatmi Kartiko	Department of Mathematics, Gadjah Mada University, Yogyakarta, Indonesia	Indonesia
+Poster	Hazard Ratio Function Based on Kernel Estimator in Modeling Stunting Toddler’s Height	M. Fariz Fadillah Mardianto	Ph.D Candidate, Department of Mathematics, Gadjah Mada University, Yogyakarta, Indonesia	Indonesia
+Poster	"Two Forms of Complete Fourier Series Estimator to Predict Contribution for ""Suroboyo"" Bus Payment System"	Reynaldi Aries Ariyanto	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	"Two Forms of Complete Fourier Series Estimator to Predict Contribution for ""Suroboyo"" Bus Payment System"	Raka Andriawan	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	"Two Forms of Complete Fourier Series Estimator to Predict Contribution for ""Suroboyo"" Bus Payment System"	Devayanti Anugerahing Husada	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	"Two Forms of Complete Fourier Series Estimator to Predict Contribution for ""Suroboyo"" Bus Payment System"	M. Fariz Fadillah Mardianto	Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Local Linear Approach in Nonparametric Regression for Estimating Poverty Percentage from Mean Years of Schooling	Eva Edina Limanta	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Local Linear Approach in Nonparametric Regression for Estimating Poverty Percentage from Mean Years of Schooling	M. Fariz Fadillah Mardianto	Department of Mathematics, Gadjah Mada University, Yogyakarta, Indonesia	Indonesia
+Poster	Investigating the Dependence of Two Different Species from Presence-absence Maps	Ya-Mei Chang	Department of Statistics, Tamkang University, New Taipei, Taiwan	Taiwan
+Poster	Interval Estimation for Nonconformance Proportion of Air Quality Index	Tsai-Yu Lin	Department of Applied Mathematics, Feng Chia University, Taichung, Taiwan	Taiwan
+Poster	Unbiased Estimation Equation Under F-separable Extension of Squared and Itakura-Saito Distances	Masahiro Kobayashi	Toyohashi University of Technology, Toyohashi, Japan	Japan
+Poster	Unbiased Estimation Equation Under F-separable Extension of Squared and Itakura-Saito Distances	Kazuho Watanabe	Toyohashi University of Technology, Toyohashi, Japan	Japan
+Poster	A Robust RUV-testing Procedure via Gamma-divergence	HUNG HUNG	Institute of Epidemiology and Preventive Medicine, National Taiwan University, Taiwan	Taiwan
+Poster	Generalized Interventional Approach for Causal Mediation Analysis with Causally Ordered Multiple Mediators	Sheng-Hsuan Lin	Institute of Statistics, Hsinchu, Taiwa	Taiwan
+Poster	Confidence Bands for Quantile Residual Life Function with Clustered Survival Data	YUNCHAN CHI	Department of Statistics, National Cheng Kung University, Tainan, Taiwan	Taiwan
+Poster	Mixtures of Probabilistic Principal Component Analysis for NMAR Missing Data	Yuki Morioka	Doshisha University, Kyoto, Japan	Japan
+Poster	Mixtures of Probabilistic Principal Component Analysis for NMAR Missing Data	Kensuke Tanioka	Wakayama Medical University, Wakayama, Japan	Japan
+Poster	Mixtures of Probabilistic Principal Component Analysis for NMAR Missing Data	Hiroshi Yadohisa	Doshisha University, Kyoto, Japan	Japan
+Poster	Mapping of The PM2.5 Sources EEct to Respiration and Cardiac Health Based on Geographically Weighted Regression in Indonesia	Raka Andriawan	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Mapping of The PM2.5 Sources EEct to Respiration and Cardiac Health Based on Geographically Weighted Regression in Indonesia	Devayanti Anugerahing Husada	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Mapping of The PM2.5 Sources EEct to Respiration and Cardiac Health Based on Geographically Weighted Regression in Indonesia	Ismiyatun Hanifah	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Mapping of The PM2.5 Sources EEct to Respiration and Cardiac Health Based on Geographically Weighted Regression in Indonesia	M. Fariz Fadillah Mardianto	Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Modelling of Corn Productivity in Central Java, In- Donesia Using Hyper-Local Geographically Weighted Regression	Herni Utami	Gadjah Mada University, Yogyakarta, Indonesia	Indonesia
+Poster	Local Linear Regression Methods for Interval-valued Data	Jungteak Jang	Hankuk Univ. of Foreign Studies, Yongin, Korea	Korea
+Poster	Local Linear Regression Methods for Interval-valued Data	Kee-Hoon Kang	Hankuk Univ. of Foreign Studies, Yongin, Korea	Korea
+Poster	Structural Equation Modeling for Society Satisfaction Analysis of The E-Toll System in Indonesia	Rosyida Widadina Ulya	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Structural Equation Modeling for Society Satisfaction Analysis of The E-Toll System in Indonesia	Almira Sophie Syamsudin	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Structural Equation Modeling for Society Satisfaction Analysis of The E-Toll System in Indonesia	M. Fariz Fadillah Mardianto	Department of Mathematics, Gadjah Mada University, Yogyakarta, Indonesia	Indonesia
+Poster	Structural Equation Modeling in Motivation Analysis for Millennial Participation Related to General Elections in Indonesia	Zalfa Nur Amalia	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Structural Equation Modeling in Motivation Analysis for Millennial Participation Related to General Elections in Indonesia	Rosyida Widadina Ulya	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Structural Equation Modeling in Motivation Analysis for Millennial Participation Related to General Elections in Indonesia	Disty Ridha Hastuti	Student, Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Structural Equation Modeling in Motivation Analysis for Millennial Participation Related to General Elections in Indonesia	M. Fariz Fadillah Mardianto	Department of Mathematics, Airlangga University, Surabaya, Indonesia	Indonesia
+Poster	Fuzzy Clusterwise Generalized Structured Component Analysis for Mixed Data	Ippei Takasawa	Doshisha University, Kyoto, Japan	Japan
+Poster	Fuzzy Clusterwise Generalized Structured Component Analysis for Mixed Data	Kensuke Tanioka	Wakayama Medical University, Wakayama, Japan	Japan
+Poster	Fuzzy Clusterwise Generalized Structured Component Analysis for Mixed Data	Hiroshi Yadohisa	Doshisha University, Kyoto, Japan	Japan
+Poster	Variable Selection in Propensity Score Using Adaptive Bridge for Confounding Adjustment	Shuji Ando	Tokyo University of Science, Katsushika-ku, Japan	Japan
+Poster	New Sparse Modeling of Sample Mahalanobis Distance	Yasuyuki Kobayashi	Teikyo university, Utsunomiya, Japan	Japan
+Poster	Uniqueness-dissociated Factor Analysis Modified for Providing Sparse Loadings and Extended Common Factors	Masamichi ito	Osaka University, Suita-shi, Japan	Japan
+Poster	Uniqueness-dissociated Factor Analysis Modified for Providing Sparse Loadings and Extended Common Factors	Kohei Adachi	Osaka University, Suita-shi, Japan	Japan
+Poster	LARS-type Estimation Procedure for Generalized Linear Models	Yoshihiro Hirose	Hokkaido University, Sapporo, Japan	Japan
+Poster	Spatial Model For The Prevalence of Leprosy In South Sulawesi, Indonesia	Rezki M. Sabil	Statistics Indonesia, Jakarta, Indonesia	Indonesia
+Poster	Spatial Model For The Prevalence of Leprosy In South Sulawesi, Indonesia	Ray Sastri	Polytechnics of Statistics STIS, Jakarta, Indonesia	Indonesia
+Poster	Spatial Modeling of Ground-Level PM2.5 in Taiwan Based on Two Types of Data	Chi-Wei Lai	Institute of Statistical Science, Academia Sinica, Taipei, Taiwan	Taiwan
+Poster	Spatial Modeling of Ground-Level PM2.5 in Taiwan Based on Two Types of Data	Hsin-Cheng Huang	Institute of Statistical Science, Academia Sinica, Taipei, Taiwan	Taiwan
+Poster	Spatial Modeling of Ground-Level PM2.5 in Taiwan Based on Two Types of Data	Sheng-Li Tzeng	Department of Applied Mathematics, National Sun Yat-sen University, Kaohsiung, Taiwan	Taiwan
+Poster	A Spatial Rank-based EWMA Chart for Monitoring Linear Profiles	Longcheen Huwang	National Tsing Hua University, Hsinchu, Taiwan	Taiwan
+Poster	A Spatial Rank-based EWMA Chart for Monitoring Linear Profiles	Jian-Chi Lin	National Tsing Hua University, Hsinchu, Taiwan	Taiwan
+Poster	A Spatial Rank-based EWMA Chart for Monitoring Linear Profiles	Li-Wei Lin	National Tsing Hua University, Hsinchu, Taiwan	Taiwan
+Poster	Crime Prediction of Street Harassment	Tomoya Ohyama	University of Tsukuba, Tsukuba, Japan	Japan
+Poster	Crime Prediction of Street Harassment	Mamoru Amemiya	University of Tsukuba, Tsukuba, Japan	Japan
+Poster	Multi Compound Option for Bond Performance with Jump Diffusion Process	Di Asih I Maruddani	Diponegoro University, Semarang, Indonesia	Indonesia
+Poster	Multi Compound Option for Bond Performance with Jump Diffusion Process	Abdurakhman	Gadjah Mada University, Yogyakarta, Indonesia	Indonesia
+Poster	Visual Analytics of a Large Longitudinal Survey Data	D. Danardono	Department of Mathematics UGM, Yogyakarta, Indonesia	Indonesia
+Poster	Statistical Modeling of Logarithmic Diffusions in Word Counts Time Series in Nation-wide Language Data Sets	Hayafumi Watanabe	Kanazawa univeristy, Kanazawa, Japan	Japan
+Poster	A Geometric Estimation Method for Autoregressive Models	Danilo Guimarães Gonçalves	Hokkaido University, Sapporo, Japan	Japan
+Poster	A Geometric Estimation Method for Autoregressive Models	Yoshihiro Hirose	Hokkaido University, Sapporo, Japan	Japan
+CPS_7: Biometrics	Mean Residual Life Function Estimators for Nonnegative Data by Logarithmic Transformation	Rizky Reza Fauzi	Graduate School of Mathematics Kyushu University, Fukuoka, Japan	Japan
+CPS_7: Biometrics	Mean Residual Life Function Estimators for Nonnegative Data by Logarithmic Transformation	Yoshihiko Maesono	Faculty of Science and Engineering Chuo University, Tokyo, Japan	Japan
+CPS_7: Biometrics	Prediction of Model Mean Using Double Power Additive Transformation	Takanori Yoshikawa	Wakayama medical university hospital, Wakayama, Japan	Japan
+CPS_7: Biometrics	Prediction of Model Mean Using Double Power Additive Transformation	Yoshimichi Ochi	Oita university, Oita, Japan	Japan
+CPS_7: Biometrics	Prediction of Model Mean Using Double Power Additive Transformation	Masashi Goto	Biostatistical research association, Toyonaka, Japan	Japan
+CPS_7: Biometrics	Inference About Binocular Sensitivity and Specificity of Screening Tests for Paired Organs	Tsung-Shan Tsou	Institute of Statistics, National Central University, Taiwan	Taiwan
+CPS_8: Dimension Reduction	Principal Component Analysis Using the Gini Coefficient Penalty Function	Jun Tsuchida	Tokyo University of Science, Tokyo, JAPAN	Japan
+CPS_8: Dimension Reduction	Principal Component Analysis Using the Gini Coefficient Penalty Function	Hiroshi Yadohisa	Doshisha University, Kyoto, JAPAN	Japan
+CPS_8: Dimension Reduction	Implementing a Biplot Based Multivariate Data Driven Industrial Performance Index	Niel Le Roux	Stellenbosch University, Stellenbosch, South Africa	South Africa
+CPS_8: Dimension Reduction	Implementing a Biplot Based Multivariate Data Driven Industrial Performance Index	Ruan Rossouw	Sasol Group Technology R & T, Sasolburg, South Africa	South Africa
+CPS_8: Dimension Reduction	Implementing a Biplot Based Multivariate Data Driven Industrial Performance Index	Roelof Coetzer	Sasol Group Technology R & T, Sasolburg, South Africa	South Africa
+CPS_8: Dimension Reduction	Cross-Validation Error in Classification with Dimension Reduction and Applications to Proteomics Mass Spectrometry Imaging	Inge Koch	University of Western Australia, Perth, Australia	Australia
+CPS_8: Dimension Reduction	Sufficient Reduction in Large Ensembles of Time Series Analysis	Heng-Hui Lue	Tunghai University, Taichung, Taiwan	Taiwan
+ITS_2: Statistical Signal Analysis and Estimation	Nonparametric Inference for Activity Profiles from Wearable Devices	Ian McKeague	Columbia University, New York, USA	USA
+ITS_2: Statistical Signal Analysis and Estimation	Signal Estimation from Large Ranking Data Sets: Challenges and Strategies	Michael G. Schimek	Medical University of Graz, Graz, Austria	Austria
+ITS_2: Statistical Signal Analysis and Estimation	Signal Estimation from Large Ranking Data Sets: Challenges and Strategies	Luca Vitale	Medical University of Graz, Graz, Austria	Austria
+CPS_9: Statistical Computing	Measuring Unobserved Cultural Effects on Music Trade: Grouping Interactive Fixed Effects in Sample Selection Models	Yuki Takara	Chiba Keizai University, Chiba, Japan	Japan
+CPS_9: Statistical Computing	Measuring Unobserved Cultural Effects on Music Trade: Grouping Interactive Fixed Effects in Sample Selection Models	Shingo Takagi	Hokkaido University, Sapporo, Japan	Japan
+CPS_9: Statistical Computing	From Docker to Kubernetes: Scaling Machine Learning Algorithms	Jim Harner	West Virginia University, Morgantown, USA	USA
+CPS_9: Statistical Computing	From Docker to Kubernetes: Scaling Machine Learning Algorithms	Mark Lilback	Rc2ai, Morgantown, USA	USA
+CPS_9: Statistical Computing	Exponential Convergence of Stochastic Gradient Descent for Binary Classification Problems	Atsushi Nitanda	The University of Tokyo, Tokyo, Japan	Japan
+CPS_9: Statistical Computing	Exponential Convergence of Stochastic Gradient Descent for Binary Classification Problems	Taiji Suzuki	The University of Tokyo, Tokyo, Japan	Japan
+CPS_10: Bayesian Analysis	A Bayesian Nonparametric Topic Model Using an Outcome Variable for Microbiome Data	Tasuku Okui	Kyusyu Univeristy Hospital, Fukuoka city, Japan	Japan
+CPS_10: Bayesian Analysis	Sample Sizes and Properties of Four Bayesian Designs for Proof-of-Concept Trials	Fanghong Zhang	Novartis Pharma K.K., Tokyo, Japan	Japan
+CPS_10: Bayesian Analysis	On the Determination of Number of Bases in Bayesian Nonnegative Matrix Factorization Using the Marginal Likelihood	Hiroyasu Abe	Kyoto University, Kyoto, Japan	Japan
+CPS_11: Data Sciece for Human Learning	Causal Effect of Inquiry Teaching Using Generalized Propensity Score in Japan	Kan Hishiyama	the University of Tokyo, Tokyo, Japan	Japan
+CPS_11: Data Sciece for Human Learning	Causal Effect of Inquiry Teaching Using Generalized Propensity Score in Japan	Kensuke Okada	the University of Tokyo, Tokyo, Japan	Japan
+CPS_11: Data Sciece for Human Learning	Computerized Adaptive Test That Incorporates Response Time for Personality Measurement	Kazuya Fujita	The University of Tokyo, Tokyo, Japan	Japan
+CPS_11: Data Sciece for Human Learning	Computerized Adaptive Test That Incorporates Response Time for Personality Measurement	Kensuke Okada	The University of Tokyo, Tokyo, Japan	Japan
+CPS_11: Data Sciece for Human Learning	Success/Failure Prediction Using A Large-scale Online Testing System with Its Learning Analytics	Hideo Hirose	Hiroshima Institute of Technology, Hiroshima, Japan	Japan
+ITS_3: ISBIS Session: Recent Advances in Business and Industrial Statistics (Organized by P. C. Rodrigues)	Robust Singular Spectrum Analysis: Methodology and Application	Paulo Canas Rodrigues	Federal University of Bahia, Salvador, Brazil	Brazil
+ITS_3: ISBIS Session: Recent Advances in Business and Industrial Statistics (Organized by P. C. Rodrigues)	Regularized Partially Functional AutoRegressive Model	Ying Chen	National University of Singapore, Singapore, Singapore	Singapore
+ITS_3: ISBIS Session: Recent Advances in Business and Industrial Statistics (Organized by P. C. Rodrigues)	Regularized Partially Functional AutoRegressive Model	Thorsten Koch	Technische Universitaet Berlin, Berlin, Germany	Germany
+ITS_3: ISBIS Session: Recent Advances in Business and Industrial Statistics (Organized by P. C. Rodrigues)	Regularized Partially Functional AutoRegressive Model	Xiaofei Xu	National University of Singapore, Singapore, Singapore	Singapore
+ITS_3: ISBIS Session: Recent Advances in Business and Industrial Statistics (Organized by P. C. Rodrigues)	Call Center Arrivals: When to Jointly Forecast Multiple Streams?	Han Ye	University of Illinois at Urbana-Champaign, Illinois, USA	USA
+ITS_3: ISBIS Session: Recent Advances in Business and Industrial Statistics (Organized by P. C. Rodrigues)	Call Center Arrivals: When to Jointly Forecast Multiple Streams?	James Luedtke	University of Wisconsin-Madison, Wisconsin, USA	USA
+ITS_3: ISBIS Session: Recent Advances in Business and Industrial Statistics (Organized by P. C. Rodrigues)	Call Center Arrivals: When to Jointly Forecast Multiple Streams?	Haipeng Shen	University of Hong Kong, Hong Kong, China	China
+ITS_6: Acadimia Sinica – Doshisha Univ Session 1 (Chair: Chun-houh Chen)	Prediction of Cancer Patients’ Response to Drugs via Cell Lines and Machine Learning	Grace S. Shieh	Institute of Statistical Science, Academia Sinica, Taiwan	Taiwan
+ITS_6: Acadimia Sinica – Doshisha Univ Session 1 (Chair: Chun-houh Chen)	Prediction of Cancer Patients’ Response to Drugs via Cell Lines and Machine Learning	Yun-Chan Chi	Dept. of Statistics, National Cheng-Kung University, Taiwan	Taiwan
+ITS_6: Acadimia Sinica – Doshisha Univ Session 1 (Chair: Chun-houh Chen)	Prediction of Cancer Patients’ Response to Drugs via Cell Lines and Machine Learning	Jan-Gowth Chang	Department of Laboratory Medicine, China Medical University and CMU Hospital, Taiwan	Taiwan
+ITS_6: Acadimia Sinica – Doshisha Univ Session 1 (Chair: Chun-houh Chen)	Predicting One-day-ahead Wind Power Capacity Factor via Functional Inverse Regression	Lu-Hung Chen	National Chung-Hsing University, Taichung, Taiwan	Taiwan
+ITS_6: Acadimia Sinica – Doshisha Univ Session 1 (Chair: Chun-houh Chen)	Predicting One-day-ahead Wind Power Capacity Factor via Functional Inverse Regression	Ci-Ren Jiang	Academia Sinica, Taipei, Taiwan	Taiwan
+ITS_6: Acadimia Sinica – Doshisha Univ Session 1 (Chair: Chun-houh Chen)	Statistical Methods for Cryo-EM Image Analysis	I-Ping Tu	Institute of Statistical Science, Academia Sinica, Taipei, Taiwan	Taiwan
+CPS_12: Spatial Statistics	Cluster Detection Based on Restricted Hierarchical Structure for Large Scale Data	Yusuke Takemura	Okayama University, Okayama, Japan	Japan
+CPS_12: Spatial Statistics	Cluster Detection Based on Restricted Hierarchical Structure for Large Scale Data	Fumio Ishioka	Okayama University, Okayama, Japan	Japan
+CPS_12: Spatial Statistics	Cluster Detection Based on Restricted Hierarchical Structure for Large Scale Data	Koji Kurihara	Okayama University, Okayama, Japan	Japan
+CPS_12: Spatial Statistics	Hotspot Detection for Epidemiological Data Analysis Using R Shiny	Shoji Kajinishi	Okayama University, Okayama, Japan	Japan
+CPS_12: Spatial Statistics	Hotspot Detection for Epidemiological Data Analysis Using R Shiny	Fumio Ishioka	Okayama University, Okayama, Japan	Japan
+CPS_12: Spatial Statistics	Hotspot Detection for Epidemiological Data Analysis Using R Shiny	Koji Kurihara	Okayama University, Okayama, Japan	Japan
+CPS_12: Spatial Statistics	Testing Different Spatial and Temporal Units in Detecting and Visualizing Crime Concentration	Takahito Shimada	National Research Institute of Police Science, Kashiwa, Japan	Japan
+CPS_12: Spatial Statistics	Testing Different Spatial and Temporal Units in Detecting and Visualizing Crime Concentration	Tomonori Saitoh	National Research Institute of Police Science, Kashiwa, Japan	Japan
+CPS_12: Spatial Statistics	Testing Different Spatial and Temporal Units in Detecting and Visualizing Crime Concentration	Yoshiko Yamane	National Research Institute of Police Science, Kashiwa, Japan	Japan
+CPS_12: Spatial Statistics	Stat On-demand for World Grid Square Statistics	Aki-Hiro Sato	Yokohama City University, Yokohama, Japan	Japan
+CPS_12: Spatial Statistics	Stat On-demand for World Grid Square Statistics	Naoki Makita	Shiga University, Hikone, Japan	Japan
+CPS_12: Spatial Statistics	Stat On-demand for World Grid Square Statistics	Shoki Nishimura	National Statistics Center, Tokyo, Japan	Japan
+CPS_13: Deep Learning	A Tool for Deep Automatic Classification and Visual Analytics of Complex Spatio-temporal Data	Elena Ginina	VRVis Research Center, Vienna, Austria	Austria
+CPS_13: Deep Learning	A Tool for Deep Automatic Classification and Visual Analytics of Complex Spatio-temporal Data	Denis Gracanin	Virginia Tech, Blacksburg, Virginia, USA	USA
+CPS_13: Deep Learning	A Tool for Deep Automatic Classification and Visual Analytics of Complex Spatio-temporal Data	Michael Beham	VRVis Research Center, Vienna, Austria	Austria
+CPS_13: Deep Learning	A Tool for Deep Automatic Classification and Visual Analytics of Complex Spatio-temporal Data	Rainer Splechtna	VRVis Research Center, Vienna, Austria	Austria
+CPS_13: Deep Learning	A Tool for Deep Automatic Classification and Visual Analytics of Complex Spatio-temporal Data	Kresimir Matkovic	VRVis Research Center, Vienna, Austria	Austria
+CPS_13: Deep Learning	Machine Learning Classification of Functional Brain Imaging for Parkinson’s Disease Stage Prediction	Guan-Hua Huang	National Chiao Tung University, Hsinchu, Taiwan	Taiwan
+CPS_13: Deep Learning	Machine Learning Classification of Functional Brain Imaging for Parkinson’s Disease Stage Prediction	Chih-Hsuan Lin	National Chiao Tung University, Hsinchu, Taiwan	Taiwan
+CPS_13: Deep Learning	Toward Understanding Expressive Power of Graph Convolutional Neural Networks	Kenta Oono	The University of Tokyo, Tokyo, Japan / Preferred Networks, Inc., Tokyo, Japan	Japan
+CPS_13: Deep Learning	Toward Understanding Expressive Power of Graph Convolutional Neural Networks	Taiji Suzuki	The University of Tokyo, Tokyo, Japan / RIKEN AIP, Tokyo, Japan	Japan
+CPS_13: Deep Learning	Generalized Kernel Quadrature for Synthesizing Neural Networks	Sho Sonoda	RIKEN Center for Advanced Intelligence Project (AIP	NA
+CPS_13: Deep Learning	Generalized Kernel Quadrature for Synthesizing Neural Networks	, Tokyo, Japan	, Tokyo, Japan	Japan
+ITS_4: Visualization of Brain Computations: from Neurons to Behavior (Organized by Nobuhiko Asakura)	Visualizing Dynamics of Cooperative Activities of Neurons for Neural Coding Studies	Hideaki Shimazaki	Kyoto University, Kyoto, Japan	Japan
+ITS_4: Visualization of Brain Computations: from Neurons to Behavior (Organized by Nobuhiko Asakura)	Principles of FMRI Multivariate Analysis and Its Applications in Cognitive Neuroscience	Kenji Ogawa	Hokkaido University, Sapporo, Japan	Japan
+ITS_4: Visualization of Brain Computations: from Neurons to Behavior (Organized by Nobuhiko Asakura)	Visualizing Mental Template of Attractive Facial Images of Humans and Deep Neural Network	Tomoyuki Naito	Osaka University, Toyonaka, Japan	Japan
+ITS_4: Visualization of Brain Computations: from Neurons to Behavior (Organized by Nobuhiko Asakura)	Visualizing Mental Template of Attractive Facial Images of Humans and Deep Neural Network	Ryota Imai	Osaka University, Toyonaka, Japan	Japan
+ITS_4: Visualization of Brain Computations: from Neurons to Behavior (Organized by Nobuhiko Asakura)	Visualizing Mental Template of Attractive Facial Images of Humans and Deep Neural Network	Hiromichi Sato	Osaka University, Toyonaka, Japan	Japan
+ITS_7: Acadimia Sinica – Doshisha Univ Session 2 (Chair: Hiroshi Yadohisa)	An Attention Algorithm for Solving Large Scale Structured $l_{0}$-norm Penalized Estimation Problems	Tso-Jung Yen	Institute of Statistical Science, Academia Sinica, Taiwan	Taiwan
+ITS_7: Acadimia Sinica – Doshisha Univ Session 2 (Chair: Hiroshi Yadohisa)	An Attention Algorithm for Solving Large Scale Structured $l_{0}$-norm Penalized Estimation Problems	Yu-Min Yen	Department of International Business, National Chengchi University, Taiwan	Taiwan
+ITS_7: Acadimia Sinica – Doshisha Univ Session 2 (Chair: Hiroshi Yadohisa)	Statistical Methods and Active Learning	Yuan-chin Ivan Chang	Academia Sinica, Taipei, Taiwan, ROC	NA
+ITS_7: Acadimia Sinica – Doshisha Univ Session 2 (Chair: Hiroshi Yadohisa)	Robust Linear Discriminant Analysis Based on γ-divergence	Ting-Li Chen	Academinia Sinica, Taipei, Taiwan	Taiwan
+ITS_7: Acadimia Sinica – Doshisha Univ Session 2 (Chair: Hiroshi Yadohisa)	Robust Linear Discriminant Analysis Based on γ-divergence	Chih-Hsuan Wu	Academinia Sinica, Taipei, Taiwan	Taiwan
+ITS_7: Acadimia Sinica – Doshisha Univ Session 2 (Chair: Hiroshi Yadohisa)	Robust Linear Discriminant Analysis Based on γ-divergence	Wen-Shao Ho	National Taiwan University, Taipei, Taiwan	Taiwan
+CPS_14: Sparse Estimation	Shrinkage Estimator for the Precision Matrix and Its Optimization in Closed Form	Isamu Nagai	Chukyo University, Aichi, Japan	Japan
+CPS_14: Sparse Estimation	The De-biased Group Lasso Estimation for Varying Coefficient Models	Toshio Honda	Hitotsubashi Univeristy, Kunitachi, Japan	Japan
+CPS_14: Sparse Estimation	Sparse and Functional Principal Components Analysis	Michael Weylandt	Rice University, Houston, TX USA	USA
+CPS_14: Sparse Estimation	Sparse and Functional Principal Components Analysis	Genevera I. Allen	Rice University, Houston, TX USA	USA
+CPS_15: Regression	Interpreting Multiple Regression via an Ellipse Inscribed in a Square Extensible to Any Finite Dimensionality	Toshiyuki Shimono	Digital Garage, Inc., Tokyo, Japan	Japan
+CPS_15: Regression	Nonlinear Quantile Mixed-effect Models Based on Basis Expansions	Yuta Tanabe	Shizuoka University, Hamamatsu, Japan	Japan
+CPS_15: Regression	Nonlinear Quantile Mixed-effect Models Based on Basis Expansions	Yuko Araki	Shizuoka University, Hamamatsu, Japan	Japan
+CPS_15: Regression	Properties of the Ramp Function with Their Implications to an Activation Function in DNN	Takemi Yanagimoto	Institute of Statistical Mathematics, Tokyo, Japan	Japan
+CPS_15: Regression	Properties of the Ramp Function with Their Implications to an Activation Function in DNN	Kosuke Ohkusa	Kyushu University, Hakata, Japan	Japan
+CPS_15: Regression	Robust Penalized Empirical Likelihood Estimation Method for a Linear Regression Model	Olcay Arslan	Ankara University, Ankara, Turkey	Turkey
+CPS_15: Regression	Robust Penalized Empirical Likelihood Estimation Method for a Linear Regression Model	Senay Ozdemir	Afyon Kocatepe University, Afyon, Turkey	Turkey
+ITS_5: Jpn Stat Soc Session: Machine Learning and Statistics: Their Great Achievements and Grand Challenges (Organized by Takafumi Kanamori)	Characterizing Variability of Brain Connectivity with Constrained Principal Component Analysis	Jun-ichiro Hirayama	RIKEN Center for Advanced Intelligence Project (AIP	NA
+ITS_5: Jpn Stat Soc Session: Machine Learning and Statistics: Their Great Achievements and Grand Challenges (Organized by Takafumi Kanamori)	Characterizing Variability of Brain Connectivity with Constrained Principal Component Analysis	& ATR, Kyoto, Japan	& ATR, Kyoto, Japan	Japan
+ITS_5: Jpn Stat Soc Session: Machine Learning and Statistics: Their Great Achievements and Grand Challenges (Organized by Takafumi Kanamori)	Characterizing Variability of Brain Connectivity with Constrained Principal Component Analysis	Aapo Hyvärinen	INRIA-Saclay, Paris, France; University of Helsinki, Helsinki, Finland; RIKEN AIP, Kyoto, Japan	Japan
+ITS_5: Jpn Stat Soc Session: Machine Learning and Statistics: Their Great Achievements and Grand Challenges (Organized by Takafumi Kanamori)	Characterizing Variability of Brain Connectivity with Constrained Principal Component Analysis	Vesa Kiviniemi	Oulu University Hospital, Oulu, Finland	Finland
+ITS_5: Jpn Stat Soc Session: Machine Learning and Statistics: Their Great Achievements and Grand Challenges (Organized by Takafumi Kanamori)	Characterizing Variability of Brain Connectivity with Constrained Principal Component Analysis	Motoaki Kawanabe	Advanced Telecommunications Research Institute International & RIKEN AIP, Kyoto, Japan	Japan
+ITS_5: Jpn Stat Soc Session: Machine Learning and Statistics: Their Great Achievements and Grand Challenges (Organized by Takafumi Kanamori)	Characterizing Variability of Brain Connectivity with Constrained Principal Component Analysis	Okito Yamashita	Advanced Telecommunications Research Institute International & RIKEN AIP, Kyoto, Japan	Japan
+ITS_5: Jpn Stat Soc Session: Machine Learning and Statistics: Their Great Achievements and Grand Challenges (Organized by Takafumi Kanamori)	Compression Based Bound for Non-compressed Deep Neural Network Models and Their Data Adaptivity	Taiji Suzuki	The University of Tokyo, Tokyo, Japan / RIKEN AIP, Tokyo, Japan	Japan
+ITS_5: Jpn Stat Soc Session: Machine Learning and Statistics: Their Great Achievements and Grand Challenges (Organized by Takafumi Kanamori)	Machine Learning Approach to Topological Data Analysis	Kenji Fukumizu	The Institute of Statistical Mathematics, Tokyo, Japan	Japan
+ITS_8: Acadimia Sinica – Doshisha Univ Session 3 (Chair: Hsin-Cheng Huang)	A Two-Step Method for Quantifying Relationship Between Research Subjects in the Web of Science	Frederick Kin Hing Phoa	Institute of Statistical Science, Academia Sinica, Taiwan	Taiwan
+ITS_8: Acadimia Sinica – Doshisha Univ Session 3 (Chair: Hsin-Cheng Huang)	A Two-Step Method for Quantifying Relationship Between Research Subjects in the Web of Science	Hsin-Yi Lai	Department of Statistics, National Chiao Tung University, Taiwan	Taiwan
+ITS_8: Acadimia Sinica – Doshisha Univ Session 3 (Chair: Hsin-Cheng Huang)	A Two-Step Method for Quantifying Relationship Between Research Subjects in the Web of Science	Livia Lin-Hsuan Chang and Keisuke Honda	Institute of Statistical Mathematics, Tokyo, Japan	Japan
+ITS_8: Acadimia Sinica – Doshisha Univ Session 3 (Chair: Hsin-Cheng Huang)	Reliability and Validity of the Public Opinion Poll in Japan	Yuejun Zheng	Doshisha University,Kyoto, Japan	Japan
+ITS_8: Acadimia Sinica – Doshisha Univ Session 3 (Chair: Hsin-Cheng Huang)	Multiplicity Adjustment with Markov Property in Temporal and Spacial Epidemiology	Hisayuki Hara	Doshisha University, Kyoto, Japan	Japan
+CPS_16: Visualization 2	Exploratory Financial Big Data Analysis and Reproducible Research	Masayuki Jimichi	School of Business Administration, Kwansei Gakuin University, Nishinomiya, JAPAN	Japan
+CPS_16: Visualization 2	Exploratory Financial Big Data Analysis and Reproducible Research	Daisuke Miyamoto	Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, JAPAN	Japan
+CPS_16: Visualization 2	Exploratory Financial Big Data Analysis and Reproducible Research	Chika Saka	School of Business Administration, Kwansei Gakuin University, Nishinomiya, JAPAN	Japan
+CPS_16: Visualization 2	Exploratory Financial Big Data Analysis and Reproducible Research	Shuichi Nagata	School of Business Administration, Kwansei Gakuin University, Nishinomiya, JAPAN	Japan
+CPS_16: Visualization 2	Visualization of Corporate Tax Avoidance and Value Added Distribution: Exploratory Analysis of Financial Big Data	Chika Saka	School of Business Administration, Kwansei Gakuin University, Nishinomiya, JAPAN	Japan
+CPS_16: Visualization 2	Visualization of Corporate Tax Avoidance and Value Added Distribution: Exploratory Analysis of Financial Big Data	Masayuki Jimichi	School of Business Administration, Kwansei Gakuin University, Nishinomiya, JAPAN	Japan
+CPS_16: Visualization 2	Visualization and IdentiCation of Agonistic Interaction: Hepatitis B and C Interaction on Hepatocellular Carcinoma	Sheng-Hsuan Lin	National Chiao-Tung University , Institute of Statistics, Hsinchu, Taiwan	Taiwan
+CPS_16: Visualization 2	Mixture Hidden Markov Models to Detect the Engagement Dynamics of Mhealth Participants	S.S.M. Silva	Statistics, Data science and Epidemiology Department, Swinburne University of Technology, Hawthorn, VIC, Australia	Australia
+CPS_16: Visualization 2	Mixture Hidden Markov Models to Detect the Engagement Dynamics of Mhealth Participants	Denny Meyer	Statistics, Data science and Epidemiology Department, Swinburne University of Technology, Hawthorn, VIC, Australia	Australia
+CPS_16: Visualization 2	Mixture Hidden Markov Models to Detect the Engagement Dynamics of Mhealth Participants	Madawa W. Jayawardana	Statistics, Data science and Epidemiology Department, Swinburne University of Technology, Hawthorn, VIC, Australia	Australia
+ITS_9: Data Science: Fintech, Health and AlgorithmChen (Organized by Ying Chen)	Sparse-Group Independent Component Analysis with Application to Yield Curves Prediction	Ying Chen	National University of Singapore, Singapore, Singapore	Singapore
+ITS_9: Data Science: Fintech, Health and AlgorithmChen (Organized by Ying Chen)	Sparse-Group Independent Component Analysis with Application to Yield Curves Prediction	Linlin Niu	Xiamen University, Xiamen, China	China
+ITS_9: Data Science: Fintech, Health and AlgorithmChen (Organized by Ying Chen)	Sparse-Group Independent Component Analysis with Application to Yield Curves Prediction	Ray-Bing Chen	National Cheng Kung University, Tainan, Taiwan	Taiwan
+ITS_9: Data Science: Fintech, Health and AlgorithmChen (Organized by Ying Chen)	Sparse-Group Independent Component Analysis with Application to Yield Curves Prediction	Qiang He	National University of Singapore, Singapore, Singapore	Singapore
+ITS_9: Data Science: Fintech, Health and AlgorithmChen (Organized by Ying Chen)	Bayesian Modelling Weekly Dengue Hemorrhagic Fever Counts	Cathy W.S. Chen	Department of Statistics, Feng Chia University, Taiwan	Taiwan
+ITS_9: Data Science: Fintech, Health and AlgorithmChen (Organized by Ying Chen)	Bayesian Modelling Weekly Dengue Hemorrhagic Fever Counts	K. Khamthong	Department of Statistics, Feng Chia University, Taiwan	Taiwan
+ITS_9: Data Science: Fintech, Health and AlgorithmChen (Organized by Ying Chen)	A Fast MM Algorithm for Clusterpath	Patrick J.F. Groenen	Erasmus University Rotterdam, Rotterdam, The Netherlands	The Netherlands
+ITS_9: Data Science: Fintech, Health and AlgorithmChen (Organized by Ying Chen)	A Fast MM Algorithm for Clusterpath	Yoshikazu Terada	Osaka University, Osaka, Japan	Japan
+ITS_9: Data Science: Fintech, Health and AlgorithmChen (Organized by Ying Chen)	A Fast MM Algorithm for Clusterpath	Mariko Takagishi	Osaka University, Osaka, Japan	Japan
+ITS_9: Data Science: Fintech, Health and AlgorithmChen (Organized by Ying Chen)	A Fast MM Algorithm for Clusterpath	Tom van den Berg	Erasmus University Rotterdam, Rotterdam, The Netherlands	The Netherlands
+CPS_17: Mathematical Statistics	Asymptotic Distribution of Sample Correlation Coefficient Under Elliptical Population	Shigekazu Nakagawa	Okayama University of Science, Okayama, Japan	Japan
+CPS_17: Mathematical Statistics	Asymptotic Distribution of Sample Correlation Coefficient Under Elliptical Population	Hiroki Hashiguchi	Tokyo University of Science, Tokyo, Japan	Japan
+CPS_17: Mathematical Statistics	Asymptotic Distribution of Sample Correlation Coefficient Under Elliptical Population	Yoko Ono	Yokohama City University, Yokohama, Japan	Japan
+CPS_17: Mathematical Statistics	Inference on High-dimensional Mean Vectors Under Alternative Hypothesis	Hiroki Watanabe	Oita University of Nursing and Health Sciences, 2944-9 Megusuno, Oita-shi, Oita 870-1201, Japan	Japan
+CPS_17: Mathematical Statistics	Inference on High-dimensional Mean Vectors Under Alternative Hypothesis	Masashi Hyodo	Osaka Prefecture University, 1-1 Gakuen-cho, Naka-ku, Sakai-shi, Osaka 599-8531, Japan	Japan
+CPS_17: Mathematical Statistics	Inference on High-dimensional Mean Vectors Under Alternative Hypothesis	Takashi Seo	Tokyo University of Science, 1-3 Kagurazaka, Shinjuku-ku, Tokyo 162-8601, Japan	Japan
+CPS_17: Mathematical Statistics	A Model Selection Criterion for Missing Data with MAR Mechanism but NMAR for Its Subsets	Kenichi Hayashi	Keio University, Yokohama, Japan	Japan
+CPS_17: Mathematical Statistics	A Model Selection Criterion for Missing Data with MAR Mechanism but NMAR for Its Subsets	Keiji Takai	Kansai University, Suita, Japan	Japan
+CPS_18: Education and Philosophy for Data Science	Data Science As Mode 2 Science: Yokohama City University	Kazuyuki Koizumi	Yokohama City University, Yokohama, Japan	Japan
+CPS_18: Education and Philosophy for Data Science	Data Science As Mode 2 Science: Yokohama City University	Yoko Ono	Yokohama City University, Yokohama, Japan	Japan
+CPS_18: Education and Philosophy for Data Science	Data Science As Mode 2 Science: Yokohama City University	Masataka Taguri	Yokohama City University, Yokohama, Japan	Japan
+CPS_18: Education and Philosophy for Data Science	Data Science As Mode 2 Science: Yokohama City University	Jinfang Wang	Yokohama City University, Yokohama, Japan	Japan
+CPS_18: Education and Philosophy for Data Science	A Strategy of Data Science Education Related SDGs	Shizue Izumi	Shiga University, Hikone, Japan	Japan
+CPS_18: Education and Philosophy for Data Science	Philosophical Foundations of the Big Data Analysis and Data Driven Science	Yoshiyuki Takeuchi	Osaka University, Toyonaka, Japan	Japan
