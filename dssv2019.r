@@ -127,8 +127,10 @@ if (!file.exists(f)) {
   
   for (i in nrow(g):1) {
     
-    cat(str_pad(i, 3), g$affiliation[ i ])
-    j <- list(locate = i, geoit = "JSON")
+    j <- g$affiliation[ i ]
+    cat(str_pad(i, 3), j)
+    
+    j <- list(locate = j, geoit = "JSON")
     j <- try(httr::POST("https://geocode.xyz", body = j), silent = TRUE)
     
     if ("try-error" %in% class(j)) {
