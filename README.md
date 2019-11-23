@@ -1,3 +1,5 @@
+R code to extract information about statistics-related conferences.
+
 __Work in progress.__
 
 ## DSSV [2019](https://iasc-isi.org/dssv2019/)
